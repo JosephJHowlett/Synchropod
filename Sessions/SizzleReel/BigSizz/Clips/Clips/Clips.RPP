@@ -1,0 +1,594 @@
+<REAPER_PROJECT 0.1 "6.66/macOS-arm64" 1670184208
+  <NOTES 0 2
+  >
+  RIPPLE 2
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 3.13842838
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3198 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 636.09992584058512
+  ZOOM 0.43232201235772 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {F95A648B-3C6D-7047-9997-FF29527CA35A}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {FC0AA6F4-B8DD-EE4C-8AFD-022E6F1FC193}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 120.0000000000 1
+    PT 337.498132872781 120.0000000000 1
+    PT 341.251701018257 120.0000000000 1
+  >
+  <PROJBAY
+  >
+  <TRACK {C92F9D04-19BE-9246-8E4C-2C18286BF91B}
+    NAME Scrabble
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C92F9D04-19BE-9246-8E4C-2C18286BF91B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 18.80921189064081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4E46BC8-BA02-1F4B-88D3-DB7FCCC29FBA}
+      IID 9
+      NAME HaveYouToldALie_1
+      VOLPAN 1 0 1 -1
+      SOFFS 117.64866761274979
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AE2C911-A083-4C46-834D-B882A220B3AF}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Before Mapquest (Scrabble)/Audio/01_J_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.80921189067885
+      SNAPOFFS 0
+      LENGTH 3.94285103756624
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B78939B1-2806-9646-B716-97279D7173A1}
+      IID 14
+      NAME HaveYouToldALie_2
+      VOLPAN 1 0 1 -1
+      SOFFS 144.97852568081515
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {386E1E31-613C-4E4C-B6E3-D38547B0F25D}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Before Mapquest (Scrabble)/Audio/01_T_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.72246051649563
+      SNAPOFFS 0
+      LENGTH 12.30033066692545
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98CEB80C-5AF0-0B4C-B6DF-C6D84D19ED33}
+      IID 115
+      NAME ThaiJapanese
+      VOLPAN 1 0 1 -1
+      SOFFS 1805.5182858352139
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C16EA83A-4ACA-9641-BFE4-F7E3DBDB76F0}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Before Mapquest (Scrabble)/Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+  >
+  <TRACK {F3228BD6-4C58-0549-8B28-4772CB889ED4}
+    NAME Quaker
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F3228BD6-4C58-0549-8B28-4772CB889ED4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 36.48357860895339
+      SNAPOFFS 0
+      LENGTH 15.55986336105227
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D2619831-0232-5848-8487-0A6DE6A3F908}
+      IID 6
+      NAME "second sunday at church"
+      VOLPAN 1 0 1 -1
+      SOFFS 52.13022187122498
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C48E576D-9514-4D4C-A11E-39A460E377B7}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/quaker/Audio/05_EJT_BeforeQuakerMeeting_20220515.wav"
+      >
+    >
+  >
+  <TRACK {009003D2-DD63-1342-A447-FE24A389083C}
+    NAME "Map quest"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {009003D2-DD63-1342-A447-FE24A389083C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 52.05251065921038
+      SNAPOFFS 0
+      LENGTH 23.30756134826819
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F61B64A-3029-3F49-87AE-BD89F46176E9}
+      IID 7
+      NAME "east williamsburg rapture"
+      VOLPAN 1 0 1 -1
+      SOFFS 119.20883617411978
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37734532-FF29-4F4C-ABA0-78451E58BEF7}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Map Quest/Map quest/Audio/01_EJT_MapQuest_04092022_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 77.5867330909241
+      SNAPOFFS 0
+      LENGTH 11.074425533983
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F402BED-7FE8-2B4C-A63B-1CF6C1F7FDB0}
+      IID 8
+      NAME fudgecicles
+      VOLPAN 1 0 1 -1
+      SOFFS 1699.7227707177465
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED3CCCC8-48A1-B744-BD29-1ED18C6120FB}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Map Quest/Map quest/Audio/01_EJT_MapQuest_04092022_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 89.5622212208109
+      SNAPOFFS 0
+      LENGTH 7.30491842500182
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F6E694D6-1501-EB4A-9689-6860D3858211}
+      IID 7
+      NAME "those are geese"
+      VOLPAN 1 0 1 -1
+      SOFFS 710.22306189340566
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11C47F99-99F2-9645-AF04-C8164F63C56C}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Map Quest/Map quest/Audio/01_EJT_MapQuest_04092022_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 97.25025080970954
+      SNAPOFFS 0
+      LENGTH 24.61979304697182
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5B92184-6808-9A4F-960D-001839D95094}
+      IID 8
+      NAME "this is more 9"
+      VOLPAN 1 0 1 -1
+      SOFFS 1817.6899986195288
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A97CE50E-736D-7A46-855E-02A169DD5502}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Map Quest/Map quest/Audio/01_EJT_MapQuest_04092022_02.wav"
+      >
+    >
+  >
+  <TRACK {2A6C9CC1-E8DC-A742-959F-CEE82302EA79}
+    NAME Jung
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2A6C9CC1-E8DC-A742-959F-CEE82302EA79}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 121.90192142117303
+      SNAPOFFS 0
+      LENGTH 4.58705080178342
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1ABA47A2-FCA6-E640-86FC-374525D8E684}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 732.68893962531422
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09183DF9-3018-284B-9C70-C0F2F379FE64}
+      <SOURCE VIDEO
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Jung/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 126.48897222295645
+      SNAPOFFS 0
+      LENGTH 5.22316917826384
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1772875-0ED3-9E47-B2BA-7DB48A05C84B}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 737.27599042709767
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72CB1E3F-0408-7A41-ADAC-5CAF7CFB567C}
+      <SOURCE VIDEO
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Jung/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 131.71214140122029
+      SNAPOFFS 0
+      LENGTH 14.22048785561876
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3DD76C57-2785-FD49-861C-AA7A0B175153}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 763.24672231940042
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB035CB5-FCBE-3C44-AFC7-E4748525E82F}
+      <SOURCE VIDEO
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Jung/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 147.38384493752721
+      SNAPOFFS 0
+      LENGTH 16.20613423508146
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10FFF03F-3DC3-7D4B-AEE4-B9E89801E9D6}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 2025.1332182055457
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7945FC9D-1E50-3245-B543-6E44A88D01F7}
+      <SOURCE VIDEO
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Jung/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 163.58997917260868
+      SNAPOFFS 0
+      LENGTH 19.87741436876831
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B20B212-7B62-ED41-89C1-091D1D2D9C68}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 2041.3393524406272
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F06DF0F-5F4C-B242-83E2-B54EF4CF4B3F}
+      <SOURCE VIDEO
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Jung/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 185.4730481193202
+      SNAPOFFS 0
+      LENGTH 61.19951636579574
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A18C0BBD-BA5D-5043-ABC7-E14C9E1DE6D2}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 2509.0321331213954
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {845409B4-A752-F946-B962-1D1D98025B89}
+      <SOURCE VIDEO
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Jung/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+  >
+  <TRACK {9C13017B-C772-8049-AA2C-7BBD554F7772}
+    NAME Guillaume
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9C13017B-C772-8049-AA2C-7BBD554F7772}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 247.49451135764033
+      SNAPOFFS 0
+      LENGTH 5.30660323501218
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.135474 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA160E0D-16BC-2449-AAE7-3E78E8FA0DC7}
+      IID 52
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1254.0277090806528
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2672F6F-9B8A-F44E-8DC0-2577695E4A73}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Guillaume/Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 252.66564033989866
+      SNAPOFFS 0
+      LENGTH 9.4354214119075
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.135474 1 1 0 0
+      FADEOUT 1.1 0.01 0.065523 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB2438F8-A622-924B-B26C-67824F22C500}
+      IID 52
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1279.1238281930882
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {388A43A9-28E1-1A4E-81E3-6886DFF57F0D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Guillaume/Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 262.03553859712065
+      SNAPOFFS 0
+      LENGTH 3.75356814547609
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.065523 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E1B9E95-AE11-A543-85E0-A00BBFCE3BD3}
+      IID 52
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1341.5166666666669
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8B1B5B4-4B84-5F4A-A781-B8F81FCE6AD2}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Guillaume/Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+  >
+>
