@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.64/macOS-arm64" 1669760075
+<REAPER_PROJECT 0.1 "6.47/macOS-arm64" 1675898955
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0.0486060183038
-  ZOOM 1254.9886233991613 0 0
-  VZOOMEX 5 207
+  CURSOR 0
+  ZOOM 2.92323249582705 0 0
+  VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -103,8 +103,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -133,7 +134,7 @@
       CHANMODE 0
       GUID {5E2B22B9-6E07-A245-9019-439A70120DDB}
       <SOURCE WAVE
-        FILE "04_E_KarlaMcLarenInterview_20220219.wav"
+        FILE "Audio/04_E_KarlaMcLarenInterview_20220219.wav"
       >
     >
   >
@@ -149,8 +150,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -179,7 +181,7 @@
       CHANMODE 0
       GUID {9C168AE5-37D7-4F46-BBF8-AB780970FC34}
       <SOURCE WAVE
-        FILE "04_T_KarlaMcLarenInterview_20220219.wav"
+        FILE "Audio/04_T_KarlaMcLarenInterview_20220219.wav"
       >
     >
     <ITEM
@@ -201,7 +203,7 @@
       CHANMODE 0
       GUID {272DF468-1BAE-3A4C-A2F3-DA8AB0212425}
       <SOURCE WAVE
-        FILE "04_T_KarlaMcLarenInterview_20220219.wav"
+        FILE "Audio/04_T_KarlaMcLarenInterview_20220219.wav"
       >
     >
     <ITEM
@@ -223,7 +225,7 @@
       CHANMODE 0
       GUID {07E28A73-541F-D642-B1DC-36A7A8B781E2}
       <SOURCE WAVE
-        FILE "04_T_KarlaMcLarenInterview_20220219.wav"
+        FILE "Audio/04_T_KarlaMcLarenInterview_20220219.wav"
       >
     >
   >
@@ -239,8 +241,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -269,7 +272,7 @@
       CHANMODE 0
       GUID {3E6E17D8-3FB1-FA4B-9E05-10F06889543D}
       <SOURCE VIDEO
-        FILE "04_Zoom_KarlaMcLarenInterview_20220219.mp4"
+        FILE "Audio/04_Zoom_KarlaMcLarenInterview_20220219.mp4"
       >
     >
     <ITEM
@@ -291,7 +294,7 @@
       CHANMODE 0
       GUID {423EA2CC-DA60-0240-B40F-F699A0F87361}
       <SOURCE VIDEO
-        FILE "04_Zoom_KarlaMcLarenInterview_20220219.mp4"
+        FILE "Audio/04_Zoom_KarlaMcLarenInterview_20220219.mp4"
       >
     >
     <ITEM
@@ -313,7 +316,7 @@
       CHANMODE 0
       GUID {598B03E5-A9E6-CC48-AE9B-2CD91F8516F6}
       <SOURCE VIDEO
-        FILE "04_Zoom_KarlaMcLarenInterview_20220219.mp4"
+        FILE "Audio/04_Zoom_KarlaMcLarenInterview_20220219.mp4"
       >
     >
   >
@@ -329,8 +332,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -359,7 +363,7 @@
       CHANMODE 0
       GUID {E0EEE159-D5FC-B842-B309-4E885CD0D9AD}
       <SOURCE WAVE
-        FILE "04_T_KarlaMcLarenInterview_20220219.wav"
+        FILE "Audio/04_T_KarlaMcLarenInterview_20220219.wav"
       >
     >
   >
@@ -369,14 +373,15 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
-    REC 0 0 1 0 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -395,7 +400,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {7A7A2580-F23E-DF4F-AA5A-4C34F299BA79}
       IID 8
       NAME 04_Zoom_KarlaMcLarenInterview_20220219.mp4
@@ -405,7 +410,186 @@
       CHANMODE 0
       GUID {11ED8AEC-4D7A-6C41-AF05-5E5B47A4C574}
       <SOURCE VIDEO
-        FILE "04_Zoom_KarlaMcLarenInterview_20220219.mp4"
+        FILE "Audio/04_Zoom_KarlaMcLarenInterview_20220219.mp4"
+      >
+    >
+  >
+  <TRACK {D65EBE22-B1BE-BE49-89C4-73D5C35C1875}
+    NAME "Karla CONSOLIDATED"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D65EBE22-B1BE-BE49-89C4-73D5C35C1875}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 10.45868372773788
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE0F1485-32F3-544E-B868-1D0EED1CC660}
+      IID 2
+      NAME 04_T_KarlaMcLarenInterview_20220219.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4488.7940883842184
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D197B0E-A7BA-E046-AF7D-7436DE06E092}
+      <SOURCE WAVE
+        FILE "Audio/04_T_KarlaMcLarenInterview_20220219.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.72051841719076
+      SNAPOFFS 0
+      LENGTH 46.93504126589663
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D29A3216-F154-714B-BB0B-E9155FA8AFF1}
+      IID 8
+      NAME 04_Zoom_KarlaMcLarenInterview_20220219.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 251.733732621195
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EE248C4-C2ED-3E4B-8410-65C07F24F7CF}
+      <SOURCE VIDEO
+        FILE "Audio/04_Zoom_KarlaMcLarenInterview_20220219.mp4"
+      >
+    >
+    <ITEM
+      POSITION 60.06765688804444
+      SNAPOFFS 0
+      LENGTH 11.19743999999811
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF874C66-4A42-464F-A7BA-3CA8DBE3DD90}
+      IID 13
+      NAME 04_T_KarlaMcLarenInterview_20220219.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4196.0291328000021
+      PLAYRATE 1.00000000000017 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C9F68B8-1F2B-6244-8F31-44C04B6A900E}
+      <SOURCE WAVE
+        FILE "Audio/04_T_KarlaMcLarenInterview_20220219.wav"
+      >
+    >
+    <ITEM
+      POSITION 72.96022714697756
+      SNAPOFFS 0
+      LENGTH 7.53650828557301
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3187A436-A72F-A646-8F92-53E83968DCAD}
+      IID 15
+      NAME 04_Zoom_KarlaMcLarenInterview_20220219.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 4152.0930269205746
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8ED8B8EC-5429-884A-9F35-15D0F84C446E}
+      <SOURCE VIDEO
+        FILE "Audio/04_Zoom_KarlaMcLarenInterview_20220219.mp4"
+      >
+    >
+    <ITEM
+      POSITION 81.35993201262318
+      SNAPOFFS 0
+      LENGTH 33.66008531156852
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6FBBAD3C-A98A-104D-BFC6-7675F50CBBBE}
+      IID 1
+      NAME 04_T_KarlaMcLarenInterview_20220219.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 32.83730360893637
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9383CD7B-F6D6-0945-AC15-DFFB9F55116D}
+      <SOURCE WAVE
+        FILE "Audio/04_T_KarlaMcLarenInterview_20220219.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.130803316948
+      SNAPOFFS 0
+      LENGTH 10.96483987929024
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65B4CB14-6D90-8443-9592-56E565E3E94D}
+      IID 21
+      NAME 04_E_KarlaMcLarenInterview_20220219.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 57.02844692598802
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0CD0130-95A2-ED4B-99C8-0FA4B390A8AB}
+      <SOURCE WAVE
+        FILE "Audio/04_E_KarlaMcLarenInterview_20220219.wav"
+      >
+    >
+    <ITEM
+      POSITION 129.41405752301216
+      SNAPOFFS 0
+      LENGTH 69.28044211742645
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {5C7C4425-3282-C74A-BDCC-3555049EEF5C}
+      IID 4
+      NAME 04_Zoom_KarlaMcLarenInterview_20220219.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 1752.1150995814883
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0B0C368-FD0A-0D4B-9299-347504B9011D}
+      <SOURCE VIDEO
+        FILE "Audio/04_Zoom_KarlaMcLarenInterview_20220219.mp4"
       >
     >
   >
@@ -421,8 +605,9 @@
     ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -451,7 +636,7 @@
       CHANMODE 0
       GUID {5520620E-D509-DD4B-BF9E-579C4222C155}
       <SOURCE WAVE
-        FILE "04_T_KarlaMcLarenInterview_20220219.wav"
+        FILE "Audio/04_T_KarlaMcLarenInterview_20220219.wav"
       >
     >
   >
@@ -467,8 +652,9 @@
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -497,7 +683,7 @@
       CHANMODE 0
       GUID {45DE6711-1476-C846-A196-807018735CFD}
       <SOURCE VIDEO
-        FILE "04_Zoom_KarlaMcLarenInterview_20220219.mp4"
+        FILE "Audio/04_Zoom_KarlaMcLarenInterview_20220219.mp4"
       >
     >
   >
@@ -513,8 +699,9 @@
     ISBUS 1 1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -543,7 +730,7 @@
       CHANMODE 0
       GUID {6B3CA425-B5ED-F644-B95A-1AE95622EBF4}
       <SOURCE WAVE
-        FILE "04_T_KarlaMcLarenInterview_20220219.wav"
+        FILE "Audio/04_T_KarlaMcLarenInterview_20220219.wav"
       >
     >
   >
@@ -559,8 +746,9 @@
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -589,7 +777,7 @@
       CHANMODE 0
       GUID {A3FAE207-9E40-BB4B-A2DC-28828ED9FD33}
       <SOURCE WAVE
-        FILE "04_E_KarlaMcLarenInterview_20220219.wav"
+        FILE "Audio/04_E_KarlaMcLarenInterview_20220219.wav"
       >
     >
   >
@@ -599,14 +787,15 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -635,7 +824,7 @@
       CHANMODE 0
       GUID {848C1B64-124E-4744-BC1E-2D411B77F002}
       <SOURCE VIDEO
-        FILE "04_Zoom_KarlaMcLarenInterview_20220219.mp4"
+        FILE "Audio/04_Zoom_KarlaMcLarenInterview_20220219.mp4"
       >
     >
   >

@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.64/macOS-arm64" 1667619616
+<REAPER_PROJECT 0.1 "6.47/macOS-arm64" 1675901160
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 237.50790874047135
-  ZOOM 0.86312915257069 0 0
-  VZOOMEX 7 0
+  CURSOR 201.03423190010432
+  ZOOM 0.54717049410102 0 0
+  VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -103,8 +103,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -133,7 +134,7 @@
       CHANMODE 0
       GUID {C8794797-C034-FF46-800F-73BDF734A18C}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -155,7 +156,7 @@
       CHANMODE 0
       GUID {974BFBF4-82C9-6346-AB9B-34B6152ADAAD}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -177,7 +178,7 @@
       CHANMODE 0
       GUID {D7FC0376-5767-344B-BA8A-0C118209145E}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -199,7 +200,7 @@
       CHANMODE 0
       GUID {3A43FEFA-A01F-7D49-AF20-34D3CE719575}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -221,7 +222,7 @@
       CHANMODE 0
       GUID {4A909B50-F071-9041-B903-026CF4196A31}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -243,7 +244,7 @@
       CHANMODE 0
       GUID {B120B6AD-9BA6-8843-B6AE-D1543AD54226}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -265,7 +266,7 @@
       CHANMODE 0
       GUID {D85CE41B-FAC5-0B42-9AD9-E1ADD0762326}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -287,7 +288,7 @@
       CHANMODE 0
       GUID {DDF9630E-767B-104D-8BEE-A9307AA2AA82}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -309,7 +310,7 @@
       CHANMODE 0
       GUID {C4D73809-AA41-1540-BE4C-C0EBAEC670F8}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -331,7 +332,7 @@
       CHANMODE 0
       GUID {D1793448-2A01-ED46-AE63-3218AEDA0B27}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -353,7 +354,7 @@
       CHANMODE 0
       GUID {F24BEB1C-9543-824A-BD96-8C0059731A74}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -375,7 +376,7 @@
       CHANMODE 0
       GUID {0D61DDDC-78E1-5A41-B46F-45FDD6CB736A}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -397,7 +398,7 @@
       CHANMODE 0
       GUID {8931452A-9195-D04A-AC5E-050E4C0FB123}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -419,7 +420,7 @@
       CHANMODE 0
       GUID {27F2CFB7-C178-E249-81FC-908F4F0EC652}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -441,7 +442,7 @@
       CHANMODE 0
       GUID {BA2EF266-E0DB-4443-A8CD-EEFD373636B9}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -463,7 +464,7 @@
       CHANMODE 0
       GUID {EC7CEE8B-CB4F-FE44-B0FD-1F0A39D21255}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -485,7 +486,7 @@
       CHANMODE 0
       GUID {B985E2D7-0C54-D243-BE56-E95B26855581}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -507,7 +508,7 @@
       CHANMODE 0
       GUID {F4508F9A-8736-1449-AE33-D22427ADF7CA}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -529,7 +530,7 @@
       CHANMODE 0
       GUID {BEA2307A-96E4-FA49-AA53-6F501EC2C6D0}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -551,7 +552,7 @@
       CHANMODE 0
       GUID {5A274509-0871-7D4F-92F0-CEB4BA388001}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -573,7 +574,7 @@
       CHANMODE 0
       GUID {B44F6070-4128-DF47-A86B-6590889F40C3}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -595,7 +596,7 @@
       CHANMODE 0
       GUID {959C9E75-B3A4-FC43-8E10-5285DD5C9556}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -617,7 +618,7 @@
       CHANMODE 0
       GUID {5B5EAEF1-BD5A-2E4A-9247-7230B288DC80}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -639,7 +640,7 @@
       CHANMODE 0
       GUID {729E3592-FC42-0244-94F7-E516705F0314}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -661,7 +662,7 @@
       CHANMODE 0
       GUID {68CA3DAF-D6BB-A440-B92B-17C2D7B42AF6}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -683,7 +684,7 @@
       CHANMODE 0
       GUID {C1315997-2082-9C4A-92CE-4E9F38140063}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -705,7 +706,7 @@
       CHANMODE 0
       GUID {17914938-6F6F-5E49-9366-0E5E4EF6B09B}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -727,7 +728,7 @@
       CHANMODE 0
       GUID {6A361330-3794-574D-8454-F2E706695220}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -743,8 +744,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -773,7 +775,7 @@
       CHANMODE 0
       GUID {1704FBE9-8577-1F47-A36E-2391910EC941}
       <SOURCE WAVE
-        FILE "01_E_JungPodInterview_20220202.wav"
+        FILE "Audio/01_E_JungPodInterview_20220202.wav"
       >
     >
   >
@@ -789,8 +791,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -819,7 +822,7 @@
       CHANMODE 0
       GUID {494BB135-BBAD-3F41-9B9E-5000C707DB24}
       <SOURCE WAVE
-        FILE "01_J_JungPodInterview_20220202.wav"
+        FILE "Audio/01_J_JungPodInterview_20220202.wav"
       >
     >
   >
@@ -835,8 +838,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -865,7 +869,340 @@
       CHANMODE 0
       GUID {C7DCE06F-DAEB-494B-A60F-3132256E2C77}
       <SOURCE WAVE
-        FILE "01_T_JungPodInterview_20220202.wav"
+        FILE "Audio/01_T_JungPodInterview_20220202.wav"
+      >
+    >
+  >
+  <TRACK {FC47563F-EF3E-2E41-8DCD-1B310DDE4D5F}
+    NAME "Jung CONSOLIDATED"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FC47563F-EF3E-2E41-8DCD-1B310DDE4D5F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 53.89364998182324
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F22F19DD-20FA-7E4F-91AE-3AA4B6ED9CF4}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 723.57356019319593
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D0C5B2C-E158-E249-A260-3573C6771C51}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 56.36671671702061
+      SNAPOFFS 0
+      LENGTH 78.66790690540552
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28F1CF9D-CB0A-CB4C-BA31-77F9C401C51F}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 1525.755827903381
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D30EE242-4DFF-B447-8D86-A112528612FA}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 138.13815082760993
+      SNAPOFFS 0
+      LENGTH 36.08354860384966
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA005DC3-5F50-7043-B22F-91FB4F6F2F0D}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 2025.1332182055457
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5F05971-68E4-754E-9CB4-7343B07D476D}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 176.64217562729027
+      SNAPOFFS 0
+      LENGTH 100.1602052069918
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F08779B9-99F3-9C40-A59A-D009BE53CA9C}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 2470.0714442801991
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58930245-CA3C-F24D-993A-07B5A08C4225}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 279.05494262021966
+      SNAPOFFS 0
+      LENGTH 14.36561121766863
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0F35656-D740-F54F-9299-1DEF28AAFE8B}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 2702.484747616209
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4D4E967-3687-7E4F-95E9-59E8495CC33C}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 295.72678840975277
+      SNAPOFFS 0
+      LENGTH 10.13122981490909
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8D0B0B4-92AC-5843-AC0A-9439CF1B9089}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 4278.7850750031494
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CA45E6D-8327-BB42-8771-700CA7859912}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 313.67775656597223
+      SNAPOFFS 0
+      LENGTH 11.84910851865607
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92DAA97D-EC21-A941-A2E7-F69DA76C1711}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 4714.2796338011958
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {990DDCE9-4C19-B042-A406-E9224ABA73DC}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 327.27896010269484
+      SNAPOFFS 0
+      LENGTH 7.89053888967555
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F781B31-3350-CF49-8A68-4E783D22DC24}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 4703.3297611960488
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90D47463-AA18-E241-BECA-F57FABA22A89}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 340.88016363943012
+      SNAPOFFS 0
+      LENGTH 8.15650617270421
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B003EB9-F92B-3449-AC3A-45052A0641F0}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 2422.8774581595426
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75A3BEAF-FB20-D14F-83D4-D1332FA91631}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 356.39119586767629
+      SNAPOFFS 0
+      LENGTH 7.60198917621983
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AA4D458-D626-794D-97A0-022785608757}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 3945.3216345453579
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB7FB3C5-363F-1045-A27E-F7FB2C111703}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 366.2124052265998
+      SNAPOFFS 0
+      LENGTH 10.19339979433948
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F7B6847-5B6A-EB40-AF00-7C2A6616ADCE}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 1862.1866907306855
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6713CBC0-4919-4448-AD05-D542091C198B}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 379.47357867491678
+      SNAPOFFS 0
+      LENGTH 13.07279530131791
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C7B3E5A-00DC-A74A-98B7-CE8DF97F9B90}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 1941.3137383301296
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D3D4FCC-0D70-D248-A5EE-FD9BF80FEE35}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 396.30506805162679
+      SNAPOFFS 0
+      LENGTH 18.91444607122992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B99503A-5801-584E-8024-E27B35E7DC60}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 1638.4384780822481
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9EAA4340-90A1-1F42-8641-EB82AA737256}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
+      >
+    >
+    <ITEM
+      POSITION 418.74705388724016
+      SNAPOFFS 0
+      LENGTH 109.22705891211621
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BDB2667-136F-7C43-B0B2-8E3BAE7F9A03}
+      IID 4
+      NAME 01_Zoom_JungPodInterview_20220202.mp4
+      VOLPAN 1 0 1 -1
+      SOFFS 4594.1027022839335
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C31346E6-7949-0441-B077-AB3256D513BD}
+      <SOURCE VIDEO
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -881,8 +1218,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
-    REC 0 0 1 0 0 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -911,7 +1249,7 @@
       CHANMODE 0
       GUID {DA00F975-B72A-B14B-8C32-D6A8FB14969F}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -927,8 +1265,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -957,7 +1296,7 @@
       CHANMODE 0
       GUID {E4B7C614-9095-8F4E-9184-8B635419F3A8}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -973,8 +1312,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1003,7 +1343,7 @@
       CHANMODE 0
       GUID {D0D099E2-E8DB-C146-8502-4ABACBEA170E}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1019,8 +1359,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1049,7 +1390,7 @@
       CHANMODE 0
       GUID {6DDBAD4D-D3E9-4C4B-A8DB-FE8359B8FE7B}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1065,8 +1406,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1095,7 +1437,7 @@
       CHANMODE 0
       GUID {C658659A-FF38-CF4C-9A95-8215FEBC23D8}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1111,8 +1453,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1141,7 +1484,7 @@
       CHANMODE 0
       GUID {FC060FD3-2DEA-8648-A704-5E37E4F0688E}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1157,8 +1500,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1187,7 +1531,7 @@
       CHANMODE 0
       GUID {0731C5AE-13C0-D342-8A39-8DFCF505000B}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1203,8 +1547,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1233,7 +1578,7 @@
       CHANMODE 0
       GUID {C8BC6000-3210-6C41-B7F5-BE99975ED8C1}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1249,8 +1594,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1279,7 +1625,7 @@
       CHANMODE 0
       GUID {465BC42F-484E-0C45-AAE1-8E212FC65EAA}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1295,8 +1641,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1325,7 +1672,7 @@
       CHANMODE 0
       GUID {AD162B04-C67F-C64B-A22B-0DA161301D24}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1341,8 +1688,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1371,7 +1719,7 @@
       CHANMODE 0
       GUID {DD86011B-754E-C745-B344-BA882646399F}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1387,8 +1735,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1417,7 +1766,7 @@
       CHANMODE 0
       GUID {7DADBE7C-2E9D-F24A-989C-B204298A8BF9}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1433,8 +1782,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1463,7 +1813,7 @@
       CHANMODE 0
       GUID {B216FADF-DEA1-FE43-9D22-DD73B22F0494}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -1479,8 +1829,9 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 1 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1509,7 +1860,7 @@
       CHANMODE 0
       GUID {C6626A33-B333-0F44-9643-93BE6725D9F9}
       <SOURCE VIDEO
-        FILE "01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
