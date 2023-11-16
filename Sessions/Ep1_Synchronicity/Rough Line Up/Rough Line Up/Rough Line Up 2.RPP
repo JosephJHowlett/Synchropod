@@ -1,0 +1,2941 @@
+<REAPER_PROJECT 0.1 "6.77/macOS-arm64" 1699127288
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 2
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 3.13842838
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 2560
+  ZOOM 0.11096571105923 0 0
+  VZOOMEX 0 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN "synchro pre god pieces"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 6272 5632
+  SELECTION2 6272 5632
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {0C3DD13E-74B3-7145-9638-7E35094EFE64}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {7EB13B1D-9916-0D41-A493-5B762B22B891}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {83C347BC-4ACA-8243-A054-352CBD405763}
+    NAME "VOG J"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {83C347BC-4ACA-8243-A054-352CBD405763}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 218.1212397835061
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {622FAABC-473C-3D40-9E20-91B7B0CCF647}
+      IID 23
+      NAME 01-231015_1315.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 18.30887313502626
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {694B513C-970E-1D41-B20E-ED324317E49D}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-231015_1315.wav"
+      >
+    >
+    <ITEM
+      POSITION 299.99412105674855
+      SNAPOFFS 0
+      LENGTH 77.45806115070627
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {66E37359-6E27-A243-9F5C-2FBF712317BC}
+      IID 23
+      NAME 01-231015_1315.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 322.20060642415683
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AB5E374-9BE4-CC4D-B26C-FA2E7F6CAE77}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-231015_1315.wav"
+      >
+    >
+    <ITEM
+      POSITION 377.45218220737297
+      SNAPOFFS 0
+      LENGTH 237.83561232230386
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {0EAEF54E-46B9-7341-B06A-8B984A06C008}
+      IID 23
+      NAME 01-231015_1315.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 468.11455456883732
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {562F1B76-CE97-5249-9C77-8F23661E9158}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-231015_1315.wav"
+      >
+    >
+  >
+  <TRACK {4C37B3E3-DE79-C442-B98A-0FE8A49BAD8B}
+    NAME "VOG E"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4C37B3E3-DE79-C442-B98A-0FE8A49BAD8B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 218.1212397835061
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {BC33B948-FA4C-8043-949D-C77DFCDDE105}
+      IID 14
+      NAME 01_E_VoG_20231015_09.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 20.36423950096514
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E6E163B-B70C-8A44-A22F-AC5716BD61A6}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01_E_VoG_20231015_09.wav"
+      >
+    >
+    <ITEM
+      POSITION 299.99412105674855
+      SNAPOFFS 0
+      LENGTH 77.45806115070627
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B92BFCF8-46B6-EB4B-90AF-D66B2DDBEDDC}
+      IID 14
+      NAME 01_E_VoG_20231015_09.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 324.25597279009571
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04AFDD16-5441-E944-A4CE-A5F86454E8F7}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01_E_VoG_20231015_09.wav"
+      >
+    >
+    <ITEM
+      POSITION 377.45218220737297
+      SNAPOFFS 0
+      LENGTH 237.83561232230386
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {CCF8829B-4BD9-6C48-A370-0935B8ED391B}
+      IID 14
+      NAME 01_E_VoG_20231015_09.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 470.1699209347762
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28DD172D-016C-834C-95D5-997FAA65497A}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01_E_VoG_20231015_09.wav"
+      >
+    >
+  >
+  <TRACK {953106C9-AB68-1246-9705-DCFCA1B98829}
+    NAME "VOG T"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {953106C9-AB68-1246-9705-DCFCA1B98829}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 218.1212397835061
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B6EC9A12-734F-CC4B-A18C-B83CABF0CCD3}
+      IID 4
+      NAME 01-01_T_VoG_20231015-231015_1615.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 16.25176666924426
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4020A2A1-0E81-C248-90A8-4366B6765E2D}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-01_T_VoG_20231015-231015_1615.wav"
+      >
+    >
+    <ITEM
+      POSITION 299.99412105674855
+      SNAPOFFS 0
+      LENGTH 77.45806115070627
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {2340968E-B284-9C47-943B-0A5CDA1A14E8}
+      IID 4
+      NAME 01-01_T_VoG_20231015-231015_1615.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 320.14349995837483
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE52D5D3-8E50-3949-A64F-C11BB0F005D4}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-01_T_VoG_20231015-231015_1615.wav"
+      >
+    >
+    <ITEM
+      POSITION 377.45218220737297
+      SNAPOFFS 0
+      LENGTH 237.83561232230386
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {DC1D9EB4-A95B-594C-9868-15441EC526FB}
+      IID 4
+      NAME 01-01_T_VoG_20231015-231015_1615.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 466.05744810305532
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CD8452F-89D1-9C4E-ABDD-97D98193DAD3}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-01_T_VoG_20231015-231015_1615.wav"
+      >
+    >
+  >
+  <TRACK {12C78F28-2D14-324C-ACDE-937821E9D762}
+    NAME Failures
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {12C78F28-2D14-324C-ACDE-937821E9D762}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 832
+      SNAPOFFS 0
+      LENGTH 1115.6530385487529
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {6787096D-B7D2-CE4D-A1E7-94B9FE5FCE00}
+      IID 1
+      NAME allfails_short.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C65ACD59-C611-574B-A014-74F011D16ACB}
+      <SOURCE MP3
+        FILE "/Users/germain/Library/Messages/Attachments/51/01/363BC507-DAE8-4ADA-98F2-C8B91429FC7A/allfails_short.mp3" 1
+      >
+    >
+  >
+  <TRACK {C98AC075-E2CC-F348-847F-44EE765CE541}
+    NAME "Book Explainer J"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C98AC075-E2CC-F348-847F-44EE765CE541}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1984
+      SNAPOFFS 0
+      LENGTH 656.59023308631822
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {BC780ADE-CBDA-DA47-AE8E-96E33EA547DD}
+      IID 24
+      NAME 01-231015_1330.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 15.79472524701578
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57BA8219-3F8A-D144-B581-305427930FEE}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-231015_1330.wav"
+      >
+    >
+  >
+  <TRACK {AADFC93C-F65E-B747-AF6E-470D56D49527}
+    NAME "Book Explainer E"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AADFC93C-F65E-B747-AF6E-470D56D49527}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1984
+      SNAPOFFS 0
+      LENGTH 654.50742580777205
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {4226D732-2CCC-B542-8817-AEDC68C72A04}
+      IID 15
+      NAME 01_E_VoG_20231015_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 26.01698565054176
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4589A24-60AE-C641-A805-87E7370D779B}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01_E_VoG_20231015_10.wav"
+      >
+    >
+  >
+  <TRACK {75D96F65-F31B-4D47-A0C3-F99F95C2F39A}
+    NAME "Book Explainer T"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {75D96F65-F31B-4D47-A0C3-F99F95C2F39A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1984
+      SNAPOFFS 0
+      LENGTH 654.6022737983285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {14F19CC3-CBA6-8A4F-A440-E8A3741606F9}
+      IID 5
+      NAME 01-01_T_VoG_20231015-231015_1630.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 17.19945536832347
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C718FB46-F025-484E-8026-1A479FE136FF}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-01_T_VoG_20231015-231015_1630.wav"
+      >
+    >
+  >
+  <TRACK {95F97509-38E1-B443-9590-2A707CA51538}
+    NAME "Jungian Podcasters"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {95F97509-38E1-B443-9590-2A707CA51538}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2688
+      SNAPOFFS 0
+      LENGTH 612.4012798562344
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {46A81131-FE36-EB40-A1CF-D5FBBE8F1807}
+      IID 2
+      NAME "Jungian Podcasters.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E598CE52-A720-CF4E-9743-E698BB126A22}
+      <SOURCE MP3
+        FILE "/Users/germain/Library/Messages/Attachments/14/04/96067855-5DB1-4D78-8320-21FE47201F9C/Jungian Podcasters.mp3" 1
+      >
+    >
+  >
+  <TRACK {239E6E06-1E5D-644D-ABA1-F46C1AECC8F7}
+    NAME Meditation
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {239E6E06-1E5D-644D-ABA1-F46C1AECC8F7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3301.0203834897766
+      SNAPOFFS 0
+      LENGTH 148.47733113553022
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {260DBB45-3D5B-4049-BC8A-2F956E8AC566}
+      IID 5
+      NAME 01_J_FirstRandomOneMinuteMeditation_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9426F022-FAC4-1242-9151-FF6D7FE5A71A}
+      <SOURCE WAVE
+        FILE `/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/"Randoms 1" 3-12-22/Meditation/01_J_FirstRandomOneMinuteMeditation_20220312.wav`
+      >
+    >
+  >
+  <TRACK {615CFA3A-70BE-1D46-999E-62C6763C8717}
+    NAME "T Dart "
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {615CFA3A-70BE-1D46-999E-62C6763C8717}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3449.9205402709831
+      SNAPOFFS 0
+      LENGTH 1.5888206660753
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.250646 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {AC058F27-DF07-FD46-AC24-E9E396D1331A}
+      IID 46
+      NAME 01_T_RandEventsMapDartThrow_20220327_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 34.02575153598877
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95898EA3-1BB0-7840-9A67-6811A2279496}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3463.5210650572608
+      SNAPOFFS 0
+      LENGTH 6.49609976925017
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01419 0 1 0 0 0
+      FADEOUT 1 0.030799 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {D5E1C8AD-5076-F54A-9D4E-8C21523F1ED6}
+      IID 46
+      NAME 01_T_RandEventsMapDartThrow_20220327_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 72.41415411859248
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FC459A2-A7F1-4A45-A548-C62DFDE7A300}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3476.5136871775667
+      SNAPOFFS 0
+      LENGTH 2.52444318867428
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.245802 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {76214A97-3C0F-0D4C-B5D7-E2B6FCC6674E}
+      IID 46
+      NAME 01_T_RandEventsMapDartThrow_20220327_01.wav
+      VOLPAN 1.258925 0 1 -1
+      SOFFS 48.63373921265604
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EED239D8-14FD-8946-8359-2FD3D75DD203}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3479.0381303661325
+      SNAPOFFS 0
+      LENGTH 1.84561714577273
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {D5F9DF44-F400-B14B-A15E-FF74ADB64794}
+      IID 91
+      NAME 01_T_RandEventsMapDartThrow_20220327_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 102.0693568962796
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5ED2D31E-2EF0-8648-8BE5-FDBE9B80539D}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3480.883747511898
+      SNAPOFFS 0
+      LENGTH 0.62951158630718
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {BBB27D7E-FD4F-484A-A061-64C3E3C722D0}
+      IID 91
+      NAME 01_T_RandEventsMapDartThrow_20220327_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 104.41002439987335
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3295B025-CE58-1140-A13A-9FFC6D50945F}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3481.5132590982885
+      SNAPOFFS 0
+      LENGTH 2.3780573510171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.262058 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {5DDA1DE5-C30C-0447-AF3E-7F514BEDD4FC}
+      IID 91
+      NAME 01_T_RandEventsMapDartThrow_20220327_01.wav
+      VOLPAN 0.891251 0 1 -1
+      SOFFS 106.49618482744654
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A66516BB-E979-B24E-B8C5-724DF477EB98}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3487.4847379886833
+      SNAPOFFS 0
+      LENGTH 2.31153233095383
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.371434 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {AD9DF7C4-DC62-0649-9871-EA2EF2CFA66A}
+      IID 91
+      NAME 01_T_RandEventsMapDartThrow_20220327_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 112.46766371785223
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1BD06137-AD26-CB45-86EF-8468115CFA04}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3489.7962703196154
+      SNAPOFFS 0
+      LENGTH 1.4584621698515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.033497 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {65117CB4-C48F-8E45-80B5-9B1237668E7D}
+      IID 91
+      NAME 01_T_RandEventsMapDartThrow_20220327_01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 114.77919604880606
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B24FE10-2196-414B-A73C-140FC5D99CCA}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3494.5985981975737
+      SNAPOFFS 0
+      LENGTH 1.52782769020286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {F1CD3CDD-7484-934D-B256-433A910522FE}
+      IID 1503
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1.258925 0 1 -1
+      SOFFS 20.9020145042353
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3B2722B-463E-B94D-A38A-88B5039E632A}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+      <VOLENV
+        EGUID {1C702443-4D17-9948-B0CA-E73675636303}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        VOLTYPE 1
+        PT 0 1.44543977 0
+        PT 1.52782769 1.44543977 0
+      >
+    >
+    <ITEM
+      POSITION 3496.1264258878127
+      SNAPOFFS 0
+      LENGTH 0.41421292275449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {6685AC4E-68A6-CD47-A306-E601E179641A}
+      IID 1503
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1.258925 0 1 -1
+      SOFFS 22.42984219443816
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2809F098-51BF-994E-AA0B-A4F90D444F11}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+      <VOLENV
+        EGUID {616B60BE-766B-F544-B086-EF9B026838D3}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        VOLTYPE 1
+        PT 0 1.44543977 0
+      >
+    >
+    <ITEM
+      POSITION 3496.5406388106112
+      SNAPOFFS 0
+      LENGTH 0.41421292275449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {38C7DE28-0B42-B648-9D88-0D64A11E4244}
+      IID 1503
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1.258925 0 1 -1
+      SOFFS 22.42984219443816
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAD276C2-9BAF-944E-AAF7-5310CE5E2EDE}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+      <VOLENV
+        EGUID {616B60BE-766B-F544-B086-EF9B026838D3}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        VOLTYPE 1
+        PT 0 1.44543977 0
+      >
+    >
+    <ITEM
+      POSITION 3496.9548517334097
+      SNAPOFFS 0
+      LENGTH 0.41421292275449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {FFEC2049-DFD2-C64A-85BF-16D0117985DA}
+      IID 1503
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1.258925 0 1 -1
+      SOFFS 22.42984219443816
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD870785-2197-BF48-BADB-03817D4C109F}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+      <VOLENV
+        EGUID {616B60BE-766B-F544-B086-EF9B026838D3}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        VOLTYPE 1
+        PT 0 1.44543977 0
+      >
+    >
+    <ITEM
+      POSITION 3497.3690646562081
+      SNAPOFFS 0
+      LENGTH 0.41421292275449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {90530CF2-4210-C043-99BF-03FB694D477B}
+      IID 1503
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1.258925 0 1 -1
+      SOFFS 22.42984219443816
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D7A55F2-C7A7-724F-9582-AAD7EC61A8EE}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+      <VOLENV
+        EGUID {616B60BE-766B-F544-B086-EF9B026838D3}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        VOLTYPE 1
+        PT 0 1.44543977 0
+      >
+    >
+    <ITEM
+      POSITION 3497.783277578963
+      SNAPOFFS 0
+      LENGTH 1.52280807658462
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {0F63540E-CB50-EC42-866D-31CD37C80EE1}
+      IID 1503
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 20.9020145042353
+      PLAYRATE 1.00000000000048 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71C03DBA-3AD7-784A-A9CB-9B84CA414083}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+      <VOLENV
+        EGUID {1C702443-4D17-9948-B0CA-E73675636303}
+        ACT 1 -1
+        VIS 1 1 1
+        LANEHEIGHT 0 0
+        ARM 0
+        DEFSHAPE 0 -1 -1
+        VOLTYPE 1
+        PT 0 1.44543977 0
+      >
+    >
+    <ITEM
+      POSITION 3499.3060856555439
+      SNAPOFFS 0
+      LENGTH 1.93186432057985
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {F811E403-B52A-7641-98C0-00352E54C25F}
+      IID 1565
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1.778279 0 1 -1
+      SOFFS 22.5681774469884
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D565A8EF-AD7F-224C-B1B0-75F71D766263}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3501.2379499760773
+      SNAPOFFS 0
+      LENGTH 2.32490173198482
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.114553 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {725F14D0-9A3D-4749-90CE-9F6EA0D58CAF}
+      IID 1565
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 24.50004176756825
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {100C2991-2F93-6A4E-8DFB-ED8BE209AC56}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3503.5628517081113
+      SNAPOFFS 0
+      LENGTH 5.02021209721738
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {6B1CDA89-2B5B-5F46-B228-70102CBEC9C2}
+      IID 168
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 27.80023471566299
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {630FC5C1-79C6-8343-B9F2-0C1FF452C399}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3508.5830638053212
+      SNAPOFFS 0
+      LENGTH 1.06782904907755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0 0.065545 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {309A9CD7-7DF4-D54B-BAE7-CD3E12EC49EB}
+      IID 168
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 32.82044681288038
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE5F6E72-4290-244F-9D41-472240770123}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3509.5853483520532
+      SNAPOFFS 0
+      LENGTH 1.24998068000139
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.065545 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {7EE8C5D0-236B-A642-B8B1-FC3FA4C85C80}
+      IID 168
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 36.81133444804203
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C27C3A4F-6F70-CA41-AD07-B2869FE6E3AE}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3510.8353290321156
+      SNAPOFFS 0
+      LENGTH 0.98036975339528
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {2B288ADD-01DF-4340-A312-5D6755F89A90}
+      IID 168
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 38.06131512804342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0213933-40E3-BF47-B799-76EC09EAD9E3}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3511.8156987855527
+      SNAPOFFS 0
+      LENGTH 2.41632796169244
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {1912FBF8-3EA0-9643-B7F7-641F8A4C9528}
+      IID 168
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 3.548133 0 1 -1
+      SOFFS 39.0416848814387
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D16A11E-E7CF-5348-8832-DDEDF9B60A14}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3514.2320267471569
+      SNAPOFFS 0
+      LENGTH 0.86406105212239
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.699731 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {5363BA0A-56DD-BA4E-BC10-7978AD2CA75B}
+      IID 176
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 53.32064393717769
+      PLAYRATE 1.00000000000032 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69F0451A-F00D-FC42-A0BD-2ECF68F01A0F}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3520.8580234780293
+      SNAPOFFS 0
+      LENGTH 0.54166591932295
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.071973 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {78C5AE7B-64A3-3C48-BA16-2610045BDF08}
+      IID 176
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 59.97646454103406
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA01FD0A-8DDD-FE48-87EE-98E9C246267A}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3522.4562556889923
+      SNAPOFFS 0
+      LENGTH 2.73996446683719
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.109022 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {D1BC054A-3900-E147-ACCF-55CF3F380C86}
+      IID 176
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 61.57469675195048
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F8A9B5F4-250C-2449-832B-3882B2D96173}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3527.828881586398
+      SNAPOFFS 0
+      LENGTH 0.58320437210421
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {8F5FC02E-6995-1A4B-9FD3-37E8D101ADED}
+      IID 176
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 66.94732264936917
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {017ED8C3-D499-5244-9A9A-FDD98E7A15B2}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3532.8486300583081
+      SNAPOFFS 0
+      LENGTH 0.77424818794736
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.160632 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {8ED22398-F4EE-EA4B-953E-DF81CCE525C2}
+      IID 176
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 72.50237005016501
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31118D6C-545E-AA41-99D5-8C0EBD0B65BE}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3534.390701138027
+      SNAPOFFS 0
+      LENGTH 0.85777703809941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.073891 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {2CA5EF6C-BCF7-2449-97E9-43E1B5ADFFB8}
+      IID 176
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 74.04444112989424
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAD4D3BF-1987-4E47-8096-FF6411101C90}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3537.1851727553494
+      SNAPOFFS 0
+      LENGTH 3.01852297736514
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.050486 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {04CE5A39-280B-2B43-A2AF-0678E012DCCA}
+      IID 176
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 0.794328 0 1 -1
+      SOFFS 77.65254261052858
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E076DD0C-F00D-C44E-99AA-C75AF5167BD3}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3540.1532093726182
+      SNAPOFFS 0
+      LENGTH 0.58152498729487
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.050486 1 1 0 0
+      FADEOUT 1.1 0.01 0.065524 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {E8C7B612-38D2-014A-9F89-B540B449E870}
+      IID 176
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 53.93840306949476
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3739BF4-5C10-6847-B41A-5254BC0C70E0}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3540.6692107879408
+      SNAPOFFS 0
+      LENGTH 0.50621102431614
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.065524 1 1 0 0
+      FADEOUT 1.1 0.01 0.19626 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {D1147913-31A2-E84A-AFF1-AA085B2D9C6B}
+      IID 176
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 54.62851563710063
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35D58300-E9C2-4142-B96F-993D985A8A23}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3540.9791613707403
+      SNAPOFFS 0
+      LENGTH 1.00567503378079
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.092379 0.19626 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {16EA7EA2-5D88-024D-A346-4FFC883C2A38}
+      IID 187
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 120.30384204706935
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C561B50B-0A32-884C-8124-B564A5643ED7}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3541.9848364045229
+      SNAPOFFS 0
+      LENGTH 3.71096377208636
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.917201 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {0537F8DA-B26A-324F-9B9C-45D115EE048C}
+      IID 187
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 121.51814851399548
+      PLAYRATE 0.99999999999978 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {203CC8B1-D6EA-BD46-928A-90EAED0F87C6}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3547.6587827239036
+      SNAPOFFS 0
+      LENGTH 0.54649701201623
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {0C15B92F-F0ED-1E4B-B8CD-10BE6E63494F}
+      IID 802
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 0.794328 0 1 -1
+      SOFFS 127.19209483345965
+      PLAYRATE 0.99999999999972 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B998B0F-728F-EF46-B310-C78F45A361D0}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3548.2052797359265
+      SNAPOFFS 0
+      LENGTH 2.92613059814477
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.716125 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {997EB6A3-DB9B-034B-AFAE-81DB059E7DCC}
+      IID 802
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 127.73859184547588
+      PLAYRATE 0.99999999999972 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C979F7D0-FDAA-9448-8698-CB90C5DA21C9}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3550.356908267675
+      SNAPOFFS 0
+      LENGTH 0.05837678930857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {677C3712-8AB9-0241-B63F-6A4A0D0353F5}
+      IID 187
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 130.6647224436191
+      PLAYRATE 0.9999999999963 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A738ED2F-AA63-8748-9542-5E2101103919}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3550.415285057
+      SNAPOFFS 0
+      LENGTH 0.75383286738366
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.331952 0.716125 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {42650439-74EA-924A-B019-236818C55356}
+      IID 252
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 134.85846355893159
+      PLAYRATE 0.99999999999979 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2AA30F3-44D2-5C42-8BAB-47FC024CD311}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3552.9956699329978
+      SNAPOFFS 0
+      LENGTH 1.4764749761049
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.056419 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {44D36503-D443-5440-8CD0-84AF252480DC}
+      IID 240
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 0.707946 0 1 -1
+      SOFFS 137.43884843500044
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5556457C-8ADB-9B45-B82C-29D0222345D7}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3554.4721449091649
+      SNAPOFFS 0
+      LENGTH 4.81419835110523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.18336 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {417D99ED-569A-C047-A0A2-BED6ABB0CFCA}
+      IID 240
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 138.91532341110533
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84B86151-BBEE-B044-B88A-83898BA25975}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3560.617457922277
+      SNAPOFFS 0
+      LENGTH 2.03775865668661
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {2CBE2301-8715-3743-B175-081BEEB77C5F}
+      IID 200
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 258.63131546506435
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3674341-6CB5-6444-B4A4-77D008BA1896}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3562.6552165790545
+      SNAPOFFS 0
+      LENGTH 0.06202937822678
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {B0558F60-D388-2143-8F76-16A66F5C7845}
+      IID 200
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 260.81440175616029
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC8654E0-C178-C146-B231-FAEEFB1F9789}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 3562.7172459571939
+      SNAPOFFS 0
+      LENGTH 0.19133956027622
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 3 0.19134 0 3 0 1 1
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {7E4D4506-8E3F-184D-B5B1-903B20C410C4}
+      IID 200
+      NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 264.49335248948375
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2145E286-1A0F-EA4C-8657-99EE81AEEB36}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+      >
+    >
+  >
+  <TRACK {41DA2466-19B4-CF43-8CDE-4FD037BB5115}
+    NAME "J Dart"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {41DA2466-19B4-CF43-8CDE-4FD037BB5115}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3451.043043134041
+      SNAPOFFS 0
+      LENGTH 6.08727769699882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.28562 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {3A598610-221E-E34C-9456-561DB3282CE6}
+      IID 47
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 39.7132875497309
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57CFD74A-1360-F646-A9A1-EF9CDE56C7C4}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3457.130320831091
+      SNAPOFFS 0
+      LENGTH 1.37686815342344
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {6632B3A5-3C23-9D41-B9D8-7484A69C58D8}
+      IID 237
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 65.3717963223268
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24E42919-1BCE-0E41-B75C-D822968E18EC}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3458.5071889844312
+      SNAPOFFS 0
+      LENGTH 0.98054732209835
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {79DE25EB-ADA2-B845-8467-D999EB321AAA}
+      IID 580
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 70.31530150052987
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBFB84DA-2207-0743-96EF-BDF2EE35F551}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3459.4877363066244
+      SNAPOFFS 0
+      LENGTH 0.4137867396162
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.006472 0.066047 1 1 0 0.592259
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {E7308D60-7BC9-B74C-ACAE-5AFA1E410C97}
+      IID 580
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 71.29584882262822
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F65B0E23-AF1C-3A4A-A5A4-83CD8F7950CA}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3459.8354756620301
+      SNAPOFFS 0
+      LENGTH 3.73409459482246
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.066047 1 1 0 0.592259
+      FADEOUT 1 0.008173 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {5EF8B1B7-1A57-B74B-BF31-804F889CBC77}
+      IID 580
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 73.21822433033094
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {006FDCB2-4FA7-1A48-98AD-FA9941805329}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3470.2381815040771
+      SNAPOFFS 0
+      LENGTH 0.39375262293467
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.130047 0 1 0 0 0
+      FADEOUT 1.1 0 0.177007 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {90D35CFF-27ED-D643-ACD8-D9A6EAD7FE8F}
+      IID 575
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 101.08921997607885
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D99A548F-3824-5B43-8904-EDE9F8943CF6}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3470.4549272713539
+      SNAPOFFS 0
+      LENGTH 2.11681738782564
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.177007 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {5B5543F8-A62D-7445-A491-2A54F506407F}
+      IID 47
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 45.80056524672967
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DCECDBB-CB0D-AB43-86A9-C31E88F83F8C}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3472.5717446591061
+      SNAPOFFS 0
+      LENGTH 6.5456290142068
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.275403 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {FC42CDEF-1FC0-CA42-9039-E1ED2FD71487}
+      IID 47
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 49.25682984491493
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {926E46AA-7EB3-AB43-85C2-4A3083E9A1A3}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3481.5132590982885
+      SNAPOFFS 0
+      LENGTH 8.28301122135948
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.657845 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {FD2B21BD-B5D9-3B44-B0ED-14160C9F5306}
+      IID 93
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 111.06314039493978
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7771A5B-D7C3-D242-8997-DB509A4EB158}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3489.7962703196154
+      SNAPOFFS 0
+      LENGTH 1.4584621698515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {9E5151E2-F1AC-AB42-B30B-C1D72A5A531F}
+      IID 93
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 119.3461516162993
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2334EB3-AF81-2E43-94B8-A6B1D1F3FB8E}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3491.2547324894749
+      SNAPOFFS 0
+      LENGTH 3.34386570815064
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {CE601F31-EA9B-9F48-BA1C-09573C38B44F}
+      IID 93
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 124.69080287386048
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7312D14B-B6E2-7E42-AD91-312367AFB6C0}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3514.2320267471569
+      SNAPOFFS 0
+      LENGTH 1.81408272423869
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {5E5E4814-4AE1-CE46-9031-3D4E4FE2A06A}
+      IID 177
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 2.238721 0 1 -1
+      SOFFS 220.26881978459193
+      PLAYRATE 1.00000000000032 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EA0CE89-3B08-1F42-9C5B-B283DB98A261}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3516.0461094714319
+      SNAPOFFS 0
+      LENGTH 0.47600584133187
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {CD456719-5ABC-394F-A527-6D93AFEF9071}
+      IID 177
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1.584893 0 1 -1
+      SOFFS 222.08290250883115
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A0B767A-3517-D346-BBB0-0DBDEB90B246}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3516.5221153127113
+      SNAPOFFS 0
+      LENGTH 4.32711455226735
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {791636A3-66F2-2644-9CE6-C19DA51C80F0}
+      IID 177
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 222.55890835016302
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCD6ADF7-6F9E-A441-B795-E4744595C2A2}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3520.8492298649708
+      SNAPOFFS 0
+      LENGTH 7.02573639834719
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {69340021-3BD7-DC43-9B09-DC5D716368CD}
+      IID 177
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 226.91584677544571
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {085F5104-D22C-B448-BE05-0E8087724E0B}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3528.4120859584855
+      SNAPOFFS 0
+      LENGTH 4.48495350445194
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {09CF6CA9-24D3-7343-84D2-6BD663BE5655}
+      IID 177
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 235.01400179775931
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {65CCD01E-1F9D-4D4A-A065-C9EE141ECECE}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3533.3924771449147
+      SNAPOFFS 0
+      LENGTH 3.83551823486556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.314033 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {8B81BECF-B7FC-9A49-95B6-8348E5E0402F}
+      IID 177
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 239.99439298414796
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {039F5EA3-D15C-5B43-982A-21329C388445}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3536.9139628009489
+      SNAPOFFS 0
+      LENGTH 2.9715524235653
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.314033 1 1 0 0
+      FADEOUT 1 0.155277 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {F7FF52D6-B749-B64E-97F5-24674D74895E}
+      IID 177
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 244.32950850350437
+      PLAYRATE 1.00000000000023 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC079469-96C7-0F42-8F65-8BAC118A6874}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3540.0751752034639
+      SNAPOFFS 0
+      LENGTH 0.65955915641734
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.065524 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {D1BB65D0-A80E-954C-BE7C-A5CCB836F059}
+      IID 177
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 220.80854474778641
+      PLAYRATE 1.00000000000025 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E39FE1FE-C40A-C948-B860-58468D2D7D71}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3540.6692107879408
+      SNAPOFFS 0
+      LENGTH 0.44058212730272
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.065524 1 1 0 0
+      FADEOUT 1 0.068576 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {D48899FC-49F8-1E47-A81F-D7E1E4062373}
+      IID 177
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 221.57669148451487
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7C216AE-C0BA-6545-8D25-52A2A43FF5EC}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3542.8749239409426
+      SNAPOFFS 0
+      LENGTH 3.13450591193111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {1198C146-24FA-0640-8E22-F2DDE57229BC}
+      IID 188
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 289.35641189793569
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E2873FB-3247-434B-99B6-BB27CBAB7363}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3546.0094298529057
+      SNAPOFFS 0
+      LENGTH 1.64935287100707
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {111FF402-3B2F-3D4F-9B04-55ACA076E412}
+      IID 803
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 292.49091780986623
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8448480-0A01-5A4A-80D5-A984AC4AE9BB}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3547.6587827239036
+      SNAPOFFS 0
+      LENGTH 0.73454921267245
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.165274 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {EDC3606F-424D-2C41-897D-43D23F64BC92}
+      IID 803
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 294.1402706808733
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05034943-D85E-BD4D-B53E-7F7D4F67817A}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3549.5201972020641
+      SNAPOFFS 0
+      LENGTH 1.7533960827721
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.300497 0 1 0 0 0
+      FADEOUT 1.1 0.01 1.285166 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {25C40B75-2AD6-E547-9929-CD6C27E36572}
+      IID 803
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 296.00168515905301
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FF3BF9E-E0BF-7849-A484-19C40CE52E20}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3549.9884269694649
+      SNAPOFFS 0
+      LENGTH 1.38520836122842
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.581913 1.285166 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {185F284E-D9C7-6646-ADF0-0EAE257F8CEF}
+      IID 253
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 301.37978131887905
+      PLAYRATE 0.99999999999957 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4EE7A098-C1DE-EC4C-8124-76EDFC3A4F30}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3552.9956699329978
+      SNAPOFFS 0
+      LENGTH 2.98313320337434
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.084628 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {61B3DAD6-D92F-8243-A27E-AF84FEE38D0C}
+      IID 241
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 304.38702428241402
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD5A859A-0B88-5443-8694-25C816259983}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3555.9788031363478
+      SNAPOFFS 0
+      LENGTH 0.39493016404009
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {FD811F6B-D082-BF42-AFCA-5F861AED5016}
+      IID 241
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 307.37015748578835
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0568664-5E90-8D44-83DD-C675F252ACA9}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3556.3737333004447
+      SNAPOFFS 0
+      LENGTH 0.8039649767959
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.21157 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {15277D7E-EE9A-B942-9ADD-1F12ED0B1235}
+      IID 241
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 307.76508764982844
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D1D41A7-4EC4-104A-9552-DBBC09803ACD}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3558.7010003384985
+      SNAPOFFS 0
+      LENGTH 2.14245628293264
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.084628 0 1 0 0 0
+      FADEOUT 1 0.203067 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {BE492A61-770F-7947-83F1-39265224B98B}
+      IID 241
+      NAME 01_J_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 310.0923546879219
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55A2187B-3282-2A44-A472-B865536CB50D}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+  >
+  <TRACK {AE9B3AF6-BF27-ED4E-BA92-CB791A28B841}
+    NAME "E Dart"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AE9B3AF6-BF27-ED4E-BA92-CB791A28B841}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3469.9013142058448
+      SNAPOFFS 0
+      LENGTH 0.48366455543722
+      LOOP 1
+      ALLTAKES 0
+      ITEMRULER 3 0 0
+      FADEIN 1 0.052244 0 1 0 0 0
+      FADEOUT 1 0.060099 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {E095CE6D-1BBC-2D4A-B389-FA74691BE4D6}
+      IID 238
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 68.56804859371286
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC45D937-C25C-D240-ACE1-3248A5595B7A}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3476.5136871775667
+      SNAPOFFS 0
+      LENGTH 2.7170876434512
+      LOOP 1
+      ALLTAKES 0
+      ITEMRULER 3 0 0
+      FADEIN 1 0.245802 0 1 0 0 0
+      FADEOUT 1 0.24476 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {8A9FA127-D86E-1342-959E-5A6D706837D9}
+      IID 48
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1.412538 0 1 -1
+      SOFFS 38.40539421928142
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD9D35E0-A07B-C34A-A015-E5213F2633F7}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3487.7260917293661
+      SNAPOFFS 0
+      LENGTH 2.07017859026669
+      LOOP 1
+      ALLTAKES 0
+      ITEMRULER 3 0 0
+      FADEIN 1 0.296999 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {A45CFAD5-CF15-9348-BD3F-2B77C3C2FC07}
+      IID 95
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 102.48259488196058
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE01703F-CA35-9F4D-91E9-C02C85F3922D}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3489.7962703196154
+      SNAPOFFS 0
+      LENGTH 1.4584621698515
+      LOOP 1
+      ALLTAKES 0
+      ITEMRULER 3 0 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {D9F864B1-ADAA-C147-8297-90376F877FB2}
+      IID 95
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1.122018 0 1 -1
+      SOFFS 104.5527734722273
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85BF63F8-2D6C-6B4A-AFB0-7D270384917B}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3491.2547324894749
+      SNAPOFFS 0
+      LENGTH 0.43346338600584
+      LOOP 1
+      ALLTAKES 0
+      ITEMRULER 3 0 0
+      FADEIN 1 0.006856 0 1 0 0 0
+      FADEOUT 1 0.203477 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {2D51D474-8784-9E48-AB69-D2B8F82AAB0C}
+      IID 95
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1.122018 0 1 -1
+      SOFFS 109.89742472978848
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9186313B-238E-7C47-B7F2-43F0ADE1CC8E}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3500.4003243024545
+      SNAPOFFS 0
+      LENGTH 3.33301763397594
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.17049 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {6927517A-32EE-8F46-BCAC-05E964A6EA84}
+      IID 1567
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 0.562341 0 1 -1
+      SOFFS 175.83344608549567
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {445D00E7-B2A1-6F4C-B24B-A6E0C6A84957}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3503.5628517081113
+      SNAPOFFS 0
+      LENGTH 6.08804114629493
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.17049 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {CF55495E-DCBD-1847-B8CF-601CB8F6758A}
+      IID 170
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 179.971264707247
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3490814-CBF1-7446-965B-B1D0C892310F}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3510.8333762443708
+      SNAPOFFS 0
+      LENGTH 1.41243225521038
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.231104 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {4AA54FCE-6F1E-A94A-9053-07FC1CC547F7}
+      IID 170
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 190.23039233195209
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CE9B5F2-F565-974C-8E71-3C835E2A6FE7}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3539.6200135887684
+      SNAPOFFS 0
+      LENGTH 0.58368214396626
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.128521 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {8A8EA1C9-D979-8841-B052-64E5DEBC82CA}
+      IID 178
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 232.25841343551147
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32B37E19-5C69-8D47-93B6-CE40085271A1}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3540.0751752034639
+      SNAPOFFS 0
+      LENGTH 0.65955915641734
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.128521 1 1 0 0
+      FADEOUT 1.1 0.01 0.065524 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {DBF013DD-5405-034C-81CF-CAE74097E5C8}
+      IID 178
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 206.03139889195683
+      PLAYRATE 1.00000000000025 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2ED07EEE-EFEA-C140-818C-2A4E169C817D}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3540.6692107879408
+      SNAPOFFS 0
+      LENGTH 0.44058212730272
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.065524 1 1 0 0
+      FADEOUT 1 0.068576 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {9F4ABB2D-4B2A-DB4D-85C2-E59CB269DF4B}
+      IID 178
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 206.79954562868528
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {761D46F9-870C-354E-9A40-035F4D754FC6}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3545.1386217242889
+      SNAPOFFS 0
+      LENGTH 0.87080812868293
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.060004 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {7BE526D2-FAA9-114C-8D38-2F003D49A070}
+      IID 189
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 276.84296382535342
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38C3F5F2-5D44-994E-B068-D636E24FBA29}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3546.0094298529057
+      SNAPOFFS 0
+      LENGTH 1.64935287100707
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.272117 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {386E5800-C99C-564F-9166-BC64DFD53B65}
+      IID 804
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 277.71377195403653
+      PLAYRATE 0.99999999999985 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89C281D8-A878-FD46-BF76-763DC6A01601}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3549.8958189573223
+      SNAPOFFS 0.00530805005223
+      LENGTH 1.2939681661199
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.774502 1 1 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {D4033708-CA7E-1142-A0F6-239AC849CFD8}
+      IID 804
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 281.60016105839236
+      PLAYRATE 0.99999999999985 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B207B876-8E1A-EF4C-BB2B-580B3BCF0DEA}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3550.415285057
+      SNAPOFFS 0
+      LENGTH 1.66832760796933
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.774502 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {DECD8CE3-686E-F346-A3CF-1C54AA623AB8}
+      IID 254
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 287.02949355051561
+      PLAYRATE 0.99999999999979 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9700B539-5DFB-294E-8ACF-750E5D2C72F2}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+    <ITEM
+      POSITION 3552.0836126649137
+      SNAPOFFS 0
+      LENGTH 8.66247003027775
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.142239 0 1 0 0 0
+      MUTE 0 0
+      BEAT 0
+      SEL 1
+      IGUID {175DBEE9-A9F6-374E-9331-F789F724EE4B}
+      IID 242
+      NAME 01_E_RandEventsMapDartThrow_20220327.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 288.6978211584846
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5FD54EC-B8E3-2745-9F32-A93804ED3EE4}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+      >
+    >
+  >
+  <TRACK {CFC3A1DC-74D5-8B43-B7A2-BF26802D57D5}
+    NAME Mapquest
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CFC3A1DC-74D5-8B43-B7A2-BF26802D57D5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3563.5199577623434
+      SNAPOFFS 0
+      LENGTH 777.96038548753313
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {A4D4C6B0-0A8E-AB45-9996-1583F1468F2A}
+      IID 3
+      NAME MapQuestDraft_NoMarkers.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B3A79CC-F082-D347-91AF-63AD8A2286DD}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "/Users/germain/Library/Messages/Attachments/30/00/63E4B61E-30A7-469F-877F-F005CA0F7DDD/MapQuestDraft_NoMarkers.m4a"
+      >
+    >
+  >
+  <TRACK {7FFAEFF3-CE1B-E045-9556-2776063C968C}
+    NAME "Outro J"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7FFAEFF3-CE1B-E045-9556-2776063C968C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4352
+      SNAPOFFS 0
+      LENGTH 114.71895833332655
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {BF16AE3F-4D72-084B-8A0B-C13DD7DE5CD1}
+      IID 26
+      NAME 01-231015_1406.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B76B6429-95D4-6F4E-A263-8EF6B73819D5}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-231015_1406.wav"
+      >
+    >
+  >
+  <TRACK {B1853EEB-710F-1848-9905-A71B2784405E}
+    NAME "Outro E"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B1853EEB-710F-1848-9905-A71B2784405E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4355.4703645913396
+      SNAPOFFS 0
+      LENGTH 106.78841145834303
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B8E0C77D-992C-4B49-BAB7-86B44D6F6E59}
+      IID 17
+      NAME 01_E_VoG_20231015_12.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38269EC6-731F-B34A-98B5-024F1A167986}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01_E_VoG_20231015_12.wav"
+      >
+    >
+  >
+  <TRACK {55133E5D-A039-3941-8995-983E2FB666BF}
+    NAME "Outro T"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {55133E5D-A039-3941-8995-983E2FB666BF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4347.2900693002157
+      SNAPOFFS 0
+      LENGTH 112.46306249999907
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {3B10DB5D-9A27-5346-9605-DA1B0E31ACA6}
+      IID 7
+      NAME 01-01_T_VoG_20231015-231015_1706.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CABA200B-9BA6-EF40-9397-418A995A4CCE}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep1_Synchronicity/Synch Voice of God/Audio/01-01_T_VoG_20231015-231015_1706.wav"
+      >
+    >
+  >
+>

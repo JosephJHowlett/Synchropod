@@ -1,0 +1,1828 @@
+<REAPER_PROJECT 0.1 "7.02/macOS-arm64" 1699816021
+  <NOTES 0 2
+  >
+  RIPPLE 1
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 2
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 3.13842838
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3198 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 1129.2999302806579
+  ZOOM 0.41085199467789 0 0
+  VZOOMEX 10.83978653 106
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN Guillaume
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    bDNwbYAAAAAAAAAAAgAAAP////8EAAAAgAAAAAAAAAA=
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 1467.2345594197834 1467.2345594197834
+  SELECTION2 1467.2345594197834 1467.2345594197834
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {3E20C971-8096-1444-AC6C-6780846A92B5}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {4D1DEC97-4920-314A-A121-6620E55A1BDA}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {4B963B54-19A5-7A41-9D2F-3FDAABC6C50C}
+    NAME "Tom Speil"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4B963B54-19A5-7A41-9D2F-3FDAABC6C50C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 190.03522916666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1497B210-44EA-2E46-B721-8B4782E87B8D}
+      IID 3
+      NAME 01-231011_2222.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A94203AE-9D17-C147-856E-832663ABE4BE}
+      RECPASS 2
+      <SOURCE WAVE
+        FILE "/Users/germain/Documents/REAPER Media/01-231011_2222.wav"
+      >
+    >
+    <ITEM
+      POSITION 194.7425625
+      SNAPOFFS 0
+      LENGTH 97.2885625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54D91D60-3851-5244-90BE-5A8190DB61B4}
+      IID 5
+      NAME 01-231011_2226.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38CCABED-23B7-F742-B432-19816F193EA3}
+      RECPASS 4
+      <SOURCE WAVE
+        FILE "/Users/germain/Documents/REAPER Media/01-231011_2226.wav"
+      >
+    >
+    <ITEM
+      POSITION 298.55414583333334
+      SNAPOFFS 0
+      LENGTH 158.99522916666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70E61E6F-AFAA-3548-8EBD-4290A0BB1839}
+      IID 6
+      NAME 01-231011_2227.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4FE95D3-5DEB-E34D-9BA5-35F9C7C5B132}
+      RECPASS 5
+      <SOURCE WAVE
+        FILE "/Users/germain/Documents/REAPER Media/01-231011_2227.wav"
+      >
+    >
+    <ITEM
+      POSITION 468.75199301057103
+      SNAPOFFS 0
+      LENGTH 248.08322916666657
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56125D2D-C98A-BF4B-9F8D-C04E755FC1FE}
+      IID 7
+      NAME 02-231011_2230.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06F22A3F-40F2-074E-91D9-714E577823A5}
+      RECPASS 6
+      <SOURCE WAVE
+        FILE "/Users/germain/Documents/REAPER Media/02-231011_2230.wav"
+      >
+    >
+    <ITEM
+      POSITION 722.33913677038811
+      SNAPOFFS 0
+      LENGTH 119.86989583333343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F28DBECE-8883-C84E-86CD-EB5AFC9DF28B}
+      IID 8
+      NAME 02-231011_2235.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0691CD2-DF87-2C47-919D-F794A6CE1C73}
+      RECPASS 7
+      <SOURCE WAVE
+        FILE "/Users/germain/Documents/REAPER Media/02-231011_2235.wav"
+      >
+    >
+  >
+  <TRACK {C6301068-6A1E-5A4F-AB75-88EC6E164A34}
+    NAME 01_E_GuillaumeInterviewWithoutJoe_20220425
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C6301068-6A1E-5A4F-AB75-88EC6E164A34}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1008.6573511555658
+      SNAPOFFS 0
+      LENGTH 4.41746614545923
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D061900-4FB3-424B-9562-514DD6EA1248}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 65.68408360727953
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C99AE19-801C-2140-BC00-CDBF6DA60EA4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1013.192845225191
+      SNAPOFFS 0
+      LENGTH 6.84949329923506
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.15712619081341 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DF0D216-0616-8E4C-BDFB-454A25EFD061}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 115.06969797391309
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46D8F080-83E7-D345-A2E4-5ADB840C1E8A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1019.8852123336127
+      SNAPOFFS 0
+      LENGTH 5.42720975321083
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.15712619081341 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D4A1B72-A7CB-5249-8A44-9FDD0F810EFB}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 128.20670908815174
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06C0B674-EB37-384C-9199-903BBB0FF029}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1182.7237884650065
+      SNAPOFFS 0
+      LENGTH 45.34316995627864
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C55DC39C-5600-C048-8ABD-0B1895898F61}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1822.5608722989291
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46BB7FCE-969D-2C4F-A457-C1B5CEBC0C8A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1234.9544915426761
+      SNAPOFFS 0
+      LENGTH 25.02595773749908
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1296E52E-EA11-F643-89D6-105C947B0A0E}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1263.4991182086944
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6A12574-1B33-984B-AED7-5968BF1761E0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1367.8784259324823
+      SNAPOFFS 0
+      LENGTH 1.94726962140908
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D06AA39C-4E1D-3743-A907-243C3C94564D}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1086.4693116681328
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D38F5D06-827C-AF48-8CBB-F5A56B8B572D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1388.2448343263927
+      SNAPOFFS 0
+      LENGTH 1.92707615769609
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {681FAB51-EE49-E045-B5AC-B404ADAEB38F}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1106.9354571388296
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C12421C-C847-BD40-B94F-5088B0433382}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1390.3687512212887
+      SNAPOFFS 0
+      LENGTH 17.49868229766867
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9FC14355-F37D-A749-878E-546359F3B741}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1110.893683543193
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60BDDF3E-82F1-584B-AE6F-B604A182C759}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+  >
+  <TRACK {354F55C1-B413-194A-8B0A-4258FFB9F5B4}
+    NAME 01_T_GuillaumeInterviewWithoutJoe_20220425
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {354F55C1-B413-194A-8B0A-4258FFB9F5B4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1042.8366512767236
+      SNAPOFFS 0
+      LENGTH 4.5173193181563
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {430F0C1E-21B5-4643-A0E1-0609193EB75F}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1172.9839241887494
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8CE95FC-1180-1D4D-BF76-BE8B575F8155}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1047.3539705948799
+      SNAPOFFS 0
+      LENGTH 5.21723127840414
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7D904C08-1371-EB44-82C8-BB57586B298E}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 576.38470783573212
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76AD6103-FE3A-4847-B6B1-C60242D4937B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1052.5712018732841
+      SNAPOFFS 0
+      LENGTH 21.49713014494318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7441D1CF-6CBF-A143-BD3A-795A8C3ABE96}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1452.6783444922546
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F15AC98F-49AF-C542-BD65-71FE3204D373}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1074.0683320182272
+      SNAPOFFS 0
+      LENGTH 25.05481368841356
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7295B584-1842-7B49-A1F0-AE738F66A889}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1181.5817091280594
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF6CEB1C-4F7D-6B49-B3EA-8B638D15DF5A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1099.1231457066408
+      SNAPOFFS 0
+      LENGTH 7.31844863627634
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D88EF256-B4E9-B04D-902A-F516E04AB3F3}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1211.2703725944041
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6EC2027-5B60-3746-8FA2-75FCBDA68EDA}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1106.4736561871609
+      SNAPOFFS 0
+      LENGTH 10.80378353227297
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {392E14E2-D3AF-CB4D-B4E2-50FB9F7B1413}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2793.615199552265
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95CC4BDB-01CC-D647-A541-092ED17FB0B7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1117.2774397194339
+      SNAPOFFS 0
+      LENGTH 3.04239068214679
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {36E9F70E-98E8-8643-A856-D3E10C16E75B}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2808.0101111079575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BEA17DE-4899-1946-B982-EC8101513654}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1120.3198304015807
+      SNAPOFFS 0
+      LENGTH 23.33846927623131
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D4AACDBF-6B39-4448-A47D-21D510E009CE}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2811.0525017901055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9F787CC-79E6-5748-8D32-48D749E99D9C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1143.658299677812
+      SNAPOFFS 0
+      LENGTH 8.44909198527967
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {C4C2A243-29A2-B347-8A44-67D2169CE8EA}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 592.59904425979244
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9967D947-C629-DB49-BDA9-0E4F5A1CEE73}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1152.1073916630917
+      SNAPOFFS 0
+      LENGTH 1.90974925927549
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D8B8759C-7B45-4440-A33F-AC8860E0E419}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2487.2852587187958
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24E2F628-549D-0340-BD29-CC582F39F10C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1154.0171409223672
+      SNAPOFFS 0
+      LENGTH 5.1037737723193
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {283D84AB-F68F-D347-9BE4-12004DB5200C}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2495.1734479854917
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E306C69-3443-E240-B06C-0CBE2EB36A4D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1159.1209146946846
+      SNAPOFFS 0
+      LENGTH 11.23160171579366
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {43BC2A86-E9C7-CC40-84AF-6FB23F099ADA}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2543.2737109024129
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BFE962C-53EF-BC48-9976-719A4410789B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1170.3525164104783
+      SNAPOFFS 0
+      LENGTH 33.94453650148353
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {2558BD98-1509-B54E-924D-5A082C3E568B}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2575.8988593446934
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7653150E-3FC2-8B49-928C-7D2A1BF46751}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1204.5413085459284
+      SNAPOFFS 0
+      LENGTH 5.03226012856499
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {EB26BA2E-CD24-9B4A-AF03-AA91546B17B3}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2612.9421836061115
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5A9D2DE-A600-BD41-B9B2-3A5F5660B7FE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1209.5735686744933
+      SNAPOFFS 0
+      LENGTH 25.87521957846934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {2FF09A89-87D1-8044-B1AB-8BD22BD10742}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2945.7428547504223
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94F261F2-C090-724A-8382-E1EA4CEBFEE0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+  >
+  <TRACK {775FEAA5-0ACE-584E-8B29-B515E39395A7}
+    NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {775FEAA5-0ACE-584E-8B29-B515E39395A7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 65.68408360727953
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B8716A6-100B-DE47-A17C-4F945A70EEE3}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56E352DC-4576-154E-84D9-F791846751A5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 65.68408360727953
+      SNAPOFFS 0
+      LENGTH 4.41746614545914
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3D1DDDE-A2D7-0F43-B1AF-87D09DE8A0E0}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 65.68408360727953
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AD0745F-D717-D044-956F-DAA85146460A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 70.10154975273868
+      SNAPOFFS 0
+      LENGTH 44.96814822117442
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {88841C96-9F7A-5C41-B956-C7CE7E30295C}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 70.10154975273868
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7421518-54CC-5E4D-8707-4B4ECAECCD6B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 115.06969797391309
+      SNAPOFFS 0
+      LENGTH 6.84949329923499
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C1C9DDCB-AD27-624C-A354-1EF16541FA24}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 115.06969797391309
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70B42089-9675-C34B-97E1-24BB7D69AA11}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 121.91919127314809
+      SNAPOFFS 0
+      LENGTH 6.28751781500365
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1649350D-2995-574E-ACD6-ADD81496B869}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 121.91919127314809
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF325AEA-CE4A-A447-8A7F-D073461623B0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 128.20670908815174
+      SNAPOFFS 0
+      LENGTH 5.42720975321114
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FBA65293-7EDF-BE4C-951F-47B6ACEE92B1}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 128.20670908815174
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80769C81-82B6-4E47-89B5-696198755057}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 133.63391884136288
+      SNAPOFFS 0
+      LENGTH 442.75078899436926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BA005AE-F9B9-D541-87FC-B454309CB08E}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 133.63391884136288
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA8E528E-8A18-3846-8691-52F88FB3EE61}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 576.38470783573212
+      SNAPOFFS 0
+      LENGTH 5.21723127840426
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CAEDA786-DE2A-FC48-840B-09B3F9DAA41A}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 576.38470783573212
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {850FCF24-EF1F-A64A-9515-1411D61B3B3F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 581.60193911413637
+      SNAPOFFS 0
+      LENGTH 10.99710514565606
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4CB8492-19C6-194C-AB22-6D53058DE2EC}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 581.60193911413637
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7CB357B1-9F82-784B-A778-D5A06D5B22BE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 592.59904425979244
+      SNAPOFFS 0
+      LENGTH 8.44909198527967
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2CBDCCA-78A0-794B-9E8A-D599FA82605E}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 592.59904425979244
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC403BAE-D22D-8640-963E-FD748FC86570}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 601.0481362450721
+      SNAPOFFS 0
+      LENGTH 267.5086968779666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93B2A4B0-2B76-C144-9A15-232D821976A7}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 601.0481362450721
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73AF1F5D-A76C-3747-AF90-7E586443C260}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 868.5568331230387
+      SNAPOFFS 0
+      LENGTH 8.27867550196277
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D35E33F-B4E4-B647-A55B-09A2112C9C81}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 868.5568331230387
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43487650-11A0-EE4C-BE3B-B63179B73025}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 876.83550862500147
+      SNAPOFFS 0
+      LENGTH 209.63380304313137
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5BF53D46-01B1-2847-9C43-4035BFD7D924}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 876.83550862500147
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50847BFD-F4A9-E54E-A37D-28518E18CC95}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1086.4693116681328
+      SNAPOFFS 0
+      LENGTH 1.9472696214093
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA477EFA-0D3C-9047-B9C4-024C2407683E}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1086.4693116681328
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {389A083D-49C4-CD48-B312-FEE1E75C726A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1088.4165812895421
+      SNAPOFFS 0
+      LENGTH 18.5188758492875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {45236BF8-7D37-FB41-906F-76A63D254609}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1088.4165812895421
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A88C0086-24AD-3A41-BF8C-6483D1342472}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1106.9354571388296
+      SNAPOFFS 0
+      LENGTH 1.92707615769632
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE99174D-EDD3-AE48-AFB1-C5DBB49ADBCF}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1106.9354571388296
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0A68B8C-99B8-294F-8B7C-2B97B25B4FE8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1108.862533296526
+      SNAPOFFS 0
+      LENGTH 2.03115024666704
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {677A8165-BCBB-3948-AAE8-3F5B2FCB7B58}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1108.862533296526
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E660F5B-D249-014F-AC81-4326421CD388}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1110.893683543193
+      SNAPOFFS 0
+      LENGTH 17.49868229766844
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {313E29EA-CC6C-CB42-8FE3-10A49A332E19}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1110.893683543193
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F64AB4A-C3D1-D742-9ACD-3B7A3633B149}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1128.3923658408614
+      SNAPOFFS 0
+      LENGTH 44.59155834788794
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2A17A3C8-0CD1-E045-AC6C-C9510C1C67B5}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1128.3923658408614
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEAC0E6F-E512-D545-9BF3-DA6A6392E0CB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1172.9839241887494
+      SNAPOFFS 0
+      LENGTH 4.51731931815584
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {96B6810F-AA1A-9C4A-9031-D8FDA3F6D7CA}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1172.9839241887494
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D97A8D6-CB03-2641-9BC0-3F15FFBC3128}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1177.5012435069052
+      SNAPOFFS 0
+      LENGTH 4.08046562115419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {512C626D-2FA5-6A44-BF03-9CB8805D8453}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1177.5012435069052
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {489934A9-7D45-544C-8C30-DFC4A78530B8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1181.5817091280594
+      SNAPOFFS 0
+      LENGTH 37.00711210262057
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A79E1AD7-7126-2040-8407-09C944C33269}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1181.5817091280594
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {575C4F3F-BECE-0D4A-9A92-98DE7334FF77}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1218.58882123068
+      SNAPOFFS 0
+      LENGTH 35.4627124839476
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E5E64DF-9D3D-504F-BF50-FA2D4AB64E5E}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1218.58882123068
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7650DAA5-3167-F34A-B7C0-4412859B8775}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1254.0515337146276
+      SNAPOFFS 0
+      LENGTH 9.44758449406686
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {30B8B5AF-3520-CD49-A221-B25688AF0ACB}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1254.0515337146276
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5707D7D2-CFCF-4E42-878A-D3449C821DFF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1263.4991182086944
+      SNAPOFFS 0
+      LENGTH 25.02595773749863
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {95B975BD-CE2F-B74B-91F3-0E7B74FC025A}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1263.4991182086944
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA812467-0676-1C40-8DFA-DE33D769D3D7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1288.5250759461931
+      SNAPOFFS 0
+      LENGTH 164.15326854606155
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0EDED41-40CC-F64C-BD63-48511CF2F754}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1288.5250759461931
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB85B846-A03D-7C42-B3D2-BF4320514177}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1452.6783444922546
+      SNAPOFFS 0
+      LENGTH 21.49713014494455
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6EB16EAA-73CF-F845-A314-0C420524E0BB}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1452.6783444922546
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA064C0B-46EA-5F4F-8620-0A80D5D13EB6}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1474.1754746371992
+      SNAPOFFS 0
+      LENGTH 348.38539766172994
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A0644EDE-788A-3149-B7B4-BDED583E5445}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1474.1754746371992
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30F77603-D752-7749-AD26-5D1264579BEF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1822.5608722989291
+      SNAPOFFS 0
+      LENGTH 45.34316995627864
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {322A0E2F-3D0D-5540-83F3-576A32D20094}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1822.5608722989291
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BE87B15-4753-7147-8764-6AC85085C318}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 1867.9040422552077
+      SNAPOFFS 0
+      LENGTH 619.38121646358809
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {11DCBF86-D0E1-1947-8279-013DE279513D}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 1867.9040422552077
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44015689-DA33-D241-91AA-7DC0EB6EAB84}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2487.2852587187958
+      SNAPOFFS 0
+      LENGTH 12.99196303901545
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F0B1207-D1FE-D74F-BC0B-F241365E8423}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2487.2852587187958
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D84C2D8-C170-6545-8C6C-8A45CEAD2124}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2500.2772217578113
+      SNAPOFFS 0
+      LENGTH 42.99648914460158
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F248D213-B795-8C46-960F-D4C8256A5B1F}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2500.2772217578113
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1473D3EF-06E6-784D-B3CF-9AA0B3E713B4}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2543.2737109024129
+      SNAPOFFS 0
+      LENGTH 11.23160171579411
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01E37EFC-9C42-E749-BDCC-3DE778793ED9}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2543.2737109024129
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EC5E108-0613-C54F-B5E0-1ACB8B403FC2}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2554.505312618207
+      SNAPOFFS 0
+      LENGTH 21.39354672648642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7618AFC3-671E-C342-98C3-72E6BEF3CAC4}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2554.505312618207
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33FA43D0-8524-A148-9C6D-61F82DCBD4E1}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2575.8988593446934
+      SNAPOFFS 0
+      LENGTH 33.94453650148398
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7EE6B6AC-6341-F74C-9EA0-D2FF40AC731E}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2575.8988593446934
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26E48185-2688-504A-9942-4EFFF8D7330B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2609.8433958461774
+      SNAPOFFS 0
+      LENGTH 3.09878775993411
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F1116815-246A-D44D-9F55-14838A15F23E}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2609.8433958461774
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {609BE664-C9F8-6249-B270-5E57102C7AEB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2612.9421836061115
+      SNAPOFFS 0
+      LENGTH 5.03226012856339
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BFFA5DB9-487B-DF48-B711-48672BB05B47}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2612.9421836061115
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03A17AA3-863D-9B44-B050-3B4C1CEC4335}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2617.9744437346749
+      SNAPOFFS 0
+      LENGTH 163.75489100511004
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB6F84C2-2A41-D542-9472-8F0A2449D0D4}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2617.9744437346749
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF7AE914-77BA-9647-BCF9-AF07CADD77A5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2781.7293347397849
+      SNAPOFFS 0
+      LENGTH 29.32316705032054
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F35A7BF9-F8D8-6B42-83B9-321D317EDF0B}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2781.7293347397849
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4466C2BE-8DF4-1B4A-9E4A-E107E975CEF9}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2811.0525017901055
+      SNAPOFFS 0
+      LENGTH 23.33846927623199
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC57B47C-81C6-734C-B638-87737DF6D7DB}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2811.0525017901055
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {706EB594-3EF0-5049-AB5B-91FCD8121B97}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2834.3909710663374
+      SNAPOFFS 0
+      LENGTH 111.3518836840849
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {216B5B6E-55B0-A245-887B-6DAFBF6224CE}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2834.3909710663374
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89BA225E-2C39-F745-8B36-780E9BE1DC32}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2945.7428547504223
+      SNAPOFFS 0
+      LENGTH 25.87521957847093
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4B74D4E-CB59-0741-A768-B795100473DF}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2945.7428547504223
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00D4D71B-A656-D446-8BB4-1E232B7BFF73}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2971.6180743288933
+      SNAPOFFS 0
+      LENGTH 642.52592567110673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F0B822A-BA82-D342-BF78-916C16DA3ECC}
+      IID 11
+      NAME 01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a
+      VOLPAN 1 0 1 -1
+      SOFFS 2971.6180743288933
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03E08C5A-93B7-B64B-B5E6-29CB6D1C728E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+      >
+    >
+  >
+>

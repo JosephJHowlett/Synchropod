@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.77/macOS-arm64" 1682445393
+<REAPER_PROJECT 0.1 "6.77/macOS-arm64" 1694286169
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 62.86781795578764
-  ZOOM 3.47395546881541 0 0
-  VZOOMEX 8.0967741 0
+  CURSOR 54.0588444026525
+  ZOOM 3.16225157180064 325 0
+  VZOOMEX 0 475
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -59,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 239.23269188474586 239.22541506603665
-  SELECTION2 239.23269188474586 239.22541506603665
+  SELECTION 361.10751170638508 265.8031078904142
+  SELECTION2 361.10751170638508 265.8031078904142
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -82,7 +82,7 @@
       6QMAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAyVsAADw/eG1sIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IlVURi04Ij8+CjwhRE9D
       VFlQRSBwbGlzdCBQVUJMSUMgIi0vL0FwcGxlLy9EVEQgUExJU1QgMS4wLy9FTiIgImh0dHA6Ly93d3cuYXBwbGUuY29tL0RURHMvUHJvcGVydHlMaXN0LTEuMC5kdGQi
       Pgo8cGxpc3QgdmVyc2lvbj0iMS4wIj4KPGRpY3Q+Cgk8a2V5PmRhdGE8L2tleT4KCTxkYXRhPgoJczA4QUFIRmdISkVNYnkzQUQxYTROaUoxTWNDSWprams1YjRId0dI
-      dnUzMVBCRExBQUZmbXhaKyt1VC8vWURZa242N2gKCVB3QUFBQUFBZ0VGQUlzZzBPUktMdGo4QUFBQUFBQUFVUUFBQUFBQUFBQUFBOGJZQUFBQUFBQUFBQUFBQUFIRG5R
+      dnUzMVBCRExBQUZmbXhaKyt1VC8vWURZa242N2gKCVB3QUFBQUFBZ0VGQUlzZzBPUktMdGo4QUFBQUFBQUFVUUFBQUFBQUFBQUFBOGJZQUFBQUFBQUFBQUFBQUFIRFhR
       QUVBCglBQUhvQXdBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFBQUFBQUFBQUFBQUFBQUFBQUFB
       QUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBZ0Q4QUFBQUEKCUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFB
       QUFBQUFBQUFBQUFBQUFBQUFBQUFBCglBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQQoJQUFB
@@ -505,7 +505,7 @@
       CHANMODE 0
       GUID {E5775C11-6B11-D74F-9E00-008B54A7CB7F}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/03-Echoes chords 1-230312_1906.wav"
+        FILE "Audio/03-Echoes chords 1-230312_1906.wav"
       >
     >
   >
@@ -575,7 +575,7 @@
       CHANMODE 0
       GUID {40EFCC28-4AFA-DF40-BAA7-ADCC0E2EE544}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
       >
     >
     <ITEM
@@ -598,7 +598,7 @@
       CHANMODE 0
       GUID {6B1ADEA9-98E0-5B42-8E2B-35C5746560A7}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
       >
     >
     <ITEM
@@ -621,7 +621,7 @@
       CHANMODE 0
       GUID {5FBCF0F5-2685-FD4F-AB12-49F12CE7FEA7}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
       >
     >
     <ITEM
@@ -644,7 +644,7 @@
       CHANMODE 0
       GUID {FE732F36-58D5-774E-B008-D873456B70C8}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
       >
     >
     <ITEM
@@ -667,7 +667,7 @@
       CHANMODE 0
       GUID {D901D7DB-0F0F-5549-B31A-2FB2C5E6A616}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
       >
     >
     <ITEM
@@ -690,7 +690,7 @@
       CHANMODE 0
       GUID {C83741DF-520B-3D47-8824-CD76BEF8A6B1}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
       >
     >
     <ITEM
@@ -713,7 +713,7 @@
       CHANMODE 0
       GUID {54E7C1CD-5A3F-174A-BC00-FAD4DD4A6709}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
       >
     >
     <ITEM
@@ -736,7 +736,7 @@
       CHANMODE 0
       GUID {F8CC432D-930C-1443-80F8-EEF2CC9D2273}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_01.wav"
       >
     >
     <ITEM
@@ -759,7 +759,7 @@
       CHANMODE 0
       GUID {9D36B53E-97D9-364D-A05E-A2DC6EA55B6A}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
       <VOLENV
         EGUID {1C702443-4D17-9948-B0CA-E73675636303}
@@ -793,7 +793,7 @@
       CHANMODE 0
       GUID {F8CD9D4F-446C-8948-8894-D33686043D85}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
       <VOLENV
         EGUID {616B60BE-766B-F544-B086-EF9B026838D3}
@@ -826,7 +826,7 @@
       CHANMODE 0
       GUID {FC15CC6C-8C45-7C4A-88CD-0ABB4D1D497C}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
       <VOLENV
         EGUID {616B60BE-766B-F544-B086-EF9B026838D3}
@@ -859,7 +859,7 @@
       CHANMODE 0
       GUID {6ECE7565-604E-3C4F-BE6E-017A0E5F67B9}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
       <VOLENV
         EGUID {616B60BE-766B-F544-B086-EF9B026838D3}
@@ -892,7 +892,7 @@
       CHANMODE 0
       GUID {0F210F75-5B47-7245-B34F-85BFB693230E}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
       <VOLENV
         EGUID {616B60BE-766B-F544-B086-EF9B026838D3}
@@ -962,7 +962,7 @@
       CHANMODE 0
       GUID {B1E4A347-902F-3142-AA42-2BEDC36C44D2}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -985,7 +985,7 @@
       CHANMODE 0
       GUID {0AF36936-BA4E-414C-A34C-D81FB47BA557}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1008,7 +1008,7 @@
       CHANMODE 0
       GUID {079DA5DA-22D2-E741-9E49-1BF500B1E201}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1031,7 +1031,7 @@
       CHANMODE 0
       GUID {EC2E2EC3-04B0-FA4C-B8ED-42A7AEA0D46F}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1054,7 +1054,7 @@
       CHANMODE 0
       GUID {C629FA12-9F8F-E442-BD22-ADDB7647A398}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1077,7 +1077,7 @@
       CHANMODE 0
       GUID {6E8F20AB-55A2-8049-AACE-D4E48A6F0F60}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1100,7 +1100,7 @@
       CHANMODE 0
       GUID {99160FC0-53D2-4141-A868-737B20CDC533}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1123,7 +1123,7 @@
       CHANMODE 0
       GUID {3BE95B0C-C10C-3F4C-B4A7-57BD219F4599}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1146,7 +1146,7 @@
       CHANMODE 0
       GUID {3B448891-B8EA-DE43-9CCD-1C2D59D4D912}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1169,7 +1169,7 @@
       CHANMODE 0
       GUID {3BDBB90B-ECF2-8941-A5E8-E51677C541EB}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1192,7 +1192,7 @@
       CHANMODE 0
       GUID {F70885A7-4EA4-F341-998B-19137219EA8D}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
   >
@@ -1253,7 +1253,7 @@
       CHANMODE 0
       GUID {2A821112-1690-2E4B-ACF4-9EDFD878D118}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1277,7 +1277,7 @@
       CHANMODE 0
       GUID {8ABA3794-8C98-3A43-9DF9-798071D6A4CD}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1301,7 +1301,7 @@
       CHANMODE 0
       GUID {0C5FB760-15D3-D449-874F-3ED09EC3BA7E}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1325,7 +1325,7 @@
       CHANMODE 0
       GUID {38490394-0487-184F-8E9D-708B1392BE8B}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -1349,7 +1349,7 @@
       CHANMODE 0
       GUID {C4B3DCB1-04BA-3E48-B2E0-A48C4807AA22}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
   >
@@ -1396,7 +1396,7 @@
       GUID {4A6D7DB6-D220-8544-833D-EE3EC83AD2BF}
       RECPASS 104
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-whoosh-230423_1459.wav"
+        FILE "Audio/05-whoosh-230423_1459.wav"
       >
     >
   >
@@ -1477,7 +1477,7 @@
       GUID {5B3AFFEA-BC8E-8C48-B02E-65B25EC8437B}
       RECPASS 101
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-Intro Echoes-230423_1302.wav"
+        FILE "Audio/06-Intro Echoes-230423_1302.wav"
       >
     >
   >
@@ -1543,7 +1543,7 @@
       GUID {E8D3BE4E-7CF9-5940-BF9F-0E9A8B52639E}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1567,7 +1567,7 @@
       GUID {0A2BA62D-9995-354D-8F43-F6B8F16E18EF}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1591,7 +1591,7 @@
       GUID {B9ECD29B-5E98-AA48-B3BF-6212D5CEF5A0}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1615,7 +1615,7 @@
       GUID {D51220DC-918B-1543-9393-DAA542F6F444}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1639,7 +1639,7 @@
       GUID {1DDD8489-81BA-5A41-AAFB-276B3F86CCA0}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1663,7 +1663,7 @@
       GUID {E52F6885-85F6-B648-ADA1-DC8036ED20B5}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1687,7 +1687,7 @@
       GUID {E298EA46-5D6A-3A4D-B1F3-BDDAA1D3C5EC}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1711,7 +1711,7 @@
       GUID {CB5B4A65-62D7-FB4D-9D78-9024969DC526}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1735,7 +1735,7 @@
       GUID {566945AB-7025-4D47-8115-A46D6D220BFF}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1759,7 +1759,7 @@
       GUID {B599AD64-85B8-ED40-B38C-BEEF272FCB8E}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1782,7 +1782,7 @@
       GUID {57C5AE88-7B15-AF45-923C-ABD241F64CC7}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1805,7 +1805,7 @@
       GUID {CF15A890-A421-5043-8FD6-349D81037B9D}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1828,7 +1828,7 @@
       GUID {640468C5-0754-6F42-821F-CF9ABBE3059F}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1851,7 +1851,7 @@
       GUID {7C5EF2E5-B157-8C41-87D2-3613EB6A0005}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1874,7 +1874,7 @@
       GUID {05ED2894-9664-894C-91A8-64063F3EC3F9}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1897,7 +1897,7 @@
       GUID {CB36F03A-C240-2D4F-94B1-6650BB83CA59}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1920,7 +1920,7 @@
       GUID {1C011FE7-C609-734D-8C2F-86254A7A0B0D}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1943,7 +1943,7 @@
       GUID {DF306118-D4D5-9F49-A49E-E7FFFF1B64A7}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1966,7 +1966,7 @@
       GUID {0CB348DF-A8EE-AB4E-9F16-4446A05457AF}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -1989,7 +1989,7 @@
       GUID {FFC21CFB-F811-4949-AEB3-A3C088CB363A}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2012,7 +2012,7 @@
       GUID {323F27A2-0A56-8641-8C70-F01792D8433F}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2035,7 +2035,7 @@
       GUID {A4CC8CA1-DCF9-844F-B295-C38F9B249C81}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2058,7 +2058,7 @@
       GUID {BB296AB7-8D41-0A44-82E5-DB60916A162C}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2081,7 +2081,7 @@
       GUID {69AEC7BE-272B-5740-A7FE-95F09DC7BB80}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2104,7 +2104,7 @@
       GUID {78D7DF21-6FA8-E345-9F78-F3121F03B426}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2127,7 +2127,7 @@
       GUID {B2C40AD2-C32C-1E45-AEE9-AF344533D70D}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2150,7 +2150,7 @@
       GUID {D5F7F3AF-50DF-3E46-BA50-5156E09891EF}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2173,7 +2173,7 @@
       GUID {7863C323-57B6-F747-96B6-A62F39DA08D8}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2196,7 +2196,7 @@
       GUID {4CB3D995-6387-1049-A40D-7152EE7ECBF2}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2219,7 +2219,7 @@
       GUID {252C991E-107B-8B47-B08E-CD78A40ACFDC}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2242,7 +2242,7 @@
       GUID {0A916FE3-1103-C746-A9E1-DC4189758D4B}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2265,7 +2265,7 @@
       GUID {7DDC8BB6-6BD5-1F49-A08B-DAA4CA356EE4}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2288,7 +2288,7 @@
       GUID {79B6108E-C85A-1041-B12B-7E3D8C5852B1}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2311,7 +2311,7 @@
       GUID {C73E3069-4C87-DC48-9D5E-9005660994C9}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2334,7 +2334,7 @@
       GUID {26157921-E051-EC4B-BC82-31E8DF4CA3BC}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2357,7 +2357,7 @@
       GUID {13546F4A-6C29-1C46-B83C-4E4C5E83970D}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2380,7 +2380,7 @@
       GUID {7135E86A-9D2B-894E-BC67-4AA7019ABD7B}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2403,7 +2403,7 @@
       GUID {BD6CCE72-D9B2-784B-ADA4-3A05B86E0C19}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2426,7 +2426,7 @@
       GUID {0E542ACC-F95F-DA4B-B667-B29457C13552}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2449,7 +2449,7 @@
       GUID {62E311FC-74F5-E341-9905-0124EC67D982}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2472,7 +2472,7 @@
       GUID {7A19FC3B-0378-BD48-A8EB-DB36AC4014B8}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2495,7 +2495,7 @@
       GUID {94C831A7-D87D-7844-904C-3A1F3BCA054F}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2518,7 +2518,7 @@
       GUID {1F66893E-B7FD-8443-A852-A1F35050B6FD}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2541,7 +2541,7 @@
       GUID {5AB867CD-1462-9941-9979-AE4E3D552CD2}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2564,7 +2564,7 @@
       GUID {0B663A98-E83F-344C-A69D-339943558B2E}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2587,7 +2587,7 @@
       GUID {F25923B5-EF10-ED44-83C1-8B57751A3D9D}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2610,7 +2610,7 @@
       GUID {C21B4322-D1AB-6E49-8113-BF9829FD930B}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2633,7 +2633,7 @@
       GUID {46B6BD8E-CC46-6448-B194-32DF83716115}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2656,7 +2656,7 @@
       GUID {EDE1BCB0-1ADB-6944-A707-AABAB8A99CF3}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2679,7 +2679,7 @@
       GUID {3E48DC27-3F4F-2341-B295-BED0751CCB74}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2702,7 +2702,7 @@
       GUID {036F96D9-4769-554D-BE61-C4002B2AE9ED}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2725,7 +2725,7 @@
       GUID {95EE4B16-40CF-DD46-9E5E-205502D77B39}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2748,7 +2748,7 @@
       GUID {AABBCE0B-E102-C949-8644-A2D88183BEE0}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2771,7 +2771,7 @@
       GUID {C4A84FA6-DD46-DD4E-ADD8-EA1ABEDD08EA}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2794,7 +2794,7 @@
       GUID {2E2B9633-CA8E-D249-B717-719D74176956}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2817,7 +2817,7 @@
       GUID {F447F8F7-C3D6-9144-A973-93D7A061823B}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2840,7 +2840,7 @@
       GUID {FD46EDD2-1D57-1A4B-A728-6B7028077D2B}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2863,7 +2863,7 @@
       GUID {1136C5B1-1D87-0D4E-87A8-2DA23D4A39EB}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2886,7 +2886,7 @@
       GUID {68F5C032-D988-E24A-BEE2-1369B81FDD6E}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2909,7 +2909,7 @@
       GUID {CB869D03-67F7-5C41-A7DF-60242B467160}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2932,7 +2932,7 @@
       GUID {6AC342BA-36DC-DF4B-896C-C7943E384439}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2955,7 +2955,7 @@
       GUID {27F3FF52-B0D1-7C44-BAF8-22A8CA5E57E7}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -2978,7 +2978,7 @@
       GUID {E6961E4B-C89A-5C48-A7FD-A3E5CCB02181}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3001,7 +3001,7 @@
       GUID {796C87F4-9E9C-B347-93FD-474A570F52B4}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3024,7 +3024,7 @@
       GUID {7A4EBAE6-F4A7-CF49-96D6-BAD3A8630D8F}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3047,7 +3047,7 @@
       GUID {EFC409F9-FA57-234E-82C3-F20CF366F8EF}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3070,7 +3070,7 @@
       GUID {1454CA8D-3667-8D43-A61A-FD3F17282C24}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3093,7 +3093,7 @@
       GUID {57A29273-FEAF-F04B-9021-29E4A242B033}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3116,7 +3116,7 @@
       GUID {B9B14DC5-CE7B-6C41-86FC-74B5BA3F51BB}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3139,7 +3139,7 @@
       GUID {7DE671F7-C84E-6E49-A5A5-7D6360888C34}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3162,7 +3162,7 @@
       GUID {11B705C5-3B97-7446-AAA7-8021B877DDB0}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3185,7 +3185,7 @@
       GUID {120C6FF7-C295-ED4A-ADBF-8AD7601ABD03}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3208,7 +3208,7 @@
       GUID {86B2540D-F3B8-7E4D-8F45-C7A9870D92A5}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3231,7 +3231,7 @@
       GUID {48BB4E1A-3C53-4F43-9DD4-0A5521ADE4FE}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3254,7 +3254,7 @@
       GUID {458B10C1-5D1A-D546-B12D-7849EACBAD2B}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3277,7 +3277,7 @@
       GUID {CE99DE01-418A-824B-B207-0161336A07DE}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3300,7 +3300,7 @@
       GUID {37EE1744-4A9A-0E40-9FA8-B9096A50B47A}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3323,7 +3323,7 @@
       GUID {4F066AFA-B080-BA4C-BBCF-3D2B5E13E3DA}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3346,7 +3346,7 @@
       GUID {3D839E65-F6FD-8C4A-ABD0-E7F418823827}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3369,7 +3369,7 @@
       GUID {21F0FCBA-9B4A-9C43-AE29-AC7FB22321B3}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3392,7 +3392,7 @@
       GUID {9B00C56A-F1CE-2F43-980F-D19D0EF3461E}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3415,7 +3415,7 @@
       GUID {EE8A0919-124A-1C4E-A33A-7CA3E62079E2}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3438,7 +3438,7 @@
       GUID {6A6271B4-3A8C-9F47-893E-47121DEADAB9}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
     <ITEM
@@ -3461,7 +3461,7 @@
       GUID {BF1B4C71-7ECC-7747-875D-0B0AA45D0A0D}
       RECPASS 75
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05-Drums and Echoes-230326_1852.wav"
+        FILE "Audio/05-Drums and Echoes-230326_1852.wav"
       >
     >
   >
@@ -3542,7 +3542,7 @@
       GUID {BAC7229E-3629-A044-A805-F670363706AD}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3565,7 +3565,7 @@
       GUID {F3CC0E4D-FCB7-9944-BB9C-314D8B490BFE}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3588,7 +3588,7 @@
       GUID {81DF9B6B-37B9-C54C-B8E7-4F6CBDF3C0C5}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3611,7 +3611,7 @@
       GUID {4EB89A38-FE64-244C-90BE-3A2B9BC19D43}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3634,7 +3634,7 @@
       GUID {B5F7B206-3FD2-7041-B0A4-7BED59EDB965}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3657,7 +3657,7 @@
       GUID {E5E8AF32-22AC-1F46-85CB-5F48BDE40F0B}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3680,7 +3680,7 @@
       GUID {83BF751C-CBFD-6E44-B73C-073D7526139F}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3703,7 +3703,7 @@
       GUID {46E77530-2450-1940-83F6-6094191FE9E8}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3726,7 +3726,7 @@
       GUID {89AB20B2-D2C4-444E-8622-770CB4D05F09}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3749,7 +3749,7 @@
       GUID {9B899ED0-A9AD-CC42-AA43-9C982B3B06C0}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3772,7 +3772,7 @@
       GUID {EEC2C279-04BB-514B-B87C-58386F238E93}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3795,7 +3795,7 @@
       GUID {FD0F4436-D496-0142-BB68-EFBC546D0AE6}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3818,7 +3818,7 @@
       GUID {ABE1119B-2EB8-F84A-BD84-432567160168}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3841,7 +3841,7 @@
       GUID {345D2210-23A8-3D4C-B371-98603F5E36CD}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3864,7 +3864,7 @@
       GUID {8DCC7742-2473-AB48-BC59-435816CBDF16}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3887,7 +3887,7 @@
       GUID {9D2A5CA6-CFAF-2043-8D49-0953E35FE2AA}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3910,7 +3910,7 @@
       GUID {E288BB41-B5D4-D14A-8287-85DBBB96AE97}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3933,7 +3933,7 @@
       GUID {B92D9B73-E78D-1441-BBF2-31CB25EE49DE}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3956,7 +3956,7 @@
       GUID {A60AA9E8-F098-5943-9C63-BEBFE6E37E85}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -3979,7 +3979,7 @@
       GUID {7985DAEF-3544-7940-A7A1-359DB7ADBEDB}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4002,7 +4002,7 @@
       GUID {ECD1E647-811B-E34C-AD93-503BABA67581}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4025,7 +4025,7 @@
       GUID {A8963349-DE7A-9746-84EB-16F8136FAA6E}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4048,7 +4048,7 @@
       GUID {B5AD700A-906B-0A4B-B916-62884F4B9999}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4071,7 +4071,7 @@
       GUID {836D48EE-9A6D-8649-B0A5-4E30D0CA4012}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4094,7 +4094,7 @@
       GUID {E3C1BF6E-0B4B-574A-A88D-B7139EBAF960}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4117,7 +4117,7 @@
       GUID {EA9F0E85-20D8-8344-A858-91FA47EC9D6B}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4140,7 +4140,7 @@
       GUID {610D0D16-1AEF-1B49-B08C-5A3D1DF55B4A}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4163,7 +4163,7 @@
       GUID {3E34FC34-8691-1C4A-A4F0-9FF9D86F9BE4}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4186,7 +4186,7 @@
       GUID {01B77553-91FA-A349-9BD0-4D3E369C9FE8}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4209,7 +4209,7 @@
       GUID {101DFDDA-0826-8241-95B1-7422F7E95878}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4232,7 +4232,7 @@
       GUID {17CB73AC-BE03-7E48-BD35-9B965F6AA3A4}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4255,7 +4255,7 @@
       GUID {B6EC1CF7-3BC4-D440-AB5C-055A29498D58}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4278,7 +4278,7 @@
       GUID {B09B54A9-D9AF-4D44-B339-061DE211671A}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4301,7 +4301,7 @@
       GUID {064A317B-85F7-D449-AB92-CCFBB1254E60}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4324,7 +4324,7 @@
       GUID {A1C986A8-8EC7-F945-94FD-23C9CAD232E4}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4347,7 +4347,7 @@
       GUID {FB9B1B94-2DA0-674E-9382-C2636D82419F}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4370,7 +4370,7 @@
       GUID {2FF2B126-5A17-164A-9901-D84A37DEFAF6}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4393,7 +4393,7 @@
       GUID {A593381B-4A7D-AA42-B15B-9347939FBFAB}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4416,7 +4416,7 @@
       GUID {44AC69DA-3738-FB4E-AB5E-4F95ED005FA9}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4439,7 +4439,7 @@
       GUID {2DC35683-F06E-3045-8E95-435855D1F3BB}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4462,7 +4462,7 @@
       GUID {F469FF91-37D3-A44D-B29A-FC3C01737135}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4485,7 +4485,7 @@
       GUID {6E959997-C889-974F-B696-E1D979AFC13B}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4508,7 +4508,7 @@
       GUID {2B32F3A2-8749-664B-BFB1-6AE31FA451D4}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4531,7 +4531,7 @@
       GUID {3C8A2E9C-B69C-3B4F-9D05-5E5C9ADA36A9}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4554,7 +4554,7 @@
       GUID {CD304AF6-AF1A-0A4C-A7C3-3C412C2F08AB}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4577,7 +4577,7 @@
       GUID {187080AC-86BC-E742-ACFF-B754E96D27C6}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4600,7 +4600,7 @@
       GUID {B23ACDA7-BDA6-C746-B433-C0AED8AC42A3}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4623,7 +4623,7 @@
       GUID {47B41034-8BFD-EA4D-A05D-656E1FF66161}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4646,7 +4646,7 @@
       GUID {0D3F5C33-DF05-0748-951B-44D320EEDB18}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4669,7 +4669,7 @@
       GUID {5AEDA4BF-BFCE-6445-80B9-99BD925477B6}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4692,7 +4692,7 @@
       GUID {DB883870-0EAE-3B48-BAEF-E263B950F7AC}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4715,7 +4715,7 @@
       GUID {1FAAF3FC-F03E-C749-8381-7146029CD73D}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4738,7 +4738,7 @@
       GUID {8EA15012-8A8C-CB48-92A9-D3BA116ADC0F}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4761,7 +4761,7 @@
       GUID {FAF06B05-3CA8-564C-997C-1F516D47A9EF}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4784,7 +4784,7 @@
       GUID {C7D29660-91E1-CB42-9340-5538E074DB83}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4807,7 +4807,7 @@
       GUID {8B7F9355-61D9-5743-82BE-5FB3EC285879}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4830,7 +4830,7 @@
       GUID {CE58BC74-E8DB-E843-9C09-43B9DD5CFEB1}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4853,7 +4853,7 @@
       GUID {E52B6DE9-2219-A04E-A87B-285072EA7736}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4876,7 +4876,7 @@
       GUID {5649E89E-432B-5C42-8D6B-15F16F0A4C3B}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4899,7 +4899,7 @@
       GUID {18572B50-66D2-6547-A564-C519348FC78A}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4922,7 +4922,7 @@
       GUID {FB1F8BF8-13E0-1245-833A-C4F099E7230F}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4945,7 +4945,7 @@
       GUID {7A0A467F-4526-1946-92D5-964563C36F81}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4968,7 +4968,7 @@
       GUID {16634B38-29B8-6843-B5D0-EAF8D39EBB84}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -4991,7 +4991,7 @@
       GUID {988CA7A1-6869-8B4B-AC14-730512399657}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5014,7 +5014,7 @@
       GUID {D17D63F4-B1D8-5B4C-A45E-5F3C8F318C2B}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5037,7 +5037,7 @@
       GUID {E8A59C49-FB79-0449-8C9B-199765122908}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5060,7 +5060,7 @@
       GUID {97BEAD50-0C6E-E74C-999C-4EAC4A58BEBB}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5083,7 +5083,7 @@
       GUID {3627B3F1-2F22-D548-B786-2363D7D3A17D}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5106,7 +5106,7 @@
       GUID {FAEC2595-9372-0C46-90D2-0921745DE945}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5129,7 +5129,7 @@
       GUID {A484864C-D987-7C4A-849C-F75D783AC17E}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5152,7 +5152,7 @@
       GUID {128E48D3-A4F6-DA48-9D61-C3B748983AB1}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5175,7 +5175,7 @@
       GUID {38608C65-F9CF-F848-A86C-05BCE62AF441}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5198,7 +5198,7 @@
       GUID {E7C1F6AD-B993-6540-97D2-14F1EA1D2418}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5221,7 +5221,7 @@
       GUID {58DF6DE6-9B21-7044-A35A-8862ECFCEDA7}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5244,7 +5244,7 @@
       GUID {7BA38ED5-F0CB-C445-B317-94915EE0F3C6}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
     <ITEM
@@ -5267,7 +5267,7 @@
       GUID {E51C0717-D8F5-5847-A810-49B2DB35C7FB}
       RECPASS 82
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-more drums-230326_1929.wav"
+        FILE "Audio/06-more drums-230326_1929.wav"
       >
     >
   >
@@ -5332,7 +5332,7 @@
       GUID {81D53BF4-8F4A-624A-96E7-7D29A2A66EC4}
       RECPASS 78
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-Echoes-230326_1908.wav"
+        FILE "Audio/06-Echoes-230326_1908.wav"
       >
     >
     <ITEM
@@ -5355,7 +5355,7 @@
       GUID {EC875BDC-9D40-1C49-8BAD-DA96F6A00FC5}
       RECPASS 78
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/06-Echoes-230326_1908.wav"
+        FILE "Audio/06-Echoes-230326_1908.wav"
       >
     >
   >
@@ -5449,7 +5449,7 @@
       GUID {15812070-A33E-0141-BADD-C7DEA5EECD5B}
       RECPASS 88
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/08-Noises-230326_2003.wav"
+        FILE "Audio/08-Noises-230326_2003.wav"
       >
     >
     <ITEM
@@ -5472,7 +5472,7 @@
       GUID {81A1215D-E614-D146-8882-25671B78C20D}
       RECPASS 88
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/08-Noises-230326_2003.wav"
+        FILE "Audio/08-Noises-230326_2003.wav"
       >
     >
     <ITEM
@@ -5495,7 +5495,7 @@
       GUID {82088304-0470-1841-B93F-1693AF9043DD}
       RECPASS 88
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/08-Noises-230326_2003.wav"
+        FILE "Audio/08-Noises-230326_2003.wav"
       >
     >
     <ITEM
@@ -5518,7 +5518,7 @@
       GUID {478CE8FC-58BB-AD4C-A1B1-E1D81ABE279E}
       RECPASS 88
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/08-Noises-230326_2003.wav"
+        FILE "Audio/08-Noises-230326_2003.wav"
       >
     >
     <ITEM
@@ -5541,7 +5541,7 @@
       GUID {69835496-38FB-8845-9DC9-EA1EA13CA8BE}
       RECPASS 88
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/08-Noises-230326_2003.wav"
+        FILE "Audio/08-Noises-230326_2003.wav"
       >
     >
   >
@@ -5593,7 +5593,7 @@
       GUID {84639C4A-45C0-614F-973C-60C52A570FAD}
       RECPASS 91
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/10-Matra 2-230326_2035.wav"
+        FILE "Audio/10-Matra 2-230326_2035.wav"
       >
       TAKE NULL
     >
@@ -5617,7 +5617,7 @@
       GUID {BD08EE84-9689-C946-8EE3-D32870E448C2}
       RECPASS 91
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/10-Matra 2-230326_2035.wav"
+        FILE "Audio/10-Matra 2-230326_2035.wav"
       >
       TAKE SEL
       NAME "10-Matra 2-230326_2043.wav"
@@ -5629,7 +5629,7 @@
       GUID {40D08068-1AC9-7747-9340-4F6C7CD850B1}
       RECPASS 93
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/10-Matra 2-230326_2043.wav"
+        FILE "Audio/10-Matra 2-230326_2043.wav"
       >
     >
     <ITEM
@@ -5655,7 +5655,7 @@
       GUID {6109924A-249A-7E4A-B3AB-EA1D5B936ACA}
       RECPASS 93
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/10-Matra 2-230326_2043.wav"
+        FILE "Audio/10-Matra 2-230326_2043.wav"
       >
     >
   >
@@ -5723,7 +5723,7 @@
       GUID {85CDFE06-DDF3-CF42-9F67-9CE5AB51BF0E}
       RECPASS 100
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/08-Echo fade-230326_2106.wav"
+        FILE "Audio/08-Echo fade-230326_2106.wav"
       >
     >
     <ITEM
@@ -5746,7 +5746,7 @@
       GUID {80DAC270-207C-FA43-A904-279A0AF62A64}
       RECPASS 100
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/08-Echo fade-230326_2106.wav"
+        FILE "Audio/08-Echo fade-230326_2106.wav"
       >
     >
   >
@@ -5845,7 +5845,7 @@
       CHANMODE 0
       GUID {6FA9F0C6-EDE7-9C4A-8CCA-BE528CF22BD0}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
       >
     >
     <ITEM
@@ -5868,7 +5868,7 @@
       CHANMODE 0
       GUID {D9E28107-1397-E94C-98E9-62C5E8B15748}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
       >
     >
     <ITEM
@@ -5891,7 +5891,7 @@
       CHANMODE 0
       GUID {B5224D67-C948-504C-B43E-6666C604ABBD}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGod_20221204_01.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGod_20221204_01.wav"
       >
     >
     <ITEM
@@ -5914,7 +5914,7 @@
       CHANMODE 0
       GUID {7F474C28-E56A-BE4A-B367-5294DCC92F10}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
       >
     >
     <ITEM
@@ -5937,7 +5937,7 @@
       CHANMODE 0
       GUID {90EB1AAA-E7DE-7842-AAEF-C010EF87114D}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
       >
     >
     <ITEM
@@ -5960,7 +5960,7 @@
       CHANMODE 0
       GUID {EA554410-380C-5E45-B405-C86E5CD0E2D5}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
       >
     >
     <ITEM
@@ -5983,7 +5983,7 @@
       CHANMODE 0
       GUID {75BEBD09-295E-1940-8F68-8A5A2F6D1681}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGod_20221204_03.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGod_20221204_03.wav"
       >
     >
     <ITEM
@@ -6006,7 +6006,7 @@
       CHANMODE 0
       GUID {3F15B562-0F48-D448-A4FE-F0E00F161923}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGod_20221204_01.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGod_20221204_01.wav"
       >
     >
     <ITEM
@@ -6029,7 +6029,7 @@
       CHANMODE 0
       GUID {B987BAD2-1927-9B4E-86BC-5CE669A05032}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
       >
     >
     <ITEM
@@ -6052,7 +6052,7 @@
       CHANMODE 0
       GUID {13847D8E-5CE9-1B41-A43C-D99EB5F6ED87}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGodTake2_20221204.wav"
       >
     >
     <ITEM
@@ -6075,7 +6075,7 @@
       CHANMODE 0
       GUID {47F5D6DA-91DC-3A4D-B042-D0B360071933}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGod_20221204_03.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGod_20221204_03.wav"
       >
     >
     <ITEM
@@ -6098,7 +6098,7 @@
       CHANMODE 0
       GUID {BF2F76E5-206D-C84B-BF5E-6A88637CC65F}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_E_VoiceOfGod_20221204_03.wav"
+        FILE "Audio/Sizzle_E_VoiceOfGod_20221204_03.wav"
       >
     >
   >
@@ -6179,7 +6179,7 @@
       CHANMODE 0
       GUID {9F6A0F6C-F55D-CC47-BA50-CD72192B6863}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6202,7 +6202,7 @@
       CHANMODE 0
       GUID {8E1BA2C4-B38B-6D4C-95CC-6C8DD35DC092}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6225,7 +6225,7 @@
       CHANMODE 0
       GUID {6AC6EE40-A3A6-1244-919B-249E9821C9A8}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6248,7 +6248,7 @@
       CHANMODE 0
       GUID {CC398E99-C09A-A945-A932-D877938CF41C}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6271,7 +6271,7 @@
       CHANMODE 0
       GUID {E0FFFBE3-2335-1443-90F8-CB85B4C4954D}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6294,7 +6294,7 @@
       CHANMODE 0
       GUID {E27F6270-385D-2F41-A36B-226E9ADB4F60}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6317,7 +6317,7 @@
       CHANMODE 0
       GUID {3D5949FD-99A4-6A4F-A354-698FF6E76B41}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6340,7 +6340,7 @@
       CHANMODE 0
       GUID {EDD0A764-C65B-D549-A27F-C5E5291E2A43}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6363,7 +6363,7 @@
       CHANMODE 0
       GUID {39D22353-1FD6-664A-B047-6853B6D3479C}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6386,7 +6386,7 @@
       CHANMODE 0
       GUID {7A0D7BC3-8CE7-8B40-BA11-211B754DEABD}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6409,7 +6409,7 @@
       CHANMODE 0
       GUID {5CFC6A58-5EEB-9F46-83AB-2BDD3750B917}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6432,7 +6432,7 @@
       CHANMODE 0
       GUID {54D3C627-2934-E647-8149-A16F322C9629}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6455,7 +6455,7 @@
       CHANMODE 0
       GUID {F3F83167-F673-C84C-A585-C5597794392C}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6478,7 +6478,7 @@
       CHANMODE 0
       GUID {B681DC90-D13C-FB4E-ABE2-1B64ABF84AAF}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6501,7 +6501,7 @@
       CHANMODE 0
       GUID {E135BB56-C6E9-6144-B0B5-F5B02F810D53}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6524,7 +6524,7 @@
       CHANMODE 0
       GUID {4D8F8628-F3F8-8347-841E-85D710B2E62C}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGod_20221204_01.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGod_20221204_01.wav"
       >
     >
     <ITEM
@@ -6547,7 +6547,7 @@
       CHANMODE 0
       GUID {0CE785B7-C0C7-C047-8FEF-5A7627855C68}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_J_VoiceOfGod_20221204_01.wav"
+        FILE "Audio/Sizzle_J_VoiceOfGod_20221204_01.wav"
       >
     >
   >
@@ -6623,7 +6623,7 @@
       CHANMODE 0
       GUID {102B8108-766E-9C40-AD55-4A4669A097E5}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6646,7 +6646,7 @@
       CHANMODE 0
       GUID {EB33BBB9-9C22-004E-A6E4-199055F6FB6E}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6669,7 +6669,7 @@
       CHANMODE 0
       GUID {C62A1B3E-A5E6-7B46-B637-6BE66D0BEA5B}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6692,7 +6692,7 @@
       CHANMODE 0
       GUID {867442D2-FA6B-A344-96C1-5FF931BF91A4}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6715,7 +6715,7 @@
       CHANMODE 0
       GUID {27B0CC74-A5EB-9E43-B1D5-2736A5C6C3B4}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6738,7 +6738,7 @@
       CHANMODE 0
       GUID {947A215C-D10F-CB4C-8B38-60CD1CA17C91}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6761,7 +6761,7 @@
       CHANMODE 0
       GUID {60362207-A84A-2945-B1E7-450437024102}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6784,7 +6784,7 @@
       CHANMODE 0
       GUID {D2E9D9DF-1B00-FE4A-A0BE-70951F493F65}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGod_20221204_01.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGod_20221204_01.wav"
       >
     >
     <ITEM
@@ -6807,7 +6807,7 @@
       CHANMODE 0
       GUID {4D822F44-B75C-E642-8488-20B85CF71C56}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGod_20221204_01.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGod_20221204_01.wav"
       >
     >
     <ITEM
@@ -6830,7 +6830,7 @@
       CHANMODE 0
       GUID {2934FC5A-4DAB-B946-8DCD-74830470CC87}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6853,7 +6853,7 @@
       CHANMODE 0
       GUID {204CE2FF-7FA1-9F44-9B65-2F651DA26DB2}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6876,7 +6876,7 @@
       CHANMODE 0
       GUID {C7C53B6E-FDF3-214F-9F28-0E19B5EB2EEB}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6899,7 +6899,7 @@
       CHANMODE 0
       GUID {69B076F1-B90D-594E-8A47-2B8351EBB8EB}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6922,7 +6922,7 @@
       CHANMODE 0
       GUID {E645E166-4A73-424E-ADAC-345F87AB5F71}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
     <ITEM
@@ -6945,7 +6945,7 @@
       CHANMODE 0
       GUID {6F7723DD-1DC6-E74A-BEE9-768C324D531F}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
+        FILE "Audio/Sizzle_T_VoiceOfGodTake2_20221213.wav"
       >
     >
   >
@@ -7039,7 +7039,7 @@
       GUID {0153577E-CDD6-E34C-8D53-500EDED5B7F1}
       RECPASS 51
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/14-230315_1418.wav"
+        FILE "Audio/14-230315_1418.wav"
       >
     >
   >
@@ -7103,7 +7103,7 @@
       GUID {91D9C969-15F8-5146-8636-37D1A953A369}
       RECPASS 46
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/13-more echoes-230315_1404.wav"
+        FILE "Audio/13-more echoes-230315_1404.wav"
       >
     >
   >
@@ -7157,7 +7157,7 @@
       GUID {193BB478-414A-854B-9638-9C6E89F5C1B1}
       RECPASS 50
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/13-more echoes-230315_1416.wav"
+        FILE "Audio/13-more echoes-230315_1416.wav"
       >
     >
   >
@@ -7173,7 +7173,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -7205,7 +7205,7 @@
         IQAAAAcAAAAIAAAAAQAAAEdH1gFXyrdAcugglZKz1z+yne+nxkvHPwEIAAAAAQAAACHtsDW6xWBAJWUacEML9T8AAAAAAAAAQAEIAAAAAQAAAKMT2kH+YIZA+F8HUbms
         5j+28/3UeOnqPwEIAAAAAQAAACwGt54ku7dAbIQQAlki+D8AAAAAAAAAQAEIAAAAAAAAAOGcOtg1C8NATQ2aVUnP2z+PwvUoXI/yPwEIAAAAAQAAANofWzuAJptA3SeH
         Rbda6j8AAAAAAAAAQAEIAAAAAQAAADVSWD7PgJJABHEcgf/f7D/2KFyPwvXIPwEBAAAAAQAAAAAAAAAAAPA/AAAAAEACAABrAQAAAgAAAA==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {8BADDE6B-2873-384C-97A5-D62605E486D6}
@@ -7239,7 +7239,7 @@
       GUID {B75BFFF0-0929-7046-984C-DCAE5F5A3498}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
       >
     >
     <ITEM
@@ -7263,7 +7263,7 @@
       GUID {12FD05FD-5033-264F-8A5D-10E7D8B7927C}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
       >
     >
     <ITEM
@@ -7287,7 +7287,7 @@
       GUID {FB0D769B-8E48-B948-BC64-FCA604860DBD}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
+        FILE "Audio/01_Zoom_GuillaumeInterviewWithoutJoe_20220425.m4a"
       >
     >
   >
@@ -7347,7 +7347,7 @@
       CHANMODE 0
       GUID {BCC3655A-6D77-B247-BF79-47D2B4740F20}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05_JHyacinth_HyacinthInterview_20220501_01.wav"
+        FILE "Audio/05_JHyacinth_HyacinthInterview_20220501_01.wav"
       >
     >
     <ITEM
@@ -7370,7 +7370,7 @@
       CHANMODE 0
       GUID {675CD60F-A35D-6647-BA49-1485A3C40F95}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05_JHyacinth_HyacinthInterview_20220501_01.wav"
+        FILE "Audio/05_JHyacinth_HyacinthInterview_20220501_01.wav"
       >
     >
     <ITEM
@@ -7393,7 +7393,7 @@
       CHANMODE 0
       GUID {DCB9D9F4-A13A-1346-AFE5-B64B651ABE85}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/05_JHyacinth_HyacinthInterview_20220501_01.wav"
+        FILE "Audio/05_JHyacinth_HyacinthInterview_20220501_01.wav"
       >
     >
   >
@@ -7466,7 +7466,7 @@
       GUID {49AF62A5-8FCE-B546-B1D8-9FD92E579172}
       RECPASS 56
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/15-230315_1436-01.wav"
+        FILE "Audio/15-230315_1436-01.wav"
       >
       TAKE NULL
     >
@@ -7492,7 +7492,7 @@
       GUID {1A1C6174-D49A-B440-9A12-5096E22E8CE6}
       RECPASS 56
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/15-230315_1436-01.wav"
+        FILE "Audio/15-230315_1436-01.wav"
       >
       TAKE SEL
       NAME 15-230315_1439.wav
@@ -7504,7 +7504,7 @@
       GUID {F29CD007-D306-1044-AA59-F11A6928146D}
       RECPASS 58
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/15-230315_1439.wav"
+        FILE "Audio/15-230315_1439.wav"
       >
       TAKE NULL
     >
@@ -7553,7 +7553,7 @@
       GUID {81313DF1-9C6F-814A-91B6-DAD9300B2FF0}
       RECPASS 52
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/15-230315_1424.wav"
+        FILE "Audio/15-230315_1424.wav"
       >
     >
     <ITEM
@@ -7577,7 +7577,7 @@
       GUID {17F2E67A-39A3-B240-892B-4B04CD2F6AD6}
       RECPASS 52
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/15-230315_1424.wav"
+        FILE "Audio/15-230315_1424.wav"
       >
     >
     <ITEM
@@ -7601,7 +7601,7 @@
       GUID {7A81719D-D0C4-474F-BAB5-08A99AD6EE45}
       RECPASS 53
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/15-230315_1427.wav"
+        FILE "Audio/15-230315_1427.wav"
       >
       TAKE SEL
       NAME 15-230315_1436-01.wav
@@ -7613,7 +7613,7 @@
       GUID {47CF1BE5-D718-EB4A-94B1-5F17AF55F44C}
       RECPASS 56
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/15-230315_1436-01.wav"
+        FILE "Audio/15-230315_1436-01.wav"
       >
       TAKE NULL
     >
@@ -7641,7 +7641,7 @@
       GUID {7533C83E-B3FE-6F49-97B1-653B664CB03C}
       RECPASS 56
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/15-230315_1436-01.wav"
+        FILE "Audio/15-230315_1436-01.wav"
       >
       TAKE NULL
     >
@@ -7689,7 +7689,7 @@
       CHANMODE 0
       GUID {891E581E-BDDE-BB49-93F7-7F9C85D9EB3D}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_FirstRandomWillCall_20220312.wav"
+        FILE "Audio/01_J_FirstRandomWillCall_20220312.wav"
       >
     >
     <ITEM
@@ -7712,7 +7712,7 @@
       CHANMODE 0
       GUID {F3F77788-A4E3-6F46-AABC-62CAB0D0020B}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_FirstRandomWillCall_20220312.wav"
+        FILE "Audio/01_J_FirstRandomWillCall_20220312.wav"
       >
     >
   >
@@ -7759,7 +7759,7 @@
       CHANMODE 0
       GUID {36D479C2-B854-344A-B15A-9A062852EEC6}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Will_FirstRandomWillCall_20220312.WAV"
+        FILE "Audio/01_Will_FirstRandomWillCall_20220312.WAV"
       >
     >
     <ITEM
@@ -7782,7 +7782,7 @@
       CHANMODE 0
       GUID {D01C1068-AA82-7842-B4D0-6A2C9E6C9C63}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Will_FirstRandomWillCall_20220312.WAV"
+        FILE "Audio/01_Will_FirstRandomWillCall_20220312.WAV"
       >
     >
   >
@@ -7855,7 +7855,7 @@
       CHANMODE 0
       GUID {2CF28126-CF2D-AA4C-924E-58DA1B5E7977}
       <SOURCE VIDEO
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -7878,7 +7878,7 @@
       CHANMODE 0
       GUID {0A29A514-B036-C640-A9F6-C13D6F4BA90F}
       <SOURCE VIDEO
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -7901,7 +7901,7 @@
       CHANMODE 0
       GUID {4ACA8328-FC60-344B-8CC8-E5B34AAD5D86}
       <SOURCE VIDEO
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -7924,7 +7924,7 @@
       CHANMODE 0
       GUID {683CA0CE-5511-894A-BE3C-5D7696A4DEC7}
       <SOURCE VIDEO
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -7947,7 +7947,7 @@
       CHANMODE 0
       GUID {C67AD88A-F7C2-3D4B-BD6B-E2483301B094}
       <SOURCE VIDEO
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -7970,7 +7970,7 @@
       CHANMODE 0
       GUID {982ABD25-F4D5-1C46-807D-021CC82FB1A4}
       <SOURCE VIDEO
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -7993,7 +7993,7 @@
       CHANMODE 0
       GUID {14AD80AE-52B3-3348-8304-FDB1277E3F64}
       <SOURCE VIDEO
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
     <ITEM
@@ -8016,7 +8016,7 @@
       CHANMODE 0
       GUID {595D8F9B-B8B8-274F-8914-ECAED94E5E76}
       <SOURCE VIDEO
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_Zoom_JungPodInterview_20220202.mp4"
+        FILE "Audio/01_Zoom_JungPodInterview_20220202.mp4"
       >
     >
   >
@@ -8089,7 +8089,7 @@
       CHANMODE 0
       GUID {371F2D68-7ED2-2842-AA92-72E8A70658E5}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/02_Zoom_AshleyCall_20211121.wav"
+        FILE "Audio/02_Zoom_AshleyCall_20211121.wav"
       >
     >
     <ITEM
@@ -8112,7 +8112,7 @@
       CHANMODE 0
       GUID {4BBF12BE-76F4-4943-A81D-640465A020F3}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/02_Zoom_AshleyCall_20211121.wav"
+        FILE "Audio/02_Zoom_AshleyCall_20211121.wav"
       >
     >
   >
@@ -8149,7 +8149,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {56D5741E-5AF2-734A-AD7F-DB5284E8D8E4}
       IID 1503
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8159,7 +8159,7 @@
       CHANMODE 0
       GUID {2E43C729-0F5D-404D-AB32-263B66731197}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
       <VOLENV
         EGUID {1C702443-4D17-9948-B0CA-E73675636303}
@@ -8182,7 +8182,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {156CC121-93D9-9741-AC0C-A04C0182F459}
       IID 1565
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8192,7 +8192,7 @@
       CHANMODE 0
       GUID {D47355C2-525D-2342-8D6D-08E3F26F9DF5}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8205,7 +8205,7 @@
       FADEOUT 1 0.114553 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {6B382B9F-5187-7B43-9CA7-A675B18699F1}
       IID 1565
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8215,7 +8215,7 @@
       CHANMODE 0
       GUID {FFA45F99-3D0D-9F44-9F9D-25CDEDBCF14B}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8228,7 +8228,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {EEACC874-360A-4A40-9313-D54CE98DC759}
       IID 168
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8238,7 +8238,7 @@
       CHANMODE 0
       GUID {BE206D2B-405A-A74F-B48A-B92904BFD0D8}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8251,7 +8251,7 @@
       FADEOUT 1.1 0 0.065545 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {953FE9F8-9991-3245-90AC-38B11404DD26}
       IID 168
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8261,7 +8261,7 @@
       CHANMODE 0
       GUID {7065B8E4-CFE5-3842-994A-91B00B59741A}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8274,7 +8274,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {56E50E37-B0D9-2E4E-9B51-7CA4F74045C2}
       IID 168
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8284,7 +8284,7 @@
       CHANMODE 0
       GUID {BAFAA9B1-A601-2545-BD4C-64ADE666E461}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8297,7 +8297,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {490C7037-711F-5344-9F06-E978370CB0B1}
       IID 168
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8307,7 +8307,7 @@
       CHANMODE 0
       GUID {A3013B06-7AEC-E44A-9B7A-E1910C9462BB}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8320,7 +8320,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {9B5A6DD6-BE14-3E47-8F4E-4D9EE02F50D5}
       IID 168
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8330,7 +8330,7 @@
       CHANMODE 0
       GUID {DF126089-F888-DD49-BBC6-B198F8C680B0}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8343,7 +8343,7 @@
       FADEOUT 1 0.699731 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {C7847B0C-A032-6245-AA63-1036E748D6F7}
       IID 176
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8353,7 +8353,7 @@
       CHANMODE 0
       GUID {F2B13CE5-16E3-0445-AE1B-8A25E172628F}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8366,7 +8366,7 @@
       FADEOUT 1 0.071973 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {173B28BC-D984-7647-9DC4-85686203310F}
       IID 176
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8376,7 +8376,7 @@
       CHANMODE 0
       GUID {4D1C0759-4291-C54A-B201-F920E3437608}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8389,7 +8389,7 @@
       FADEOUT 1 0.109022 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {31915E17-3696-F54D-80E9-39C756B799E6}
       IID 176
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8399,7 +8399,7 @@
       CHANMODE 0
       GUID {1E217C64-062B-C542-A764-ABE248BE8D09}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8412,7 +8412,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {698A899F-849F-BF4F-9007-1C7A0ECFA4EB}
       IID 176
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8422,7 +8422,7 @@
       CHANMODE 0
       GUID {0D9EC336-A30B-CB4E-A5FD-FF4B3F66BE81}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8435,7 +8435,7 @@
       FADEOUT 1 0.160632 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {740A2046-F3C8-2541-9053-2CFE4AEAE073}
       IID 176
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8445,7 +8445,7 @@
       CHANMODE 0
       GUID {09FD34BE-EB82-1B45-88B0-E4ED31321E28}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8458,7 +8458,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {68857F42-65D9-6C41-838B-C45475AA3BD4}
       IID 176
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8468,7 +8468,7 @@
       CHANMODE 0
       GUID {AA9C34EB-EC31-1F4B-874D-BA4539BB53AD}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8481,7 +8481,7 @@
       FADEOUT 1.1 0.01 0.050486 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {DC3F37FA-67D7-F647-860A-C1DE51A700BD}
       IID 176
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8491,7 +8491,7 @@
       CHANMODE 0
       GUID {85BD64F8-A61E-8546-8D73-2B6232CC4A54}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8504,7 +8504,7 @@
       FADEOUT 1.1 0.01 0.065524 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {476F9212-3FB4-CD4A-8E46-A44867C5643F}
       IID 176
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8514,7 +8514,7 @@
       CHANMODE 0
       GUID {98515578-694C-F942-B9A0-25CB8F67B346}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8527,7 +8527,7 @@
       FADEOUT 1.1 0.01 0.19626 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {C578D9C1-389B-9147-B3E4-C4634CF5F26D}
       IID 176
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8537,7 +8537,7 @@
       CHANMODE 0
       GUID {0A170CBF-6874-414C-AEF7-85FAF0960616}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8550,7 +8550,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {79A44004-7A04-BF4F-B9AE-CAE0563C8349}
       IID 187
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8560,7 +8560,7 @@
       CHANMODE 0
       GUID {9ECA56DE-F7D3-A84E-B52C-A096B14A44BD}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8573,7 +8573,7 @@
       FADEOUT 1 0.917201 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {9C73D986-8BFA-C94E-8374-7798610FE4C8}
       IID 187
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8583,7 +8583,7 @@
       CHANMODE 0
       GUID {37115380-CD3D-5347-8A1F-D0FDBE634FCF}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8596,7 +8596,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {540024D7-FE30-B24E-9579-8C5A3D95EB1B}
       IID 802
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8606,7 +8606,7 @@
       CHANMODE 0
       GUID {F343F477-5AE0-A647-839D-3D371391D69D}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8619,7 +8619,7 @@
       FADEOUT 1.1 0.01 0.716125 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {BCE38A83-F47C-0E44-A7EE-3F50A9CAC6C5}
       IID 802
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8629,7 +8629,7 @@
       CHANMODE 0
       GUID {01C83A51-0300-394A-B00C-78135D78DD48}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8642,7 +8642,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {F432A496-280A-AE4F-95D4-56B60AB6A60C}
       IID 187
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8652,7 +8652,7 @@
       CHANMODE 0
       GUID {0F621EE6-6ADE-AE45-A713-08A37EF81CC9}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8665,7 +8665,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {647CAA4A-1FE0-6F4E-9035-F8AABDCF200D}
       IID 252
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8675,7 +8675,7 @@
       CHANMODE 0
       GUID {81167AB9-F37D-8342-8836-3F110E02E7A2}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8688,7 +8688,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {9875F758-5D9D-364D-8E28-49FBE38E9F36}
       IID 240
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8698,7 +8698,7 @@
       CHANMODE 0
       GUID {0AA7782E-7C8F-CB43-A93A-616477D0E977}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8711,7 +8711,7 @@
       FADEOUT 1 0.18336 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {6CEF10CA-6641-304D-A6E6-2D6D2A9D18C4}
       IID 240
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8721,7 +8721,7 @@
       CHANMODE 0
       GUID {AAD93333-46C0-DA45-8F9E-4CC17F1BEC83}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8734,7 +8734,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {A4C229DA-C8FC-4B46-82F7-03529B97E12C}
       IID 200
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8744,7 +8744,7 @@
       CHANMODE 0
       GUID {314CDE86-6044-5842-BA37-A9327ECC382D}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8757,7 +8757,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {D1B37A67-9B10-2343-9497-157E157EE959}
       IID 200
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8767,7 +8767,7 @@
       CHANMODE 0
       GUID {0D2277D6-5BD1-F748-8CE1-D6DFC695F42E}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
     <ITEM
@@ -8777,10 +8777,10 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
-      FADEOUT 3 0.466008 0 3 0 1 1
+      FADEOUT 3 0.19134 0 3 0 1 1
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {F58BE842-D610-164D-9A63-5A1A648D775F}
       IID 200
       NAME 01_T_RandEventsMapDartThrow_20220327_02.wav
@@ -8790,7 +8790,7 @@
       CHANMODE 0
       GUID {85F95A71-5317-664C-95D7-8C934C646915}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
+        FILE "Audio/01_T_RandEventsMapDartThrow_20220327_02.wav"
       >
     >
   >
@@ -8827,7 +8827,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {6E77B907-03A3-C740-88E5-944B56305BC2}
       IID 177
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -8837,7 +8837,7 @@
       CHANMODE 0
       GUID {2B8CD69E-4B93-9C41-BAAC-389B3AAF763E}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -8850,7 +8850,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {D642E158-C5F1-9745-B6CB-3A9C4F49121A}
       IID 177
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -8860,7 +8860,7 @@
       CHANMODE 0
       GUID {724C1A1A-82A9-734C-9F37-7BBAE423B926}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -8873,7 +8873,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {E6EE13EB-3D80-FD49-90B3-28143F6354FB}
       IID 177
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -8883,7 +8883,7 @@
       CHANMODE 0
       GUID {DF6872D3-DB73-354B-9E3A-D37C0948777B}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -8896,7 +8896,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {CA3FD96C-E119-8A4C-9692-04AECDE81EE2}
       IID 177
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -8906,7 +8906,7 @@
       CHANMODE 0
       GUID {12F797DD-6912-8849-9822-DA1C9B0CEBCC}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -8919,7 +8919,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {C2AD0911-3938-8944-B438-9D90FBB68D16}
       IID 177
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -8929,7 +8929,7 @@
       CHANMODE 0
       GUID {2B04AB60-E97F-8946-97A4-E905D3344CFF}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -8942,7 +8942,7 @@
       FADEOUT 1.1 0.01 0.314033 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {BFDAB8C6-DF66-EC49-80EB-78CDC52F857F}
       IID 177
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -8952,7 +8952,7 @@
       CHANMODE 0
       GUID {C19E8FF6-25DE-BC41-AABE-6DC233339784}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -8965,7 +8965,7 @@
       FADEOUT 1 0.155277 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {07F3DE5E-E9EF-EE44-92B7-DDE9A751CDF9}
       IID 177
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -8975,7 +8975,7 @@
       CHANMODE 0
       GUID {CED01F8A-A750-7741-9EF1-230972ECEB99}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -8988,7 +8988,7 @@
       FADEOUT 1.1 0.01 0.065524 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {C60F76CE-2A3F-E24C-A85A-A792947F89B3}
       IID 177
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -8998,7 +8998,7 @@
       CHANMODE 0
       GUID {FF0DD18D-13B9-E349-B78B-5F6937A8EB41}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9011,7 +9011,7 @@
       FADEOUT 1 0.068576 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {8CCB1E52-1B49-CF48-A292-CA324E3D3B45}
       IID 177
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9021,7 +9021,7 @@
       CHANMODE 0
       GUID {2334AAA6-1663-CC45-B058-502CE2DA5190}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9034,7 +9034,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {817D8D2F-1F6A-C246-B0C5-67CC8B553E49}
       IID 188
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9044,7 +9044,7 @@
       CHANMODE 0
       GUID {30BEF972-E290-2F49-B6E4-408CA11D0DFD}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9057,7 +9057,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {CF0E46D3-4A35-804B-A412-DE3AE023C0CC}
       IID 803
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9067,7 +9067,7 @@
       CHANMODE 0
       GUID {B7B7E0FE-71CF-064A-AB6F-052A412A5B80}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9080,7 +9080,7 @@
       FADEOUT 1 0.165274 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {697E0A6A-BED8-A14F-AA5E-B634F4D62351}
       IID 803
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9090,7 +9090,7 @@
       CHANMODE 0
       GUID {88A2D916-3173-7F41-9A8E-A33E3C972160}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9103,7 +9103,7 @@
       FADEOUT 1.1 0.01 1.285166 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {C7832BE7-690E-A641-A6E8-EC8F624D07D7}
       IID 803
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9113,7 +9113,7 @@
       CHANMODE 0
       GUID {6D1F65B8-E1B4-7C43-9334-1FBA84F89FDD}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9126,7 +9126,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {F6CB69BA-1300-764D-A2E9-B71114FF132A}
       IID 253
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9136,7 +9136,7 @@
       CHANMODE 0
       GUID {C4612C70-2B2C-3E40-8622-1CFF8B3E0400}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9149,7 +9149,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {232942B2-7AC6-6548-8BA9-024F4930ABF2}
       IID 241
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9159,7 +9159,7 @@
       CHANMODE 0
       GUID {93DD74B1-E5B3-E347-B1F4-7D920C9E5DF0}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9172,7 +9172,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {E67C7653-E57B-CB4E-B068-C90224BE6062}
       IID 241
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9182,7 +9182,7 @@
       CHANMODE 0
       GUID {D49A407D-43C4-B847-A32B-35F1003F324D}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9195,7 +9195,7 @@
       FADEOUT 1 0.21157 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {04675F4F-6F6E-D443-8915-CA631F8A252E}
       IID 241
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9205,7 +9205,7 @@
       CHANMODE 0
       GUID {D174BCF6-7D52-0A4E-9BD0-BFA6F8D7AF36}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9218,7 +9218,7 @@
       FADEOUT 1 0.203067 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {6246BFBA-FB80-4241-8AEB-84A85F4B0857}
       IID 241
       NAME 01_J_RandEventsMapDartThrow_20220327.wav
@@ -9228,7 +9228,7 @@
       CHANMODE 0
       GUID {8AA26CAE-3A80-524A-85D6-C10F83C18427}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_J_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_J_RandEventsMapDartThrow_20220327.wav"
       >
     >
   >
@@ -9244,7 +9244,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -9265,7 +9265,7 @@
       FADEOUT 1.1 0.01 0.17049 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {F6FFDE18-04C4-A844-999B-BF07467C7D21}
       IID 1567
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9275,7 +9275,7 @@
       CHANMODE 0
       GUID {D4828715-B7CE-084B-B73F-956723AA3ED8}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9288,7 +9288,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {8A32A815-1006-274A-AB1D-0814D4F0BD61}
       IID 170
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9298,7 +9298,7 @@
       CHANMODE 0
       GUID {A7100358-53E7-EC43-BC19-672A9C870085}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9311,7 +9311,7 @@
       FADEOUT 1 0.231104 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {597EEE5A-DF98-F544-AC2F-28E5890B09A5}
       IID 170
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9321,7 +9321,7 @@
       CHANMODE 0
       GUID {66F2E648-F30F-604C-8A2C-6CDED3AA6B05}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9334,7 +9334,7 @@
       FADEOUT 1.1 0.01 0.128521 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {56646C05-11F0-F348-A7E3-F39C757B32B2}
       IID 178
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9344,7 +9344,7 @@
       CHANMODE 0
       GUID {335DC574-71FE-3E45-836B-FB9BB19705DF}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9357,7 +9357,7 @@
       FADEOUT 1.1 0.01 0.065524 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {4D78C3F3-09CC-0F47-80C4-E49283BE1A69}
       IID 178
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9367,7 +9367,7 @@
       CHANMODE 0
       GUID {B1F90EF1-777A-B740-A464-E2DACF86A89D}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9380,7 +9380,7 @@
       FADEOUT 1 0.068576 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {FB649393-737A-1C4E-8F8D-D413B550A096}
       IID 178
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9390,7 +9390,7 @@
       CHANMODE 0
       GUID {22363B18-0A22-D143-B818-D3B7F48B2933}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9403,7 +9403,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {15EE0F58-EA3B-614C-BC6A-1B909B9A8C23}
       IID 189
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9413,7 +9413,7 @@
       CHANMODE 0
       GUID {E31C404A-1672-2149-A685-D473852EC4B6}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9426,7 +9426,7 @@
       FADEOUT 1 0.272117 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {15E53F47-8C08-0948-8151-7060B11FF064}
       IID 804
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9436,7 +9436,7 @@
       CHANMODE 0
       GUID {87C0F7DB-53C2-F048-AA69-48757D621D9A}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9449,7 +9449,7 @@
       FADEOUT 1.1 0.01 0.774502 1 1 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {933EF2D4-677F-D441-A0C6-828028B52F6D}
       IID 804
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9459,7 +9459,7 @@
       CHANMODE 0
       GUID {391AF6EB-9C11-1146-8586-FEFB028148F3}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9472,7 +9472,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {6363FA5D-9779-9142-A9FF-3C8248E541DA}
       IID 254
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9482,7 +9482,7 @@
       CHANMODE 0
       GUID {4F493057-F4A2-434B-9BF4-FE095A294E25}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
     <ITEM
@@ -9495,7 +9495,7 @@
       FADEOUT 1 0.142239 0 1 0 0 0
       MUTE 0 0
       BEAT 0
-      SEL 0
+      SEL 1
       IGUID {19C92035-E850-594C-8B37-5751EEBF47FF}
       IID 242
       NAME 01_E_RandEventsMapDartThrow_20220327.wav
@@ -9505,7 +9505,7 @@
       CHANMODE 0
       GUID {FE27D0AF-2759-5C46-AB0A-0D25A85500F3}
       <SOURCE WAVE
-        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/SizzleReel/Sizzle tom march music edit 3/Audio/01_E_RandEventsMapDartThrow_20220327.wav"
+        FILE "Audio/01_E_RandEventsMapDartThrow_20220327.wav"
       >
     >
   >
