@@ -1,8 +1,8 @@
-<REAPER_PROJECT 0.1 "7.02/macOS-arm64" 1699816021
+<REAPER_PROJECT 0.1 "7.02/macOS-arm64" 1701788268
   RIPPLE 2
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
-  ENVATTACH 3
+  ENVATTACH 2
   POOLEDENVATTACH 0
   MIXERUIFLAGS 11 48
   PEAKGAIN 2.85311670611
@@ -10,11 +10,11 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
-  GRID 3455 8 1 8 1 0 0 0
+  GRID 3454 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
-  CURSOR 0
-  ZOOM 40.04014175643695 1092 0
-  VZOOMEX 0 0
+  CURSOR 294.13854868458014
+  ZOOM 1.50609296870861 0 0
+  VZOOMEX 1.31666672 720
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 208.18358896062742 442.67196352999838
-  SELECTION2 208.18358896062742 442.67196352999838
+  SELECTION 539.80731395161092 296.79442722800752
+  SELECTION2 539.80731395161092 296.79442722800752
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -91,7 +91,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0.69287534856501 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -177,7 +177,7 @@
     <ITEM
       POSITION 41.29057438360033
       SNAPOFFS 0
-      LENGTH 4.34242684490668
+      LENGTH 0.28956974602042
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -197,9 +197,31 @@
       >
     >
     <ITEM
-      POSITION 78.437733031275
+      POSITION 100.40230726267913
       SNAPOFFS 0
-      LENGTH 3.7173047229092
+      LENGTH 4.05285709888626
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {363B7814-741D-3C4C-9926-0EE7EAA05E15}
+      IID 4
+      NAME 01_J_FailuresVoiceover_20230903_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 229.08311978265502
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69C7997B-6499-2A42-BED1-A187DF46C64D}
+      <SOURCE WAVE
+        FILE "Audio/01_J_FailuresVoiceover_20230903_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 157.99100434830839
+      SNAPOFFS 0
+      LENGTH 3.71730472290866
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -219,9 +241,9 @@
       >
     >
     <ITEM
-      POSITION 94.38540312536784
+      POSITION 173.93867444240129
       SNAPOFFS 0
-      LENGTH 4.63359454594979
+      LENGTH 4.63359454594956
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -241,9 +263,9 @@
       >
     >
     <ITEM
-      POSITION 165.63937354711467
+      POSITION 245.19264486414764
       SNAPOFFS 0
-      LENGTH 4.91817965044561
+      LENGTH 4.91817965044538
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -263,9 +285,9 @@
       >
     >
     <ITEM
-      POSITION 170.49037877929197
+      POSITION 250.04365009632502
       SNAPOFFS 0
-      LENGTH 2.28393022112311
+      LENGTH 2.28393022112277
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0.01 0.067174 1 1 0 0
@@ -285,9 +307,9 @@
       >
     >
     <ITEM
-      POSITION 200.56447145181599
+      POSITION 280.1177427688495
       SNAPOFFS 0
-      LENGTH 4.22021435156753
+      LENGTH 4.22021435156722
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -307,9 +329,9 @@
       >
     >
     <ITEM
-      POSITION 204.78468580338355
+      POSITION 284.33795712041632
       SNAPOFFS 0
-      LENGTH 2.09860817081744
+      LENGTH 2.09860817081699
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -353,9 +375,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 129.33728114907882
+      POSITION 208.89055246611167
       SNAPOFFS 0
-      LENGTH 5.54629937913305
+      LENGTH 5.54629937913273
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -375,9 +397,9 @@
       >
     >
     <ITEM
-      POSITION 134.88358052821172
+      POSITION 214.43685184524509
       SNAPOFFS 0
-      LENGTH 1.56233315313503
+      LENGTH 1.56233315313511
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -409,7 +431,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -429,7 +451,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {6E6A0D2C-1D5F-7D4D-8D25-D3D808B0A050}
       IID 8
       NAME 01_T_DiceRoll_2021.wav
@@ -478,7 +500,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {6775454B-6B08-F244-83A3-ADF30C82E78D}
       IID 7
       NAME 01_J_DiceRoll_2021.wav
@@ -525,7 +547,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {A7048C0F-329E-CC43-A1A7-421186F55730}
       IID 6
       NAME 01_E_DiceRoll_2021.wav
@@ -549,7 +571,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 2 0 0 0 0
+    BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -563,8 +585,652 @@
     MIDIOUT -1
     MAINSEND 1 0
   >
-  <TRACK {A9A2263E-D14D-BA44-BCDC-C11B32F08851}
-    NAME 01_E_BeforeMapquest_20220409
+  <TRACK {E859B83B-A304-3342-8FE7-533D9B9162ED}
+    NAME "T more pre"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E859B83B-A304-3342-8FE7-533D9B9162ED}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 41.58014412957709
+      SNAPOFFS 0
+      LENGTH 3.352936309998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3010B702-1B12-C943-86FD-8FF736A20DDD}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 550.19607356267522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1861FDDA-69D5-5F4F-BA7A-D7E6C3AB2B30}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 44.93308043957222
+      SNAPOFFS 0
+      LENGTH 4.23149532846078
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44A6E959-BE12-7144-9FEA-5C36495C42FE}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 554.96743807558073
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42CD170B-223C-CB41-9BD8-798515E72235}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.1645757680526
+      SNAPOFFS 0
+      LENGTH 3.87197134029498
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07D42C77-C4C6-D04A-A5A0-D711FDE90002}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 581.95906255621287
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAAAFA18-FB43-3942-954A-F9CE64E0FE95}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.03654710832053
+      SNAPOFFS 0
+      LENGTH 0.67467616403946
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E8F00585-A0C1-0947-BBBC-78B4FCB8DEDD}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 593.68526365778484
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B27F94C1-E98B-7D49-90ED-60B6921B20E0}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.70892203103808
+      SNAPOFFS 0
+      LENGTH 0.00230124131924
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00230124131924 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {631EC821-868C-8345-AB58-87366176BA8E}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70628592748585
+      PLAYRATE 1.00000000000105 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE3E39EE-E4AD-2948-891D-D3F1531F2F27}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.71122327242569
+      SNAPOFFS 0
+      LENGTH 2.86556789887228
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE093FE2-CC62-AC42-99E6-C5D5225EEA37}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70858716880514
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6ABBF79A-792B-534E-BA4B-73765156183A}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 56.57679117126911
+      SNAPOFFS 0
+      LENGTH 6.72134570039233
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FBA468CD-52BC-CD41-96F1-01C9DA3D469A}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 608.20254884504504
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C06E20EC-F1DC-DC43-BE61-7D462A007647}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.29813687170914
+      SNAPOFFS 0
+      LENGTH 1.46028069931651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {48A0E772-8099-C843-AE22-E2E898EA424C}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 614.92389454543741
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {230A5A95-43F8-9943-B7F9-90F3DB4FE5D9}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.75841757101531
+      SNAPOFFS 0
+      LENGTH 3.5582273878387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB1AE391-7FC5-2B48-AE24-7C313C3F88A7}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 636.85292425739522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B4EB282-B6D7-0C4B-9B4A-56AA7A2C1C3B}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 68.31664495885431
+      SNAPOFFS 0
+      LENGTH 2.09496457695992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01BF68BF-FDBE-764A-84A3-044B46A350ED}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 644.17135336710669
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6615582-0BA0-754A-A3B8-326B447D8E02}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.41160953573942
+      SNAPOFFS 0
+      LENGTH 2.78154940550975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA7ADA39-D7BF-2A41-8404-219B2EB7C5E1}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 648.3311596156409
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE44387F-C9E2-9342-8E0C-404BF2032BA7}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 73.19315894127882
+      SNAPOFFS 0
+      LENGTH 9.46852564802252
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FDD161AB-E5C4-B646-895C-5C4A16076BBD}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 785.93898847065464
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0244647-62B0-AC4E-A6FD-92735D3A4552}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.66168458929009
+      SNAPOFFS 0
+      LENGTH 1.74090133898679
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6664E04D-2DC8-DA45-BD97-545C0FB0226A}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 808.28046831926792
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2DD4F006-CFB7-E841-8506-1A24A50BC1FB}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 84.40258592827435
+      SNAPOFFS 0
+      LENGTH 2.85020858739783
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14E58E78-1EEC-6045-B0F1-733A183A3DA4}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 810.90841248395986
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {450DEAA7-D1FD-E545-97FB-4E63ECECE841}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+  >
+  <TRACK {34F68B01-8467-774A-81F4-28E67DE2126F}
+    NAME "E more pre"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {34F68B01-8467-774A-81F4-28E67DE2126F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 41.58014412957709
+      SNAPOFFS 0
+      LENGTH 3.352936309998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {23F6669D-7560-EF4D-901B-77F86063A4ED}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 550.19607356267522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3F8DB62-6563-2B4C-A5C8-9685BC575EE2}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 44.93308043957222
+      SNAPOFFS 0
+      LENGTH 4.23149532846078
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3C348F34-9B09-0C47-B9D3-FBA7977ACE48}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 554.96743807558073
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {536A4E23-12D3-7A40-BADD-8DC3457BAC01}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.1645757680526
+      SNAPOFFS 0
+      LENGTH 3.87197134029498
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2DA150C1-A6FB-4444-B3F2-973D9A2BA9ED}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 581.95906255621287
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAFBDA88-BFA9-3146-8667-21ADD231856F}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.03654710832053
+      SNAPOFFS 0
+      LENGTH 0.67467616403946
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E852F00-4E4B-954D-A420-96D45E857320}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 593.68526365778484
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4C4EDC66-031A-4246-B66E-ADA45CBDA6BA}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.70892203103808
+      SNAPOFFS 0
+      LENGTH 0.00230124131924
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00230124131924 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6223E12-2ADD-194B-8588-6A8E9E3BEA23}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70628592748585
+      PLAYRATE 1.00000000000105 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E3BDC11-E4A6-3240-9A8C-36FF32AF3AF8}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.71122327242569
+      SNAPOFFS 0
+      LENGTH 2.86556789887228
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF451E04-2322-D742-9A1A-507C24F01078}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70858716880514
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12E70991-B4EB-5044-988D-20E19CA6FD9F}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 56.57679117126911
+      SNAPOFFS 0
+      LENGTH 6.72134570039233
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12D9600E-70CB-8241-ACE0-7D52E5140094}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 608.20254884504504
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCC66FAC-3758-2342-9CAA-931FDE9DA2B5}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 64.75841757101531
+      SNAPOFFS 0
+      LENGTH 3.5582273878387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABD46D72-BD91-C345-9375-F9A7406682F4}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 636.85292425739522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46B9948E-6DD3-9A46-A92A-1C6A9F240FFB}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 68.31664495885431
+      SNAPOFFS 0
+      LENGTH 2.09496457695992
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D60282C1-0BAE-FF4B-9840-D28296D84E43}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 644.17135336710669
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCAD570D-E67F-164D-89A8-7320E544602B}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.41160953573942
+      SNAPOFFS 0
+      LENGTH 2.78154940550975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {67628673-BD99-F54F-98B0-560144987DC4}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 648.3311596156409
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67C4BA94-440C-6942-A610-45368BE30641}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 73.19315894127882
+      SNAPOFFS 0
+      LENGTH 9.46852564802252
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3C6DFBC-D70C-9747-89D7-5FCF342D8295}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 785.93898847065464
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E16CACA6-F584-7C47-9CDF-855DB2838288}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.66168458929009
+      SNAPOFFS 0
+      LENGTH 1.74090133898679
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3F829A5-E6DA-734F-B147-BDC8C658AE7A}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 808.28046831926792
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B07429DE-85D4-0B42-9DBF-13598C6D31C1}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 84.40258592827435
+      SNAPOFFS 0
+      LENGTH 2.85020858739783
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CAD6C998-29A8-ED47-A82D-D03D7838FD31}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 810.90841248395986
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2ED4B4FD-DF58-4B45-B583-8A273145921B}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/evan/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+  >
+  <TRACK {222233F4-3296-0747-A754-A96F411D4B79}
+    NAME 01_T_BeforeMapquest_20220409
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -578,144 +1244,298 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 35 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {A9A2263E-D14D-BA44-BCDC-C11B32F08851}
+    TRACKID {222233F4-3296-0747-A754-A96F411D4B79}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 46.08906876201277
+      POSITION 87.23785456915165
       SNAPOFFS 0
-      LENGTH 5.47103586365373
+      LENGTH 5.4710358636537
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {992C88B9-1272-8649-BD08-706CF27C6831}
-      IID 44
-      NAME 01_E_BeforeMapquest_20220409.wav
+      IGUID {E5F76334-3B94-784B-A28D-6B802EFC1B8D}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 21.44987846782533
+      SOFFS 21.44850327198947
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {16C91C19-2B88-344A-83D1-41520BF2F663}
+      GUID {23B67B63-3E6A-F54F-BA3F-6F1CA5854F53}
       <SOURCE WAVE
-        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 51.56010462566639
+      POSITION 92.70889043280523
       SNAPOFFS 0
-      LENGTH 4.81635206170639
+      LENGTH 4.81635206170631
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {AFA8A31C-3A68-6949-AA9B-7E9FFFFCA7E9}
-      IID 44
-      NAME 01_E_BeforeMapquest_20220409.wav
+      IGUID {0AD08FB4-7222-5146-8699-A2C34B1F7F18}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 111.15680881232493
+      SOFFS 111.15543361648906
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {7339ABEF-41D6-9244-88C5-4377FE974526}
+      GUID {EE845103-E683-B648-A0F7-21059CEE1C81}
       <SOURCE WAVE
-        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 56.376456687374
+      POSITION 97.52524249451287
       SNAPOFFS 0
-      LENGTH 3.99474050647584
+      LENGTH 5.85675690032645
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4C873137-3EDF-9C43-BCAE-3E396ACA4E5C}
-      IID 44
-      NAME 01_E_BeforeMapquest_20220409.wav
+      IGUID {EA1BC75F-7118-4A43-A3C5-6433FD94689E}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 142.71806545833604
+      SOFFS 142.71669026250018
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {79706B1B-2F13-7E43-ADE3-7BDFA1E7BC9B}
+      GUID {EFC4B360-DA87-764F-B1B5-18B2B98EC079}
       <SOURCE WAVE
-        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 63.82858918358654
+      POSITION 103.38199939483924
       SNAPOFFS 0
-      LENGTH 6.65662015000713
+      LENGTH 1.53762442579304
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EB66ED57-88FF-4B49-95C2-F946B09E6DDE}
-      IID 44
-      NAME 01_E_BeforeMapquest_20220409.wav
+      IGUID {22C7FCEC-0F36-7C4E-8A7D-80964134ECBF}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 161.19841229079719
+      SOFFS 155.8231207350747
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {F61B2344-68B7-6243-9442-F219E089BEEA}
+      GUID {AAB9A8A8-E9FA-F145-9D96-AC5F000970C7}
       <SOURCE WAVE
-        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 70.5091554505384
+      POSITION 104.97737499072527
       SNAPOFFS 0
-      LENGTH 2.54878868454693
+      LENGTH 5.86039919218948
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E768C016-C0ED-D849-803E-5D2A14DAAC9E}
-      IID 44
-      NAME 01_E_BeforeMapquest_20220409.wav
+      IGUID {58C02027-EB5C-4940-8C50-2D025843817F}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 703.84403965956335
+      SOFFS 161.19703709496133
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B8C9CA3C-A157-7E4D-9A9E-849E2243BB59}
+      GUID {2DA03489-B5BD-FA46-BDEB-ABC3857E08F7}
       <SOURCE WAVE
-        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 74.21627911181579
+      POSITION 110.83777418291474
       SNAPOFFS 0
-      LENGTH 3.68601020408383
+      LENGTH 7.45451764096883
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {5796424A-1F7A-A847-8DAF-523E0DCAAA15}
-      IID 44
-      NAME 01_E_BeforeMapquest_20220409.wav
+      IGUID {E93FC981-60AA-D947-B40B-FA84E95075B9}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 718.97135672326385
+      SOFFS 309.04131413639254
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {A3877273-A9F6-124E-8818-B971226BC92B}
+      GUID {F94189A7-D376-384F-ADCF-2580A4218900}
       <SOURCE WAVE
-        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 118.29229182388357
+      SNAPOFFS 0
+      LENGTH 1.78235969729104
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10283ACB-04BC-554F-BC7D-33BD5FD99EA3}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 316.89304610762025
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DE383CC-72BC-BE41-9336-76601BF94796}
+      <SOURCE WAVE
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 120.07465152117462
+      SNAPOFFS 0
+      LENGTH 9.00575070941542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E8AC491D-93EC-BD48-B5ED-5FA29C90E416}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 319.0098057323865
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB486A88-67E6-2B41-B197-48C572D4AA0E}
+      <SOURCE WAVE
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 129.08040223059004
+      SNAPOFFS 0
+      LENGTH 4.08872974795676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {093ED145-5990-F64E-9DB3-2CF2990A904D}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 328.57333687026863
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32EC8C82-F9C5-7943-A59F-680585D9EFFE}
+      <SOURCE WAVE
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 133.1691319785468
+      SNAPOFFS 0
+      LENGTH 2.98945790792399
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4520831F-464E-C541-805D-9D995CFE2ECD}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 333.60292415427966
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF85DA94-F24A-954E-A99E-2B70227331D6}
+      <SOURCE WAVE
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 136.15858988647079
+      SNAPOFFS 0
+      LENGTH 9.66082569383465
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CDEAA32-2455-4240-9F81-95ACEDE78E2D}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 336.89215380446649
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23C8C91B-E1D3-4E4C-9123-B5C3173BBA1C}
+      <SOURCE WAVE
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 147.60786675295972
+      SNAPOFFS 0
+      LENGTH 2.71109223803919
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E8594ECA-EF5E-CF49-9DC0-CC95FB86ADCD}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 978.53749834395842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DA6B424-0F56-C840-A860-85B6986BE7C0}
+      <SOURCE WAVE
+        FILE "/Users/germain/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Audio Storage (don't delete anything)/Mapquest 4-9-22/Before/thomas/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 157.01535336361908
+      SNAPOFFS 0
+      LENGTH 0.44020726931407
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A67838C0-00A8-BE4E-801B-F42E593A9F4A}
+      IID 47
+      NAME 01_T_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 722.21578446219883
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {172DC78A-EF16-EE48-B9DA-9E3AE7C44258}
+      <SOURCE WAVE
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
       >
     >
   >
@@ -734,7 +1554,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 32 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -743,9 +1563,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 46.08906876201277
+      POSITION 87.23785456915165
       SNAPOFFS 0
-      LENGTH 5.47103586365373
+      LENGTH 5.4710358636537
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -768,9 +1588,9 @@
       TKM 1359.7776 `"I don't want to stop him"` 31862825
     >
     <ITEM
-      POSITION 51.56010462566639
+      POSITION 92.70889043280523
       SNAPOFFS 0
-      LENGTH 4.81635206170639
+      LENGTH 4.81635206170631
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -793,9 +1613,9 @@
       TKM 1359.7776 `"I don't want to stop him"` 31862825
     >
     <ITEM
-      POSITION 56.376456687374
+      POSITION 97.52524249451287
       SNAPOFFS 0
-      LENGTH 5.85675690032648
+      LENGTH 5.85675690032645
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -818,9 +1638,9 @@
       TKM 1359.7776 `"I don't want to stop him"` 31862825
     >
     <ITEM
-      POSITION 62.23321358770045
+      POSITION 103.38199939483924
       SNAPOFFS 0
-      LENGTH 1.53762442579303
+      LENGTH 1.53762442579304
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -843,9 +1663,9 @@
       TKM 1359.7776 `"I don't want to stop him"` 31862825
     >
     <ITEM
-      POSITION 63.82858918358654
+      POSITION 104.97737499072527
       SNAPOFFS 0
-      LENGTH 6.65662015000713
+      LENGTH 5.86039919218948
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -868,9 +1688,159 @@
       TKM 1359.7776 `"I don't want to stop him"` 31862825
     >
     <ITEM
-      POSITION 72.62951518989442
+      POSITION 110.83777418291474
       SNAPOFFS 0
-      LENGTH 5.2727741260052
+      LENGTH 7.45451764096883
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8423D5E8-871A-3E42-8E7A-E9CECDB85BB9}
+      IID 46
+      NAME 01_J_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 300.52127881044464
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {248BA55F-7730-6A4C-94D5-86CB08A5BA2B}
+      <SOURCE WAVE
+        FILE "Audio/01_J_BeforeMapquest_20220409.wav"
+      >
+      TKM 13.0236 "oil heat" 31850508
+      TKM 1318.6855 "Joe Intros phonebook" 31856697
+      TKM 1359.7776 `"I don't want to stop him"` 31862825
+    >
+    <ITEM
+      POSITION 118.29229182388357
+      SNAPOFFS 0
+      LENGTH 1.78235969729104
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3589B621-B955-1F49-A2B4-008C8BD72294}
+      IID 46
+      NAME 01_J_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 308.37301078167235
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DABF1021-3D30-644A-A852-330D48B6DE29}
+      <SOURCE WAVE
+        FILE "Audio/01_J_BeforeMapquest_20220409.wav"
+      >
+      TKM 13.0236 "oil heat" 31850508
+      TKM 1318.6855 "Joe Intros phonebook" 31856697
+      TKM 1359.7776 `"I don't want to stop him"` 31862825
+    >
+    <ITEM
+      POSITION 120.07465152117462
+      SNAPOFFS 0
+      LENGTH 9.00575070941542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F8B33F1-27B4-C44B-83A8-9D1FB66D5185}
+      IID 46
+      NAME 01_J_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 310.48977040643859
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04413AEF-93D5-894C-BD34-EB825614EAD8}
+      <SOURCE WAVE
+        FILE "Audio/01_J_BeforeMapquest_20220409.wav"
+      >
+      TKM 13.0236 "oil heat" 31850508
+      TKM 1318.6855 "Joe Intros phonebook" 31856697
+      TKM 1359.7776 `"I don't want to stop him"` 31862825
+    >
+    <ITEM
+      POSITION 129.08040223059004
+      SNAPOFFS 0
+      LENGTH 4.08872974795676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C1EB423-CE3E-3649-9798-0EF61B2189B3}
+      IID 46
+      NAME 01_J_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 320.05330154432073
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86544EAC-D7A5-E544-B93C-B6F6A6328332}
+      <SOURCE WAVE
+        FILE "Audio/01_J_BeforeMapquest_20220409.wav"
+      >
+      TKM 13.0236 "oil heat" 31850508
+      TKM 1318.6855 "Joe Intros phonebook" 31856697
+      TKM 1359.7776 `"I don't want to stop him"` 31862825
+    >
+    <ITEM
+      POSITION 133.1691319785468
+      SNAPOFFS 0
+      LENGTH 2.98945790792399
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C60D6518-FC85-B54C-B6C8-7EC8D54BC5D2}
+      IID 46
+      NAME 01_J_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 325.08288882833176
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A2D338E-3846-1547-8BA5-2179E9F83AEF}
+      <SOURCE WAVE
+        FILE "Audio/01_J_BeforeMapquest_20220409.wav"
+      >
+      TKM 13.0236 "oil heat" 31850508
+      TKM 1318.6855 "Joe Intros phonebook" 31856697
+      TKM 1359.7776 `"I don't want to stop him"` 31862825
+    >
+    <ITEM
+      POSITION 136.15858988647079
+      SNAPOFFS 0
+      LENGTH 9.66082569383465
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {073D3CA6-CC4F-E642-8E45-E44C5449BA00}
+      IID 46
+      NAME 01_J_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 328.37211847851859
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A47652DF-3775-914D-B91B-656B6C4ABE27}
+      <SOURCE WAVE
+        FILE "Audio/01_J_BeforeMapquest_20220409.wav"
+      >
+      TKM 13.0236 "oil heat" 31850508
+      TKM 1318.6855 "Joe Intros phonebook" 31856697
+      TKM 1359.7776 `"I don't want to stop him"` 31862825
+    >
+    <ITEM
+      POSITION 152.18278650692778
+      SNAPOFFS 0
+      LENGTH 5.27277412600537
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -893,8 +1863,8 @@
       TKM 1359.7776 `"I don't want to stop him"` 31862825
     >
   >
-  <TRACK {222233F4-3296-0747-A754-A96F411D4B79}
-    NAME 01_T_BeforeMapquest_20220409
+  <TRACK {A9A2263E-D14D-BA44-BCDC-C11B32F08851}
+    NAME 01_E_BeforeMapquest_20220409
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -908,144 +1878,298 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 26 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {222233F4-3296-0747-A754-A96F411D4B79}
+    TRACKID {A9A2263E-D14D-BA44-BCDC-C11B32F08851}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 46.08906876201277
+      POSITION 87.23785456915165
       SNAPOFFS 0
-      LENGTH 5.47103586365373
+      LENGTH 5.4710358636537
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E5F76334-3B94-784B-A28D-6B802EFC1B8D}
-      IID 47
-      NAME 01_T_BeforeMapquest_20220409.wav
+      IGUID {992C88B9-1272-8649-BD08-706CF27C6831}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 21.44850327198947
+      SOFFS 21.44987846782533
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {23B67B63-3E6A-F54F-BA3F-6F1CA5854F53}
+      GUID {16C91C19-2B88-344A-83D1-41520BF2F663}
       <SOURCE WAVE
-        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 51.56010462566639
+      POSITION 92.70889043280523
       SNAPOFFS 0
-      LENGTH 4.81635206170639
+      LENGTH 4.81635206170631
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {0AD08FB4-7222-5146-8699-A2C34B1F7F18}
-      IID 47
-      NAME 01_T_BeforeMapquest_20220409.wav
+      IGUID {AFA8A31C-3A68-6949-AA9B-7E9FFFFCA7E9}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 111.15543361648906
+      SOFFS 111.15680881232493
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {EE845103-E683-B648-A0F7-21059CEE1C81}
+      GUID {7339ABEF-41D6-9244-88C5-4377FE974526}
       <SOURCE WAVE
-        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 56.376456687374
+      POSITION 97.52524249451287
       SNAPOFFS 0
-      LENGTH 5.85675690032648
+      LENGTH 3.99474050647586
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EA1BC75F-7118-4A43-A3C5-6433FD94689E}
-      IID 47
-      NAME 01_T_BeforeMapquest_20220409.wav
+      IGUID {4C873137-3EDF-9C43-BCAE-3E396ACA4E5C}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 142.71669026250018
+      SOFFS 142.71806545833604
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {EFC4B360-DA87-764F-B1B5-18B2B98EC079}
+      GUID {79706B1B-2F13-7E43-ADE3-7BDFA1E7BC9B}
       <SOURCE WAVE
-        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 62.23321358770045
+      POSITION 104.97737499072527
       SNAPOFFS 0
-      LENGTH 1.53762442579303
+      LENGTH 5.86039919218948
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {22C7FCEC-0F36-7C4E-8A7D-80964134ECBF}
-      IID 47
-      NAME 01_T_BeforeMapquest_20220409.wav
+      IGUID {EB66ED57-88FF-4B49-95C2-F946B09E6DDE}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 155.8231207350747
+      SOFFS 161.19841229079719
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {AAB9A8A8-E9FA-F145-9D96-AC5F000970C7}
+      GUID {F61B2344-68B7-6243-9442-F219E089BEEA}
       <SOURCE WAVE
-        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 63.82858918358654
+      POSITION 110.83777418291474
       SNAPOFFS 0
-      LENGTH 6.65662015000713
+      LENGTH 7.45451764096883
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {58C02027-EB5C-4940-8C50-2D025843817F}
-      IID 47
-      NAME 01_T_BeforeMapquest_20220409.wav
+      IGUID {D8E6E66E-00C5-1545-819E-513D8EAA1543}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 161.19703709496133
+      SOFFS 309.04268933222841
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2DA03489-B5BD-FA46-BDEB-ABC3857E08F7}
+      GUID {2FE253FC-EC4A-E242-BCC2-6CC0F3ABCCBA}
       <SOURCE WAVE
-        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
       >
     >
     <ITEM
-      POSITION 72.62951518989442
+      POSITION 118.29229182388357
       SNAPOFFS 0
-      LENGTH 5.2727741260052
+      LENGTH 1.78235969729104
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {A97321FD-1A0D-C944-A089-98F4D9AABA2B}
-      IID 47
-      NAME 01_T_BeforeMapquest_20220409.wav
+      IGUID {F2D9F897-E42D-8542-9836-D6ACBEFCC091}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
       VOLPAN 1 0 1 -1
-      SOFFS 717.38321760550753
+      SOFFS 316.89442130345611
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {FA15ED5B-A6C1-2346-9CA3-1AE91C7F633B}
+      GUID {5E3D719A-719C-E34C-9C62-CAA3F91C7660}
       <SOURCE WAVE
-        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 120.07465152117462
+      SNAPOFFS 0
+      LENGTH 9.00575070941542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9073F0C1-9C02-564E-B483-4E0C956FF58D}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 319.01118092822236
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12ED14AC-346C-4244-A7C2-DA5EB3D63665}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 129.08040223059004
+      SNAPOFFS 0
+      LENGTH 4.08872974795676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69A26A3C-2763-4E4B-B8C3-DECED6E9440C}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 328.5747120661045
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6217D48C-FB83-7046-B453-46024A5031BE}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 133.1691319785468
+      SNAPOFFS 0
+      LENGTH 2.98945790792399
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B762376E-1D3C-2344-ACA9-E3500BA7DD8A}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 333.60429935011553
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92B2BE09-03CB-9F4E-80D5-91DF9CC340A2}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 136.15858988647079
+      SNAPOFFS 0
+      LENGTH 9.66082569383465
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58E46093-C010-A74C-8B25-69028E6011D2}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 336.89352900030235
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D7DCE6A-6010-4F41-9991-727874ECED7F}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 145.81941558030545
+      SNAPOFFS 0
+      LENGTH 1.88713439335064
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D3ACBD8-B1DF-BA42-BD32-8D65F42170F6}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 349.35449528663776
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6AB317B-EF83-C647-9C25-F888F841CF8B}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 150.06242676757179
+      SNAPOFFS 0
+      LENGTH 2.54878868454702
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E768C016-C0ED-D849-803E-5D2A14DAAC9E}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 703.84403965956335
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8C9CA3C-A157-7E4D-9A9E-849E2243BB59}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.76955042884916
+      SNAPOFFS 0
+      LENGTH 3.09039375543099
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5796424A-1F7A-A847-8DAF-523E0DCAAA15}
+      IID 44
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 718.97135672326385
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3877273-A9F6-124E-8818-B971226BC92B}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
       >
     >
   >
@@ -1059,7 +2183,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 2 0 0 0 0
+    BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -1097,13 +2221,13 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 117.5112519944536
+      POSITION 197.06452331148682
       SNAPOFFS 0
-      LENGTH 2.05924934859189
+      LENGTH 2.05924934859149
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.190405 0 1 0 0 0
+      FADEOUT 1 0.19040499999983 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {702DD662-E79C-4343-8B6F-8751DF74D058}
@@ -1119,9 +2243,9 @@
       >
     >
     <ITEM
-      POSITION 119.57050134304646
+      POSITION 199.12377266007968
       SNAPOFFS 0
-      LENGTH 3.41891371330479
+      LENGTH 3.41891371330439
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1141,7 +2265,7 @@
       >
     >
     <ITEM
-      POSITION 124.9541810928412
+      POSITION 204.50745240987354
       SNAPOFFS 0
       LENGTH 1.55281398967782
       LOOP 1
@@ -1163,9 +2287,9 @@
       >
     >
     <ITEM
-      POSITION 126.51276857194307
+      POSITION 206.06603988897621
       SNAPOFFS 0
-      LENGTH 0.93575168078195
+      LENGTH 0.93575168078178
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1209,9 +2333,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 82.16730561957723
+      POSITION 161.72057693661043
       SNAPOFFS 0
-      LENGTH 2.28827632650314
+      LENGTH 2.28827632650311
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1231,9 +2355,9 @@
       >
     >
     <ITEM
-      POSITION 84.45558194608105
+      POSITION 164.00885326311408
       SNAPOFFS 0
-      LENGTH 7.18242617506121
+      LENGTH 7.18242617506118
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1253,7 +2377,7 @@
       >
     >
     <ITEM
-      POSITION 91.64190894160919
+      POSITION 171.19518025864241
       SNAPOFFS 0
       LENGTH 2.83777300360452
       LOOP 1
@@ -1275,7 +2399,7 @@
       >
     >
     <ITEM
-      POSITION 98.59471169773579
+      POSITION 178.14798301476881
       SNAPOFFS 0
       LENGTH 4.93214514987267
       LOOP 1
@@ -1297,9 +2421,9 @@
       >
     >
     <ITEM
-      POSITION 103.52685684760846
+      POSITION 183.08012816464088
       SNAPOFFS 0
-      LENGTH 13.95703043006938
+      LENGTH 13.95703043006952
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1319,7 +2443,7 @@
       >
     >
     <ITEM
-      POSITION 117.51255279393573
+      POSITION 197.06582411096895
       SNAPOFFS 0
       LENGTH 2.05924934859195
       LOOP 1
@@ -1341,9 +2465,9 @@
       >
     >
     <ITEM
-      POSITION 119.57180214252858
+      POSITION 199.1250734595618
       SNAPOFFS 0
-      LENGTH 3.41761291382235
+      LENGTH 3.41761291382227
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1363,7 +2487,7 @@
       >
     >
     <ITEM
-      POSITION 122.98941505635131
+      POSITION 202.54268637338365
       SNAPOFFS 0
       LENGTH 2.03268326576199
       LOOP 1
@@ -1385,9 +2509,9 @@
       >
     >
     <ITEM
-      POSITION 126.51276857194307
+      POSITION 206.06603988897621
       SNAPOFFS 0
-      LENGTH 0.94675442530608
+      LENGTH 0.94675442530615
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1431,9 +2555,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 82.16730561957723
+      POSITION 161.72057693661043
       SNAPOFFS 0
-      LENGTH 2.28827632650314
+      LENGTH 2.28827632650311
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1456,9 +2580,9 @@
       TKM 1359.7776 `"I don't want to stop him"` 31862825
     >
     <ITEM
-      POSITION 84.45558194608105
+      POSITION 164.00885326311408
       SNAPOFFS 0
-      LENGTH 7.18242617506121
+      LENGTH 7.18242617506118
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1481,7 +2605,7 @@
       TKM 1359.7776 `"I don't want to stop him"` 31862825
     >
     <ITEM
-      POSITION 91.64190894160919
+      POSITION 171.19518025864241
       SNAPOFFS 0
       LENGTH 2.83777300360452
       LOOP 1
@@ -1506,7 +2630,7 @@
       TKM 1359.7776 `"I don't want to stop him"` 31862825
     >
     <ITEM
-      POSITION 98.59471169773579
+      POSITION 178.14798301476881
       SNAPOFFS 0
       LENGTH 4.93214514987267
       LOOP 1
@@ -1555,9 +2679,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 82.16730561957723
+      POSITION 161.72057693661043
       SNAPOFFS 0
-      LENGTH 2.28827632650314
+      LENGTH 2.28827632650311
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1577,7 +2701,7 @@
       >
     >
     <ITEM
-      POSITION 86.41056707821843
+      POSITION 165.9638383952512
       SNAPOFFS 0
       LENGTH 4.2310719589243
       LOOP 1
@@ -1599,9 +2723,9 @@
       >
     >
     <ITEM
-      POSITION 91.64190894160919
+      POSITION 171.19518025864241
       SNAPOFFS 0
-      LENGTH 2.88280843247708
+      LENGTH 2.88280843247716
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1621,9 +2745,9 @@
       >
     >
     <ITEM
-      POSITION 98.59471169773579
+      POSITION 178.14798301476881
       SNAPOFFS 0
-      LENGTH 4.91254018394875
+      LENGTH 4.91254018394861
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1643,9 +2767,9 @@
       >
     >
     <ITEM
-      POSITION 127.45090120293648
+      POSITION 207.00417251996888
       SNAPOFFS 0
-      LENGTH 1.79956987547243
+      LENGTH 1.7995698754724
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1675,7 +2799,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 2 0 0 0 0
+    BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -1713,9 +2837,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 136.46041990861218
+      POSITION 216.01369122564475
       SNAPOFFS 0
-      LENGTH 2.81079592334982
+      LENGTH 2.81079592335001
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1735,9 +2859,9 @@
       >
     >
     <ITEM
-      POSITION 139.26946126516364
+      POSITION 218.82273258219621
       SNAPOFFS 0
-      LENGTH 5.65059300961684
+      LENGTH 5.6505930096173
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0.01 0.001755 1 1 0 0
@@ -1757,7 +2881,7 @@
       >
     >
     <ITEM
-      POSITION 145.39586232509615
+      POSITION 224.94913364212914
       SNAPOFFS 0
       LENGTH 2.22876807303555
       LOOP 1
@@ -1779,9 +2903,9 @@
       >
     >
     <ITEM
-      POSITION 147.60558861997563
+      POSITION 227.15885993700829
       SNAPOFFS 0
-      LENGTH 4.42965180639803
+      LENGTH 4.42965180639771
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0.01 0.019042 1 1 0 0
@@ -1801,9 +2925,9 @@
       >
     >
     <ITEM
-      POSITION 164.4422853837211
+      POSITION 243.9955567007537
       SNAPOFFS 0
-      LENGTH 0.95497776859656
+      LENGTH 0.95497776859702
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1847,9 +2971,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 136.46041990861218
+      POSITION 216.01369122564475
       SNAPOFFS 0
-      LENGTH 2.81079592334982
+      LENGTH 2.81079592335001
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1869,9 +2993,9 @@
       >
     >
     <ITEM
-      POSITION 139.26946126516364
+      POSITION 218.82273258219621
       SNAPOFFS 0
-      LENGTH 5.65059300961684
+      LENGTH 5.6505930096173
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0.01 0.001755 1 1 0 0
@@ -1891,7 +3015,7 @@
       >
     >
     <ITEM
-      POSITION 145.39586232509615
+      POSITION 224.94913364212914
       SNAPOFFS 0
       LENGTH 2.22876807303555
       LOOP 1
@@ -1913,7 +3037,7 @@
       >
     >
     <ITEM
-      POSITION 147.60558861997563
+      POSITION 227.15885993700829
       SNAPOFFS 0
       LENGTH 4.38630487950695
       LOOP 1
@@ -1935,9 +3059,9 @@
       >
     >
     <ITEM
-      POSITION 152.33747837190973
+      POSITION 231.89074968894272
       SNAPOFFS 0
-      LENGTH 9.95825040532281
+      LENGTH 9.95825040532259
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -1981,9 +3105,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 136.46041990861218
+      POSITION 216.01369122564475
       SNAPOFFS 0
-      LENGTH 2.81079592334982
+      LENGTH 2.81079592335001
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -2004,9 +3128,9 @@
       TKM 4119.7135 "crazy GF call" 17235745
     >
     <ITEM
-      POSITION 139.26946126516364
+      POSITION 218.82273258219621
       SNAPOFFS 0
-      LENGTH 5.65059300961684
+      LENGTH 5.6505930096173
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0.01 0.001755 1 1 0 0
@@ -2027,7 +3151,7 @@
       TKM 4119.7135 "crazy GF call" 17235745
     >
     <ITEM
-      POSITION 145.39586232509615
+      POSITION 224.94913364212914
       SNAPOFFS 0
       LENGTH 2.22876807303555
       LOOP 1
@@ -2050,7 +3174,7 @@
       TKM 4119.7135 "crazy GF call" 17235745
     >
     <ITEM
-      POSITION 147.60558861997563
+      POSITION 227.15885993700829
       SNAPOFFS 0
       LENGTH 4.38630487950695
       LOOP 1
@@ -2097,9 +3221,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 161.0558277240101
+      POSITION 240.60909904104315
       SNAPOFFS 0
-      LENGTH 3.38645765967604
+      LENGTH 3.38645765967598
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -2143,9 +3267,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 173.05090685414987
+      POSITION 252.60417817118312
       SNAPOFFS 0
-      LENGTH 14.98328884586121
+      LENGTH 14.98328884586098
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -2165,9 +3289,9 @@
       >
     >
     <ITEM
-      POSITION 188.46522520659644
+      POSITION 268.01849652362978
       SNAPOFFS 0
-      LENGTH 12.00523268465258
+      LENGTH 12.00523268465264
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -2235,15 +3359,15 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 245.75355854603828
+      POSITION 325.30682986307198
       SNAPOFFS 0
-      LENGTH 14.44118068901781
+      LENGTH 14.44118068901872
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {A050606C-24B2-D547-9E45-4DB259D9D6AB}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2258,15 +3382,15 @@
       TKM 450.9804 "Good -- evan asking why we're doing this" 0
     >
     <ITEM
-      POSITION 260.1947392350549
+      POSITION 339.7480105520886
       SNAPOFFS 0
-      LENGTH 25.50483593447296
+      LENGTH 25.50483593447308
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {3891FA0E-FCD6-BF41-A2F2-F66FA7549D9D}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2280,15 +3404,15 @@
       >
     >
     <ITEM
-      POSITION 285.7760057098514
+      POSITION 365.32927702688409
       SNAPOFFS 0
-      LENGTH 17.32706432498782
+      LENGTH 17.32706432498799
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {41649A66-D7EC-144D-BB9F-D48CBFB7181F}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2302,15 +3426,15 @@
       >
     >
     <ITEM
-      POSITION 303.10307003483928
+      POSITION 382.65634135187298
       SNAPOFFS 0
-      LENGTH 88.87283898346777
+      LENGTH 88.87283898346868
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {D0EDB1E5-3761-6446-9584-AAA9858E1A43}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2324,15 +3448,15 @@
       >
     >
     <ITEM
-      POSITION 392.29711182640364
+      POSITION 471.8503831434378
       SNAPOFFS 0
-      LENGTH 16.74829416545634
+      LENGTH 16.74829416545646
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {F2660F5E-C319-7E4E-BBB5-512274E8D2E8}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2346,15 +3470,15 @@
       >
     >
     <ITEM
-      POSITION 409.04540599186129
+      POSITION 488.59867730889397
       SNAPOFFS 0
-      LENGTH 4.22474955567435
+      LENGTH 4.22474955567446
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {0B28F10C-2BFD-2B47-8E21-C95373701F06}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2368,15 +3492,15 @@
       >
     >
     <ITEM
-      POSITION 413.27015554753513
+      POSITION 492.82342686456883
       SNAPOFFS 0
-      LENGTH 2.96713867528428
+      LENGTH 2.96713867528405
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {A5D32BDC-D96C-3C4D-8E87-8B2CEB23F879}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2390,15 +3514,15 @@
       >
     >
     <ITEM
-      POSITION 416.23729422281991
+      POSITION 495.79056553985407
       SNAPOFFS 0
-      LENGTH 9.93716585460061
+      LENGTH 9.93716585459941
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {EFC2541F-AE02-164A-8330-DBBAFD252E02}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2412,15 +3536,15 @@
       >
     >
     <ITEM
-      POSITION 426.1744600774179
+      POSITION 505.72773139445104
       SNAPOFFS 0
-      LENGTH 3.42402421240695
+      LENGTH 3.42402421240712
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {BA805D56-3BB6-D643-A127-E08E2DAFCDA1}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2434,7 +3558,7 @@
       >
     >
     <ITEM
-      POSITION 429.59848428982485
+      POSITION 509.15175560685879
       SNAPOFFS 0
       LENGTH 11.60668642457455
       LOOP 1
@@ -2442,7 +3566,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {99BBDA2E-128B-3048-AB99-A35EDEA9D8F2}
       IID 24
       NAME 01_E_ArgumentDuringRandoms_20220327.wav
@@ -2480,15 +3604,15 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 207.24802421232741
+      POSITION 286.80129552936029
       SNAPOFFS 0
-      LENGTH 15.38608097756929
+      LENGTH 15.38608097756907
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {093CA7A2-400A-BC4F-BDA8-3568D8B9BD83}
       IID 421
       NAME 01_J_FirstRandomBookArgument_20220312.wav
@@ -2502,15 +3626,15 @@
       >
     >
     <ITEM
-      POSITION 222.6341051898967
+      POSITION 302.18737650692987
       SNAPOFFS 0
-      LENGTH 5.17466838735496
+      LENGTH 5.17466838735436
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {D357498F-9C22-EA42-A3C8-0AD87BF8116C}
       IID 421
       NAME 01_J_FirstRandomBookArgument_20220312.wav
@@ -2524,15 +3648,15 @@
       >
     >
     <ITEM
-      POSITION 227.8087735772512
+      POSITION 307.36204489428434
       SNAPOFFS 0
-      LENGTH 17.69334292136045
+      LENGTH 17.69334292136074
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {6A487912-CBFB-DE49-941D-FF36C72CE799}
       IID 421
       NAME 01_J_FirstRandomBookArgument_20220312.wav
@@ -2546,15 +3670,15 @@
       >
     >
     <ITEM
-      POSITION 245.75355854603828
+      POSITION 325.30682986307198
       SNAPOFFS 0
-      LENGTH 14.44118068901781
+      LENGTH 14.44118068901872
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {D7A51E80-0F22-994F-A7BD-DBE15183F9A0}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2568,15 +3692,15 @@
       >
     >
     <ITEM
-      POSITION 260.1947392350549
+      POSITION 339.7480105520886
       SNAPOFFS 0
-      LENGTH 25.50483593447296
+      LENGTH 25.50483593447308
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {5854C0D4-FD01-DE49-B1CC-92F78188D671}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2591,15 +3715,15 @@
       TKM 662.901 "good joey exp" 0
     >
     <ITEM
-      POSITION 285.7760057098514
+      POSITION 365.32927702688409
       SNAPOFFS 0
-      LENGTH 17.32706432498782
+      LENGTH 17.32706432498799
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {0C7B1295-6D47-604A-8023-50574D995D89}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2613,15 +3737,15 @@
       >
     >
     <ITEM
-      POSITION 303.10307003483928
+      POSITION 382.65634135187298
       SNAPOFFS 0
-      LENGTH 88.87283898346777
+      LENGTH 88.87283898346868
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {82F7C7BE-2E74-3E4F-B926-97DB3000396B}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2635,15 +3759,15 @@
       >
     >
     <ITEM
-      POSITION 392.29711182640364
+      POSITION 471.8503831434378
       SNAPOFFS 0
-      LENGTH 16.74829416545634
+      LENGTH 16.74829416545646
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {6A86D0DD-2E8A-9B4E-9A79-D38EAC467501}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2658,15 +3782,15 @@
       TKM 1316.1224 "weird misalignment problems" 0
     >
     <ITEM
-      POSITION 409.04540599186129
+      POSITION 488.59867730889397
       SNAPOFFS 0
-      LENGTH 4.22474955567435
+      LENGTH 4.22474955567446
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {8F1E019C-0817-BE40-BA67-638088176130}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2681,15 +3805,15 @@
       TKM 1316.1224 "weird misalignment problems" 0
     >
     <ITEM
-      POSITION 413.27015554753513
+      POSITION 492.82342686456883
       SNAPOFFS 0
-      LENGTH 2.96713867528428
+      LENGTH 2.96713867528405
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {89A421FE-DEB6-9A47-893F-6D2C9FBAAE61}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2704,15 +3828,15 @@
       TKM 1316.1224 "weird misalignment problems" 0
     >
     <ITEM
-      POSITION 416.23729422281991
+      POSITION 495.79056553985407
       SNAPOFFS 0
-      LENGTH 9.93716585460061
+      LENGTH 9.93716585459941
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {509D0299-1E89-DF4F-B2DC-568773ACB582}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2727,15 +3851,15 @@
       TKM 1316.1224 "weird misalignment problems" 0
     >
     <ITEM
-      POSITION 426.1744600774179
+      POSITION 505.72773139445104
       SNAPOFFS 0
-      LENGTH 3.42402421240695
+      LENGTH 3.42402421240712
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {67D08B14-D690-4647-8BBD-CDCE4968762F}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2750,7 +3874,7 @@
       TKM 1316.1224 "weird misalignment problems" 0
     >
     <ITEM
-      POSITION 429.59848428982485
+      POSITION 509.15175560685879
       SNAPOFFS 0
       LENGTH 11.60668642457455
       LOOP 1
@@ -2758,7 +3882,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {1D3D93A6-8495-104F-84AE-2C7630E31BE7}
       IID 25
       NAME 01_J_ArgumentDuringRandoms_20220327.wav
@@ -2785,7 +3909,7 @@
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -2797,15 +3921,15 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 245.75355854603828
+      POSITION 325.30682986307198
       SNAPOFFS 0
-      LENGTH 14.44118068901781
+      LENGTH 14.44118068901872
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {0C103F55-5C9C-2941-8361-BBC2BBE97CF6}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav
@@ -2819,15 +3943,15 @@
       >
     >
     <ITEM
-      POSITION 260.1947392350549
+      POSITION 339.7480105520886
       SNAPOFFS 0
-      LENGTH 25.50483593447296
+      LENGTH 25.50483593447308
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {F9B12EC7-0B31-4144-9B74-DD225E4897D3}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav
@@ -2841,15 +3965,15 @@
       >
     >
     <ITEM
-      POSITION 285.7760057098514
+      POSITION 365.32927702688409
       SNAPOFFS 0
-      LENGTH 17.32706432498782
+      LENGTH 17.32706432498799
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {F427EFA6-09A0-B144-BA60-DFFB69980A57}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav
@@ -2863,15 +3987,15 @@
       >
     >
     <ITEM
-      POSITION 303.10307003483928
+      POSITION 382.65634135187298
       SNAPOFFS 0
-      LENGTH 88.87283898346777
+      LENGTH 88.87283898346868
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {B71B19F5-C195-7B45-9BD3-A9F63639064E}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav
@@ -2885,15 +4009,15 @@
       >
     >
     <ITEM
-      POSITION 392.29711182640364
+      POSITION 471.8503831434378
       SNAPOFFS 0
-      LENGTH 16.74829416545634
+      LENGTH 16.74829416545646
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {74DE2FE4-14E7-DE4E-AED4-16C6F919FA46}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav
@@ -2909,15 +4033,15 @@
       TKM 1679.0494 "great sum-up" 0
     >
     <ITEM
-      POSITION 409.04540599186129
+      POSITION 488.59867730889397
       SNAPOFFS 0
-      LENGTH 4.22474955567435
+      LENGTH 4.22474955567446
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {FCBAD9A2-D254-F84B-B43C-E6509EA4C383}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav
@@ -2933,15 +4057,15 @@
       TKM 1679.0494 "great sum-up" 0
     >
     <ITEM
-      POSITION 413.27015554753513
+      POSITION 492.82342686456883
       SNAPOFFS 0
-      LENGTH 2.96713867528428
+      LENGTH 2.96713867528405
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {CDAE89FA-620E-8E4F-93CB-D4BBBA94A271}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav
@@ -2957,15 +4081,15 @@
       TKM 1679.0494 "great sum-up" 0
     >
     <ITEM
-      POSITION 416.23729422281991
+      POSITION 495.79056553985407
       SNAPOFFS 0
-      LENGTH 9.93716585460061
+      LENGTH 9.93716585459941
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {9930EA66-7519-FC4A-B56B-F618A68F442D}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav
@@ -2981,15 +4105,15 @@
       TKM 1679.0494 "great sum-up" 0
     >
     <ITEM
-      POSITION 426.1744600774179
+      POSITION 505.72773139445104
       SNAPOFFS 0
-      LENGTH 3.42402421240695
+      LENGTH 3.42402421240712
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {CC983A73-8587-174F-947B-C80BE00A1959}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav
@@ -3005,7 +4129,7 @@
       TKM 1679.0494 "great sum-up" 0
     >
     <ITEM
-      POSITION 429.59848428982485
+      POSITION 509.15175560685879
       SNAPOFFS 0
       LENGTH 11.60668642457455
       LOOP 1
@@ -3013,7 +4137,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {C593F0B1-745F-AD48-A238-0F57D1D38972}
       IID 26
       NAME 01_T_ArgumentDuringRandoms_20220327.wav

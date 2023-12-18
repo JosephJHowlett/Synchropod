@@ -1,0 +1,1986 @@
+<REAPER_PROJECT 0.1 "7.02/macOS-arm64" 1701788337
+  <NOTES 0 2
+  >
+  RIPPLE 1
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 2
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 3.13842838
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3198 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 47.40176364290286
+  ZOOM 7.53136534516794 0 0
+  VZOOMEX 8.63948154 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 47.26898559348296 47.40176364290286
+  SELECTION2 47.26898559348296 47.40176364290286
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {52D50058-FD01-E944-95B4-4DCCF6F94240}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {F634ACC0-9301-5E4F-B521-96E06ACFE212}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 544.50227083333436 "" 0 0 1 B {6FD1AE1B-5969-CF4F-9668-51C91CA1790E} 0
+  <PROJBAY
+  >
+  <TRACK {F8768C21-DBDC-224C-9985-1B0CC0A0D5A3}
+    NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F8768C21-DBDC-224C-9985-1B0CC0A0D5A3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 550.19607356267522
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DE6C29F-B3A8-E14A-95B5-65D919F41556}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71829454-34BA-EE4A-9A87-0E7956974347}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 550.19607356267522
+      SNAPOFFS 0
+      LENGTH 9.00285984136633
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5AA7435-FC80-A440-897B-B9BDE48CFC48}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 550.19607356267522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0513F541-C15D-5E49-B39B-3C851F82B9F1}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 559.19893340404155
+      SNAPOFFS 0
+      LENGTH 19.71335826262896
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F8063B6-9BB4-1649-AC61-FD5267A046D4}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 559.19893340404155
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7EC8B5D-D163-C041-9916-04BDFFA29448}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 578.91229166667051
+      SNAPOFFS 0
+      LENGTH 3.04677088954236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4FD0F77B-2B6A-6246-B947-6C6CE6F0A827}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 578.91229166667051
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5530BE59-2D43-1143-95D3-98FAD876D210}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 581.95906255621287
+      SNAPOFFS 0
+      LENGTH 13.16611395591576
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ED4EA779-C24D-D243-A2A2-1C4212C513CF}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 581.95906255621287
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2B37BB6-6468-DF4A-9045-06DC9E00583F}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 595.12517651212863
+      SNAPOFFS 0
+      LENGTH 8.58110941535722
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D56056E8-5D1E-9C47-8D5F-94DFDCDDD4E0}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 595.12517651212863
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33271A53-D955-F941-949C-2E47F9331DD3}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 603.70628592748585
+      SNAPOFFS 0
+      LENGTH 20.10671715951355
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0662CA74-8199-1546-8569-FB013B2CBAD1}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70628592748585
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3127595-B55A-E14E-8F93-FF54F5091028}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 623.8130030869994
+      SNAPOFFS 0
+      LENGTH 13.03992117039581
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8DA5987-A443-D54F-B86E-8ED2F300CFFB}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 623.8130030869994
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0914325B-0DC8-314F-B497-8D4ED2083E15}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 636.85292425739522
+      SNAPOFFS 0
+      LENGTH 14.25978476375542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F07D0CF5-8824-CC4A-8EA6-1137D3361909}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 636.85292425739522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA2B068E-58EE-8240-8554-6B777C8E2575}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 651.11270902115064
+      SNAPOFFS 0
+      LENGTH 3.28101242351897
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DAEE2AD-0DE0-1F43-807F-70968348C5C7}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 651.11270902115064
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFBEDA39-8A10-F944-A86F-BE0BBEDDA248}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 654.39372144466961
+      SNAPOFFS 0
+      LENGTH 0.04206426183998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A4FD86E-59C8-3948-B468-CC1D7DF60D08}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 654.39372144466961
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1DF048C-B3A6-C94C-AF9D-795034E38D86}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 654.43578570650959
+      SNAPOFFS 0
+      LENGTH 121.77536902525128
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D876FF7-5380-3741-B7E8-AEF830273A81}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 654.43578570650959
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8A3C408-40D2-B343-B54B-A7F0E5CDC744}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 776.21115473176087
+      SNAPOFFS 0
+      LENGTH 9.72783373889376
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9934E771-EAB7-734F-AD62-053B93D3E28C}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 776.21115473176087
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14F7C8BC-996B-E648-B34F-EFBF10789186}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 785.93898847065464
+      SNAPOFFS 0
+      LENGTH 9.46852564802225
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3972528C-B0AB-DB44-9902-0F77F32E29F2}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 785.93898847065464
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72BB2180-7373-6B4C-BCE3-B7F6DADFC646}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 795.40751411867689
+      SNAPOFFS 0
+      LENGTH 6.19969829482466
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50979CC6-FBB7-A849-85F9-B2032656E2A3}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 795.40751411867689
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC6C777A-74A3-0142-BCF3-8C28443A0895}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 801.60721241350154
+      SNAPOFFS 0
+      LENGTH 12.15140865785622
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6214AD74-23D7-0144-B4F0-01A16436F7AF}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 801.60721241350154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8022E4A3-747C-4847-BEF8-44C7B02C9F00}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 813.75862107135777
+      SNAPOFFS 0
+      LENGTH 83.95238123501531
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B61ABA47-E767-B24A-BB9E-FBC1880DF9D3}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 813.75862107135777
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC64AA18-E145-3C45-8851-EF96E79D21D5}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 897.71100230637308
+      SNAPOFFS 0
+      LENGTH 48.26592442069352
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3FB02E5-5F70-1B4B-B90A-28877011ACED}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 897.71100230637308
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63F698D9-46D3-CE40-8085-80B5125BF328}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 945.9769267270666
+      SNAPOFFS 0
+      LENGTH 32.56057161689182
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF7529E0-826E-BC44-92DB-C782B4E4553C}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 945.9769267270666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEB31D67-1251-FD42-BD36-8C447C882598}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 978.53749834395842
+      SNAPOFFS 0
+      LENGTH 7.96771173312106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6EA19258-8815-C340-BCEF-1DD27ADF19F5}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 978.53749834395842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D190B538-82C4-2544-8706-D522A1D83835}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 986.50521007707948
+      SNAPOFFS 0
+      LENGTH 29.87251908958717
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {68393365-85FC-7946-8415-9910B1C976B1}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 986.50521007707948
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C82FE51-5896-1A43-89D9-1C3E666F45C4}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+  >
+  <TRACK {03E59F48-3322-FB41-BDE7-BC0A3E54C051}
+    NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {03E59F48-3322-FB41-BDE7-BC0A3E54C051}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 550.19607356267522
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2A13BD7B-37C0-BE44-85DE-2F99EA8AF9E8}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73CABBD9-CA74-D84A-B8BA-9167EF35E8C1}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 550.19607356267522
+      SNAPOFFS 0
+      LENGTH 9.00285984136633
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {273765FA-EB16-C840-A2B6-F2D92956D044}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 550.19607356267522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5B35512-CBF8-B34F-A897-A53FF3FF0B7B}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 559.19893340404155
+      SNAPOFFS 0
+      LENGTH 19.71335826262896
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CA9AA294-FC9A-9A45-9E5F-5F832DD3F1D7}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 559.19893340404155
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4ACC1877-B7B9-F847-A66C-C2B1D37ABC76}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 578.91229166667051
+      SNAPOFFS 0
+      LENGTH 3.04677088954236
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {02A31AAF-9243-0848-8BE1-D98E1FDE2BBF}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 578.91229166667051
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B471FC34-E210-6340-9E9A-C416B1AB00CC}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 581.95906255621287
+      SNAPOFFS 0
+      LENGTH 13.16611395591576
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D53F3C4-C507-784A-AD73-C707025AAEC9}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 581.95906255621287
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3160C863-763A-7D4B-9B40-D7100B4BDA9A}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 595.12517651212863
+      SNAPOFFS 0
+      LENGTH 8.58110941535722
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08574926-8525-2B4B-B5BB-F17C36448F52}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 595.12517651212863
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {023112C7-A6E2-8843-8C19-D096FDAA92A0}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 603.70628592748585
+      SNAPOFFS 0
+      LENGTH 20.10671715951355
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B886418E-46B6-7B4E-A376-297255552E68}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70628592748585
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD34B5CA-EB3B-B04A-B553-890BA633AF95}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 623.8130030869994
+      SNAPOFFS 0
+      LENGTH 13.03992117039581
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {213C2469-E7C8-5642-BE87-7B35B04F5A12}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 623.8130030869994
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F314478-9BF4-2D4F-BF90-367E5812BC4F}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 636.85292425739522
+      SNAPOFFS 0
+      LENGTH 14.25978476375542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0F2E09A-8580-0F42-ADF1-BA8565E80971}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 636.85292425739522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E55BB2EF-CA65-514B-AAA4-F394CC123789}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 651.11270902115064
+      SNAPOFFS 0
+      LENGTH 3.28101242351897
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3C433CD-1ABD-8D4E-9E1F-E5C0FB002B72}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 651.11270902115064
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CAA63335-73EC-5A4B-8918-909CCFCF3F6E}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 654.39372144466961
+      SNAPOFFS 0
+      LENGTH 0.04206426183998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E0D2AC9B-DDD2-524C-B668-1247E26E1725}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 654.39372144466961
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F2598ED-2766-7B44-81B2-97AB59100DCA}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 654.43578570650959
+      SNAPOFFS 0
+      LENGTH 121.77536902525128
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0473BF9D-A96B-D549-B455-CDE6C8EF3BBB}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 654.43578570650959
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC817B70-402D-AA45-919D-9B60FD9F4E5B}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 776.21115473176087
+      SNAPOFFS 0
+      LENGTH 9.72783373889376
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C7A97CD-1F35-634C-B485-EF263085DC07}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 776.21115473176087
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67C441E8-E850-8F4C-B48E-CD371E360AB7}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 785.93898847065464
+      SNAPOFFS 0
+      LENGTH 9.46852564802225
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C0C8053-312E-2446-83A9-2821E246F8AB}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 785.93898847065464
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD1565F4-B2EA-D048-85E2-A05C32D947F7}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 795.40751411867689
+      SNAPOFFS 0
+      LENGTH 6.19969829482466
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EE1F3F9E-D547-4F47-A912-95CB52D707CE}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 795.40751411867689
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5981F7CC-F10C-624B-9E93-570FAA1CBE5A}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 801.60721241350154
+      SNAPOFFS 0
+      LENGTH 12.15140865785622
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {52FD04B5-E17E-F14C-958F-BD6935657BE6}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 801.60721241350154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D71A7DC4-08AB-8042-BA43-938374368EB3}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 813.75862107135777
+      SNAPOFFS 0
+      LENGTH 83.95238123501531
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B70EB6A4-28A2-3D47-8F77-BC64988B1E63}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 813.75862107135777
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9499809C-B29F-8644-B526-E67DE7D9FDD6}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 897.71100230637308
+      SNAPOFFS 0
+      LENGTH 48.26592442069352
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09FF253A-4E90-D741-963C-8602EFCE6DFC}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 897.71100230637308
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B50B2966-5AD1-CD44-82A2-F7C2C9013CAD}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 945.9769267270666
+      SNAPOFFS 0
+      LENGTH 32.56057161689182
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0C81822-79A9-1243-AAA9-A63CF27CE5CC}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 945.9769267270666
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E3EAEFE-5EDA-C042-89B8-573640DA99C5}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 978.53749834395842
+      SNAPOFFS 0
+      LENGTH 7.96771173312106
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E1B30B5D-A25A-0E42-ADDF-D70343E4389F}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 978.53749834395842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED71C94E-6377-3F48-A7B4-D5746D33F5D8}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 986.50521007707948
+      SNAPOFFS 0
+      LENGTH 29.87251908958717
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CB5F441-AA4F-694E-80B9-4BD636C3B7F0}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 986.50521007707948
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07AD7A20-1676-6843-88F2-6D6CAD1BB6D0}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+  >
+  <TRACK {EAEBC38E-A6F5-F64B-881F-1C751DE4331B}
+    NAME t
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EAEBC38E-A6F5-F64B-881F-1C751DE4331B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.352936309998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0633F2A3-312F-0D4D-87C4-8EE1AAD7D76D}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 550.19607356267522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A110ADDE-C776-9746-97EA-8EBFC84E208E}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.352936309998
+      SNAPOFFS 0
+      LENGTH 4.23149532846078
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E5DA766-F992-9B44-BEC4-38DC958C7833}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 554.96743807558073
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AED4D8D0-0ECB-E94B-8911-4F9AD3BFC457}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.58443163845878
+      SNAPOFFS 0
+      LENGTH 5.17946598343927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFE853FA-27D7-BC48-874D-D9DA86B70379}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 581.95906255621287
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6B7C05F-DCA7-9646-8300-A5141D5D4425}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.76389762189804
+      SNAPOFFS 0
+      LENGTH 1.78224875701541
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0B2483C7-4E01-4548-9095-F42581D08816}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 592.57769106480885
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21A8F3BE-0A75-F64C-ABF4-083C1F9AF2CD}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.54384513759421
+      SNAPOFFS 0
+      LENGTH 0.00230124131924
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00230124131924 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E583165A-A24D-604A-BF67-692E481C062B}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70628592748585
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40B9093E-844A-E240-BA7B-1CE5E4931970}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.54614637891345
+      SNAPOFFS 0
+      LENGTH 2.86556789887228
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C0C5887-06F7-5C49-937E-80F289CE5075}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70858716880514
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F454E416-2D28-FC41-A619-08D9DC5D33BD}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.41171427778573
+      SNAPOFFS 0
+      LENGTH 6.72134570039234
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E54661B4-8A83-E148-BCEA-B981BD1B52B3}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 608.20254884504504
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FED2603D-9AD0-2146-84D4-C1B927A10DFB}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.13305997817807
+      SNAPOFFS 0
+      LENGTH 1.46028069931651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87CD0A30-18AE-7244-80AF-406DC02E9E6A}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 614.92389454543741
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9690A813-5D20-5549-AD99-84F2B6612620}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.59334067749458
+      SNAPOFFS 0
+      LENGTH 3.55822738783869
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F17C5AE-56C2-104F-B0FA-EE037637713D}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 636.85292425739522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E110015-8427-2D4F-B956-A3EE6BE16884}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.15156806533328
+      SNAPOFFS 0
+      LENGTH 2.09496457695993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF943321-38FF-B64C-9673-90B23B186328}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 644.17135336710669
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7E0BE33-AB02-AA4E-A6EC-5EF5E0693310}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.24653264229321
+      SNAPOFFS 0
+      LENGTH 2.78154940550975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B16CFEDB-0AA3-214F-8D14-48262CE6E8D9}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 648.3311596156409
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FEB4496-2E74-D047-8341-CBA007251F08}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 34.02808204780295
+      SNAPOFFS 0
+      LENGTH 9.46852564802252
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B8E4FBE-5D05-7E4F-B432-CF2CEEADDDDD}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 785.93898847065464
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {017CB56A-A0D3-5946-89E6-9E396377CFCA}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 43.49660769582547
+      SNAPOFFS 0
+      LENGTH 3.54185500216077
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ACD7743B-CF86-0643-8A00-C7D649424784}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 801.60721241350154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6897536-F925-EE44-9CE7-AB21FCF8C762}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 47.03846269798624
+      SNAPOFFS 0
+      LENGTH 1.74090133898679
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {C785B4B8-5373-CD4C-BACC-C6314FDFC7A1}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 808.28046831926792
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C798579-9604-AD4A-9016-BF82338E2BB7}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 48.77936403697303
+      SNAPOFFS 0
+      LENGTH 2.85020858739782
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {611C5BD4-A360-B04E-8AF3-787C421405F2}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 810.90841248395986
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2153E822-5EF0-0540-93AC-407C4B1C970A}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 56.81137363821821
+      SNAPOFFS 0
+      LENGTH 7.96771173312116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A0C4D00C-024F-224A-B702-F8DA90A87911}
+      IID 6
+      NAME "02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 978.53749834395842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA847FBA-0197-2848-9D60-8CC6CCAF243F}
+      <SOURCE WAVE
+        FILE "Audio/02-01 thomas_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+  >
+  <TRACK {1E08DF6F-3766-B946-8944-BE21C85693B0}
+    NAME "e w  "
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1E08DF6F-3766-B946-8944-BE21C85693B0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.352936309998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D7DC22E-61F6-744A-A52A-7DA83BFFF7B1}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 550.19607356267522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D93B03AE-C083-4E4D-800F-8BDDCBC1D941}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.352936309998
+      SNAPOFFS 0
+      LENGTH 4.23149532846078
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {402D8490-370F-2F45-BF45-12AAE7525B19}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 554.96743807558073
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A89DCF2-ECAD-0849-9707-EDEC1DE2A483}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.58443163845878
+      SNAPOFFS 0
+      LENGTH 5.17946598343927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D87314CB-F1B1-A840-9FF1-8EDACB6DF128}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 581.95906255621287
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8750EC47-29E1-4647-975D-01B9C7AFEB6D}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.76389762189804
+      SNAPOFFS 0
+      LENGTH 1.78224875701541
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {45B50534-5C0F-D54B-B468-4FCA035DF0A6}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 592.57769106480885
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C436F96D-063C-174D-B9E0-209A56854FB3}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.54384513759421
+      SNAPOFFS 0
+      LENGTH 0.00230124131924
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00230124131924 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A2B334A-6384-8948-8C09-8C12C159F79C}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70628592748585
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D0D1EE0-F72D-3248-96D5-AA3489D7435D}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.54614637891345
+      SNAPOFFS 0
+      LENGTH 2.86556789887228
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {47A7F338-98D6-744A-9DF5-76F6B0D1BAB8}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 603.70858716880514
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10EEFA97-19B8-7C47-85A7-E30A0EBB8CD6}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.41171427778573
+      SNAPOFFS 0
+      LENGTH 6.72134570039234
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0CBC3E6D-4198-5E46-8B48-EF59869E5893}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 608.20254884504504
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B731D968-2D91-A142-887F-E52A24531661}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.59334067749458
+      SNAPOFFS 0
+      LENGTH 3.55822738783869
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA55785D-302D-7447-915D-B21B01271251}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 636.85292425739522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F081B6E1-DB05-D442-9030-FE2FCDD5ED67}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.15156806533328
+      SNAPOFFS 0
+      LENGTH 2.09496457695993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {00838115-6EB8-1F40-91EB-A023DAF06297}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 644.17135336710669
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5095E4DE-DDE9-EA4C-95B8-0D8FC9454245}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.24653264229321
+      SNAPOFFS 0
+      LENGTH 2.78154940550975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {606AAC97-5331-174F-BE4A-02DE49CEC5DF}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 648.3311596156409
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73D25916-A6AD-9A4A-AAF9-AA97C87A364E}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 34.02808204780295
+      SNAPOFFS 0
+      LENGTH 9.46852564802252
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC1ECB30-8B3E-2B48-8C56-0098CEA4C583}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 785.93898847065464
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {469B1217-2F3E-EA46-9A4E-D4B6A78F46E5}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 43.49660769582547
+      SNAPOFFS 0
+      LENGTH 3.54185500216077
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43EB5CA4-76BF-3243-B2D3-02CDB8803A11}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 801.60721241350154
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38703A0D-746B-114A-93F7-2656514EFA85}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 47.03846269798624
+      SNAPOFFS 0
+      LENGTH 1.74090133898679
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35E0F158-345B-9B41-91CF-90A308135A8A}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 808.28046831926792
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F99F96F-2F19-4348-9AC0-88281AAE2FD3}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 48.77936403697303
+      SNAPOFFS 0
+      LENGTH 2.85020858739782
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22AB7532-64D7-1444-9A8D-240D59B9A82F}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 810.90841248395986
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {618BC74A-3651-9645-B01D-C80784036E5D}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+    <ITEM
+      POSITION 56.81137363821821
+      SNAPOFFS 0
+      LENGTH 7.96771173312116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFD39483-F9DD-F44C-A981-334B72701B6C}
+      IID 14
+      NAME "01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 978.53749834395842
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4940417-6868-FA43-9D32-DD420D2687E2}
+      <SOURCE WAVE
+        FILE "Audio/01-01 evan_encyclopedia and scrable__studio_20220409_1-220409_1306.wav"
+      >
+    >
+  >
+  <TRACK {7E16BC8D-DBE2-DF45-8F60-F73BB860276B}
+    NAME 01_E_BeforeMapquest_20220409
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7E16BC8D-DBE2-DF45-8F60-F73BB860276B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 17.41171427778573
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0166F3C-B78C-B449-8FF0-785A33017DD0}
+      IID 9
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5DAE105E-8A2D-A842-B1AB-D2BAA783DA97}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.41171427778573
+      SNAPOFFS 0
+      LENGTH 31.3676497591873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D282AB1-1702-9D43-83CF-00A349210697}
+      IID 9
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 19.04010805515333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {637A01ED-0763-E940-AFAF-22C88329B9E7}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+    <ITEM
+      POSITION 48.77936403697303
+      SNAPOFFS 0
+      LENGTH 2243.9949285266221
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F6D0CAE-EB14-EE4F-BA7A-4BF0FEF22BA1}
+      IID 9
+      NAME 01_E_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 51.29480064004574
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DC8BD1D-2E1D-E748-8766-CC430B3C721D}
+      <SOURCE WAVE
+        FILE "Audio/01_E_BeforeMapquest_20220409.wav"
+      >
+    >
+  >
+  <TRACK {CB02CFAC-0A12-9146-B031-371CB93A2BD4}
+    NAME 01_T_BeforeMapquest_20220409
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CB02CFAC-0A12-9146-B031-371CB93A2BD4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2295.2897291666659
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B004E2D1-962D-C640-BFB1-C85E276710ED}
+      IID 1
+      NAME 01_T_BeforeMapquest_20220409.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37B56947-3221-3F47-95F3-1F9D410F089E}
+      <SOURCE WAVE
+        FILE "Audio/01_T_BeforeMapquest_20220409.wav"
+      >
+    >
+  >
+  <TRACK {326555CC-CE22-3C4F-9C0A-C6134AD04334}
+    NAME 01_J_BeforeMapquest_20220409
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {326555CC-CE22-3C4F-9C0A-C6134AD04334}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2290.0731041666668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E5502AD-33B0-3F4E-83B2-2BB772E1E421}
+      IID 8
+      NAME 01_J_BeforeMapquest_20220409-001.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3BEB214-014F-A84F-9130-8E54E03ABC15}
+      <SOURCE WAVE
+        FILE "Audio/01_J_BeforeMapquest_20220409-001.wav"
+      >
+    >
+  >
+>
