@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.05/macOS-arm64" 1702243852
+<REAPER_PROJECT 0.1 "7.05/macOS-arm64" 1706492398
   <NOTES 0 2
   >
   RIPPLE 2
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 9620.3839387364824
-  ZOOM 0.2926240347222 2224 0
-  VZOOMEX 7.49394894 502
+  CURSOR 507.22649305334937
+  ZOOM 5.77651215014872 2910 0
+  VZOOMEX 7.49394894 246
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -847,7 +847,7 @@
       CHANMODE 0
       GUID {E0ED5985-8217-1B4B-8C72-EAFDED58C103}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_E_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_E_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -869,7 +869,7 @@
       CHANMODE 0
       GUID {718410B9-2EBA-654A-BA2E-55613404DF8C}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_E_AshleyPrepCallPrayer_20211118-glued-02.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_E_AshleyPrepCallPrayer_20211118-glued-02.wav"
       >
     >
     <ITEM
@@ -891,7 +891,7 @@
       CHANMODE 0
       GUID {033A8512-21E0-0D49-9BC3-A0084CA1D10B}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_E_AshleyPrepCallPrayer_20211118-glued-02.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_E_AshleyPrepCallPrayer_20211118-glued-02.wav"
       >
     >
     <ITEM
@@ -991,7 +991,7 @@
       CHANMODE 0
       GUID {C027DA33-C054-FF40-9C03-03EC95E70881}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_E_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_E_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -1013,7 +1013,7 @@
       CHANMODE 0
       GUID {E80A0C77-08BD-AC4E-8A3E-FD1ECBE961D9}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_E_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_E_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -1035,7 +1035,7 @@
       CHANMODE 0
       GUID {BD2029BF-DE5E-EA45-9C91-614B5E1A39E1}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_E_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_E_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -1393,7 +1393,7 @@
       CHANMODE 0
       GUID {0745A758-5D9C-6D4E-8644-6418A11C8AEA}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_J_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -1919,7 +1919,7 @@
       CHANMODE 0
       GUID {51ACA826-D5CE-2043-8B86-EBC99EE5210D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
       >
     >
     <ITEM
@@ -1941,7 +1941,7 @@
       CHANMODE 0
       GUID {3B04B3CC-2A8C-ED46-BD78-BE469416A7EF}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
       >
     >
     <ITEM
@@ -1963,7 +1963,7 @@
       CHANMODE 0
       GUID {DE66BE0B-05CD-3740-98DC-6C56426FCDE9}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyPrepCallPrayer_20211118-glued-03.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_J_AshleyPrepCallPrayer_20211118-glued-03.wav"
       >
     >
     <ITEM
@@ -1985,7 +1985,7 @@
       CHANMODE 0
       GUID {EE2266EA-F546-3B47-9F0F-A605F0133235}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyPrepCallPrayer_20211118-glued-03.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_J_AshleyPrepCallPrayer_20211118-glued-03.wav"
       >
     >
     <ITEM
@@ -2079,7 +2079,7 @@
       CHANMODE 0
       GUID {9B35378F-E933-1F49-A592-9B8F291AE67C}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
       >
     >
     <ITEM
@@ -2101,7 +2101,7 @@
       CHANMODE 0
       GUID {2ADF35CF-781B-0A43-81FA-C222E7B59736}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
       >
     >
     <ITEM
@@ -2123,7 +2123,7 @@
       CHANMODE 0
       GUID {D1A6FD59-6F88-7D48-8852-1058C1843623}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_J_AshleyPrepCallPrayer_20211118-glued-01.wav"
       >
       TKM 15.1671 "She's sincere" 31857421
     >
@@ -3070,7 +3070,7 @@
       CHANMODE 0
       GUID {627C721C-3F53-464A-85AE-C107887F99BC}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3092,7 +3092,7 @@
       CHANMODE 0
       GUID {F7E42523-7D96-094F-932B-A769FE20BF9A}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3114,7 +3114,7 @@
       CHANMODE 0
       GUID {3AEB02BE-2509-BA45-B538-D017F9EEB2BC}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3136,7 +3136,7 @@
       CHANMODE 0
       GUID {454AC05C-07D1-214E-B8E2-D82D1097BC2C}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3158,7 +3158,7 @@
       CHANMODE 0
       GUID {46F8275F-8D8C-E540-B3C1-25B0FC78FC6D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3180,7 +3180,7 @@
       CHANMODE 0
       GUID {EFB9A977-FC89-FA44-B53C-3DC75A480D50}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3202,7 +3202,7 @@
       CHANMODE 0
       GUID {4679BADE-2F4A-BE43-9069-C95F4A3AF921}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3224,7 +3224,7 @@
       CHANMODE 0
       GUID {DB726D77-99BB-6F41-B1C9-2A7850682EBC}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued-02.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued-02.wav"
       >
     >
     <ITEM
@@ -3246,7 +3246,7 @@
       CHANMODE 0
       GUID {95CCA74E-1100-3B4E-87F7-BE41076402C6}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued-02.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued-02.wav"
       >
     >
     <ITEM
@@ -3268,7 +3268,7 @@
       CHANMODE 0
       GUID {A597CE9F-7CDE-B340-8F2A-60CB19A9A2AB}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3290,7 +3290,7 @@
       CHANMODE 0
       GUID {D006FD56-23EB-E94C-9380-C229B659AAC1}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3312,7 +3312,7 @@
       CHANMODE 0
       GUID {D2AECB79-4D7A-1D45-94B8-E4E8653C76DE}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3334,7 +3334,7 @@
       CHANMODE 0
       GUID {3F42A181-BC9B-C845-BD94-5D7DA2AA21FC}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3356,7 +3356,7 @@
       CHANMODE 0
       GUID {8DEE8F44-ED15-C54F-AEB1-62253E1F62D9}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3378,7 +3378,7 @@
       CHANMODE 0
       GUID {5F206796-0503-AB47-92FC-A98CD132794A}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3400,7 +3400,7 @@
       CHANMODE 0
       GUID {D76DBFAE-96BB-5443-A3DD-D6741B8B74AB}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3422,7 +3422,7 @@
       CHANMODE 0
       GUID {5B3C687F-F4B7-954F-AC5A-6AC7014B3CD5}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3444,7 +3444,7 @@
       CHANMODE 0
       GUID {B18C8A18-9E5C-BE46-9EB8-2074870B7267}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3466,7 +3466,7 @@
       CHANMODE 0
       GUID {6D858CC3-CFD1-7347-BBA0-B295AC232C64}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3488,7 +3488,7 @@
       CHANMODE 0
       GUID {54A5F938-0EA7-D340-A211-FC243AD2F49B}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3510,7 +3510,7 @@
       CHANMODE 0
       GUID {31162B74-E75A-3A42-BCEA-A93AAE77F445}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3532,7 +3532,7 @@
       CHANMODE 0
       GUID {3A460F8C-ECE5-1A44-9B4E-4C97E666AFDE}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3554,7 +3554,7 @@
       CHANMODE 0
       GUID {7B8C92CE-85B3-F44F-8562-A2C3D68415CB}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3576,7 +3576,7 @@
       CHANMODE 0
       GUID {FCAE8D42-7DEA-9E44-8DC7-3A45EDEB8519}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3598,7 +3598,7 @@
       CHANMODE 0
       GUID {AF3FAAC8-B7F3-A642-B693-AA89969C08F4}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3620,7 +3620,7 @@
       CHANMODE 0
       GUID {AB27AAAD-86D9-5244-BE53-6962351FE9B5}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
     <ITEM
@@ -3642,7 +3642,7 @@
       CHANMODE 0
       GUID {01CD1B5C-EED9-0547-A1DA-4C6BF97F9F09}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_T_AshleyPrepCallPrayer_20211118-glued.wav"
       >
     >
   >
@@ -5370,7 +5370,7 @@
       CHANMODE 0
       GUID {0ABF6645-3871-9D46-A456-A290BCF65B09}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -5392,7 +5392,7 @@
       CHANMODE 0
       GUID {9956DC20-4FED-A947-93F9-917792C78D6D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -5414,7 +5414,7 @@
       CHANMODE 0
       GUID {B66F268E-E0C8-9047-8155-22889E75B9F3}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5441,7 +5441,7 @@
       CHANMODE 0
       GUID {2B9DCCE3-8175-A244-8C38-195D4CE573A7}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5468,7 +5468,7 @@
       CHANMODE 0
       GUID {6248E6BA-327B-CE44-9058-637DB6A9FAB2}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5495,7 +5495,7 @@
       CHANMODE 0
       GUID {090B6C9B-2433-CC40-A77B-F2DCF96DE595}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5522,7 +5522,7 @@
       CHANMODE 0
       GUID {C267EDFC-3466-C44F-80E8-1B0EF97F90F9}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5549,7 +5549,7 @@
       CHANMODE 0
       GUID {479F1D6A-5888-A14E-A0FC-579934FD8A17}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5576,7 +5576,7 @@
       CHANMODE 0
       GUID {107CDEB7-689D-5B49-9D16-4B7CC7222745}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5603,7 +5603,7 @@
       CHANMODE 0
       GUID {1FF38DDD-1DDB-8E40-BF7C-56371B6F662A}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5630,7 +5630,7 @@
       CHANMODE 0
       GUID {E213CDC8-D7B8-BA45-9A40-E9C491C0F023}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5657,7 +5657,7 @@
       CHANMODE 0
       GUID {225F6B6E-EC85-BC40-A30E-3AD13C30D6B8}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5684,7 +5684,7 @@
       CHANMODE 0
       GUID {459E02A8-DC44-5944-99A9-EF5598CEF803}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5711,7 +5711,7 @@
       CHANMODE 0
       GUID {59D24776-04EB-AE41-AA8B-A5774800A19D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5738,7 +5738,7 @@
       CHANMODE 0
       GUID {AEE918AA-EE97-2040-82DD-CD50B3FF928C}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5765,7 +5765,7 @@
       CHANMODE 0
       GUID {03C99A79-7452-CD4D-BD3C-B4F8DB40AE37}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5792,7 +5792,7 @@
       CHANMODE 0
       GUID {77114591-8C05-8B40-B203-E0A2458FFAA2}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5819,7 +5819,7 @@
       CHANMODE 0
       GUID {3852F7CB-8036-F64F-8DBB-F7C259031486}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5846,7 +5846,7 @@
       CHANMODE 0
       GUID {1BD76F01-F34E-C14B-B005-9B96BFD195A8}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5873,7 +5873,7 @@
       CHANMODE 0
       GUID {D9EE9841-1CA3-4842-B8E8-77E24FD262D7}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5900,7 +5900,7 @@
       CHANMODE 0
       GUID {DC271EC2-D893-0E40-95EF-904B4B70915A}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5927,7 +5927,7 @@
       CHANMODE 0
       GUID {86AE35C8-21C3-CE4E-A65E-CF4AD4F4523C}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5954,7 +5954,7 @@
       CHANMODE 0
       GUID {56742B75-1E1E-2E47-BA72-00ABBD768067}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -5981,7 +5981,7 @@
       CHANMODE 0
       GUID {59ACDF3A-B55B-F441-950F-0A2390C4E6D0}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6008,7 +6008,7 @@
       CHANMODE 0
       GUID {DA56A0B0-E3B1-5540-A5CA-4704ABD69F05}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6035,7 +6035,7 @@
       CHANMODE 0
       GUID {73EE9FF9-D270-654A-9670-7C56ECC485AB}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6062,7 +6062,7 @@
       CHANMODE 0
       GUID {2060E8E1-1300-9C4B-B9C8-32AA393A1F65}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6089,7 +6089,7 @@
       CHANMODE 0
       GUID {1B3B06CA-F95A-E54A-85A6-EF32F8DCC68D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6116,7 +6116,7 @@
       CHANMODE 0
       GUID {9E1E2F41-64A5-2A46-AE0C-7093F2F49512}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6143,7 +6143,7 @@
       CHANMODE 0
       GUID {F74A70CA-2A63-2C4F-AA3D-F19E33DC0004}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6170,7 +6170,7 @@
       CHANMODE 0
       GUID {540FE2EB-5D26-284E-8310-DC170FD92587}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6197,7 +6197,7 @@
       CHANMODE 0
       GUID {5B4DEF91-38DD-F840-A571-CD1627220B6D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6224,7 +6224,7 @@
       CHANMODE 0
       GUID {F55F335C-0E80-D94E-8EFE-91DE71C93304}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6251,7 +6251,7 @@
       CHANMODE 0
       GUID {E64BD75F-A0C8-B04D-B597-098E41715B37}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6278,7 +6278,7 @@
       CHANMODE 0
       GUID {799C062A-ABCF-AA43-B980-874589887218}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6305,7 +6305,7 @@
       CHANMODE 0
       GUID {D4208068-294E-0344-A198-6B43CF0F527B}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6332,7 +6332,7 @@
       CHANMODE 0
       GUID {0D28E4F7-19F5-8543-9707-FCD9F47271FD}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6359,7 +6359,7 @@
       CHANMODE 0
       GUID {93216922-527A-0F42-AD91-F02C49C65A4F}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6386,7 +6386,7 @@
       CHANMODE 0
       GUID {CA75C0D6-9B87-8B4D-B486-0EECDFFD313A}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6413,7 +6413,7 @@
       CHANMODE 0
       GUID {0529E540-2D1E-8F49-9D42-DC932EBEEB44}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6440,7 +6440,7 @@
       CHANMODE 0
       GUID {D19D4981-DCF2-8A40-A5BF-0AF4BF6A3810}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6467,7 +6467,7 @@
       CHANMODE 0
       GUID {0073DBCB-6ED0-904B-9015-7854B23BE029}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6494,7 +6494,7 @@
       CHANMODE 0
       GUID {2083CD61-828C-374B-A6E8-70BBBF908D03}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6521,7 +6521,7 @@
       CHANMODE 0
       GUID {2EB3FEF6-03B9-7743-9634-3D68B8881D29}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6548,7 +6548,7 @@
       CHANMODE 0
       GUID {A6621746-D0C6-4448-B56F-6FD1403D54BB}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -6570,7 +6570,7 @@
       CHANMODE 0
       GUID {ADB879C2-D4F5-2948-9D25-867FA0BA2273}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -6592,7 +6592,7 @@
       CHANMODE 0
       GUID {6FFB8E72-7E72-FA40-B7CF-1FADD88768F1}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -6614,7 +6614,7 @@
       CHANMODE 0
       GUID {72013F15-9B08-2644-A6BF-B1C4F2B206B5}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -6636,7 +6636,7 @@
       CHANMODE 0
       GUID {BC4E03DA-C160-1640-9E06-DA4E948AA10A}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -6658,7 +6658,7 @@
       CHANMODE 0
       GUID {B85C7ED3-1F2E-9C43-9565-868ACE006200}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -6680,7 +6680,7 @@
       CHANMODE 0
       GUID {61DFB2B6-CE0B-5244-AB7A-F4446FADE0EC}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -6702,7 +6702,7 @@
       CHANMODE 0
       GUID {6F14E322-FC76-E840-9872-08371A928DBF}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6729,7 +6729,7 @@
       CHANMODE 0
       GUID {D95497C2-7393-5841-95D3-E8EC8A426501}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6756,7 +6756,7 @@
       CHANMODE 0
       GUID {0257F718-9C6B-B64D-90AC-A8C62CAEDF47}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6783,7 +6783,7 @@
       CHANMODE 0
       GUID {9E2DDE1E-6011-5C4B-ACFD-8AF4758035D6}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6810,7 +6810,7 @@
       CHANMODE 0
       GUID {9F9148D4-0462-F641-9C7F-1F24A2FD13E7}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6837,7 +6837,7 @@
       CHANMODE 0
       GUID {36B3A545-37C2-2149-8506-B06844F69831}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6864,7 +6864,7 @@
       CHANMODE 0
       GUID {C4F32479-E6C6-1A44-A3DE-A6B235A0F9B1}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6891,7 +6891,7 @@
       CHANMODE 0
       GUID {A881CA64-68EF-084E-A5C8-0BE761622F9B}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6918,7 +6918,7 @@
       CHANMODE 0
       GUID {BF67D7EB-C68A-B345-BD91-EB025710DB3D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6945,7 +6945,7 @@
       CHANMODE 0
       GUID {F08B3A78-008D-ED40-89F1-94F0A0742638}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6972,7 +6972,7 @@
       CHANMODE 0
       GUID {355001BB-A121-2C48-A022-6D47499E4B6D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -6999,7 +6999,7 @@
       CHANMODE 0
       GUID {F1D611BC-FACE-1144-9CFE-D6582396E685}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
       TKM 953.0353 "Joe feels the same, closest to god he feels is through espeirences..." 31850521
       TKM 3394.3656 '"Did this change realtionsihpw ith abilities/"' 31850537
@@ -10287,7 +10287,7 @@
       CHANMODE 0
       GUID {E9A07EF2-D806-994A-99BB-3AFF381B6ED3}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10309,7 +10309,7 @@
       CHANMODE 0
       GUID {518390FD-A1D2-D643-86E8-54EE329422D6}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10331,7 +10331,7 @@
       CHANMODE 0
       GUID {F38D67C8-95A3-A04D-B47D-17D78BE29467}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10353,7 +10353,7 @@
       CHANMODE 0
       GUID {4315A79A-3740-534E-B092-B3F3072AF9AE}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10375,7 +10375,7 @@
       CHANMODE 0
       GUID {60E2ED44-97AF-7349-8543-E8D79D675F37}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10397,7 +10397,7 @@
       CHANMODE 0
       GUID {2C95537E-DE2C-8E40-A81A-C3E4AAEB9BAE}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10419,7 +10419,7 @@
       CHANMODE 0
       GUID {624D3E5A-4B1C-5540-98E5-3C1142476AB4}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10441,7 +10441,7 @@
       CHANMODE 0
       GUID {D2BFEE3C-E7D0-6B45-A59A-D3B2D0C3F296}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10463,7 +10463,7 @@
       CHANMODE 0
       GUID {D911F7B3-13B2-0542-9F15-48252C6D3139}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10485,7 +10485,7 @@
       CHANMODE 0
       GUID {17326A65-FBEE-DD42-9F57-108A93ADF9C1}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10507,7 +10507,7 @@
       CHANMODE 0
       GUID {7C160969-E9EC-3B43-9BCE-FF22BA7CF4FB}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10529,7 +10529,7 @@
       CHANMODE 0
       GUID {AC671DC2-C841-0648-B851-2FECCDD32ED0}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10551,7 +10551,7 @@
       CHANMODE 0
       GUID {6B33BA12-4BEC-724F-AF47-E3B7EEA71E70}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10573,7 +10573,7 @@
       CHANMODE 0
       GUID {A12B848E-80B5-C142-9265-32E48F0E42ED}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10595,7 +10595,7 @@
       CHANMODE 0
       GUID {56B9A74C-FB87-3549-B57F-FD42D0B1E311}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -10617,7 +10617,7 @@
       CHANMODE 0
       GUID {99617B7A-D357-C44F-91FC-BD6CA3B8D165}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_Zoom_AshleyCall_20211121-glued.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/modified (delete on 1:1:2024)/02_Zoom_AshleyCall_20211121-glued.wav"
       >
     >
     <ITEM
@@ -11479,7 +11479,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -12480,7 +12480,7 @@
       CHANMODE 0
       GUID {263E5C17-8AF8-1648-A1FC-61D991B9C082}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12502,7 +12502,7 @@
       CHANMODE 0
       GUID {0F8FF0C3-34F6-D14E-9BAF-4152E66C842A}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12524,7 +12524,7 @@
       CHANMODE 0
       GUID {A687512C-AA84-FC42-81DD-C553D70D353D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12546,7 +12546,7 @@
       CHANMODE 0
       GUID {FEF842F3-30AC-EE42-8873-FA6A06822DBB}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12568,7 +12568,7 @@
       CHANMODE 0
       GUID {7FB42059-7CC2-CA4F-9735-3E227BABF811}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12590,7 +12590,7 @@
       CHANMODE 0
       GUID {9731C319-10F8-B049-A2BA-75611762B241}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12612,7 +12612,7 @@
       CHANMODE 0
       GUID {117CDDD3-056F-1941-983C-1FA851349039}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12634,7 +12634,7 @@
       CHANMODE 0
       GUID {A07E9C0D-2685-E948-B510-99F97C1A2366}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12656,7 +12656,7 @@
       CHANMODE 0
       GUID {0B7E7EE4-C9CF-0D44-90E7-4F2C00DB8F54}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12678,7 +12678,7 @@
       CHANMODE 0
       GUID {A3A8163E-6A7C-4748-B9F3-BA206FBB89D9}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12700,7 +12700,7 @@
       CHANMODE 0
       GUID {EE62989C-30E0-3742-9BFC-D15C17994534}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12722,7 +12722,7 @@
       CHANMODE 0
       GUID {34D49C90-BD59-1B4F-8109-015527E51BA4}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12744,7 +12744,7 @@
       CHANMODE 0
       GUID {A3DC1387-20D2-7B43-9619-7E729371E974}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12766,7 +12766,7 @@
       CHANMODE 0
       GUID {500F821A-87A2-CA43-905C-D8BB5E464095}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12788,7 +12788,7 @@
       CHANMODE 0
       GUID {350C8F68-A155-4049-A932-29A964F9579B}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12810,7 +12810,7 @@
       CHANMODE 0
       GUID {3823A692-0146-6A40-872D-B321CB62FF5F}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12832,7 +12832,7 @@
       CHANMODE 0
       GUID {962A4E98-8BCE-2541-9387-7D0436314EE2}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12854,7 +12854,7 @@
       CHANMODE 0
       GUID {FFFC09D4-7164-FB41-A0FF-B9ED2B0123A7}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12876,7 +12876,7 @@
       CHANMODE 0
       GUID {DEE0D6CA-363F-9840-A50F-57165DFE94FE}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12898,7 +12898,7 @@
       CHANMODE 0
       GUID {50FF501C-64A1-5345-96A2-650D5905D498}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12920,7 +12920,7 @@
       CHANMODE 0
       GUID {BAFF0F7B-FEDA-3E46-AB79-FF8048A69B59}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12942,7 +12942,7 @@
       CHANMODE 0
       GUID {720648ED-E891-8B46-BAA7-05DC1BD29A33}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12964,7 +12964,7 @@
       CHANMODE 0
       GUID {A24EF926-60A9-2044-9DEB-FF6BE8EBF411}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -12986,7 +12986,7 @@
       CHANMODE 0
       GUID {00FFE5D7-62C4-0A43-B267-0B479677DEFD}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13008,7 +13008,7 @@
       CHANMODE 0
       GUID {F2E1C544-E3FD-AC4C-B02C-0B31EEFCA960}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13030,7 +13030,7 @@
       CHANMODE 0
       GUID {9290C556-5FFE-BC45-AA4A-3265AE4DEC6D}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13052,7 +13052,7 @@
       CHANMODE 0
       GUID {BAC93A1A-C131-384C-BAA1-335C55BA2F30}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13074,7 +13074,7 @@
       CHANMODE 0
       GUID {F6C8B099-F335-9245-B46E-6E1A43F3D571}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13096,7 +13096,7 @@
       CHANMODE 0
       GUID {3BE2EA7E-9962-BF48-A331-0AF3DDC5E744}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13118,7 +13118,7 @@
       CHANMODE 0
       GUID {E6ED8234-64D9-D449-872D-CDF1AFDD89ED}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13140,7 +13140,7 @@
       CHANMODE 0
       GUID {120AE459-5E2E-BB46-9F5C-8B7C9E8B2B8A}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13162,7 +13162,7 @@
       CHANMODE 0
       GUID {DBD2111A-3A93-4943-9936-6DEDB64A196F}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13184,7 +13184,7 @@
       CHANMODE 0
       GUID {6920FD04-66FA-B640-90F3-1D642681FCAF}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13206,7 +13206,7 @@
       CHANMODE 0
       GUID {C4585291-16B7-E146-88DD-812718D717A4}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13228,7 +13228,7 @@
       CHANMODE 0
       GUID {BD38AB37-6A5C-964B-A01E-E7A0A6084D5B}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13250,7 +13250,7 @@
       CHANMODE 0
       GUID {F7A1600C-F7B5-9446-BF1E-93673680B66E}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13272,7 +13272,7 @@
       CHANMODE 0
       GUID {9A7CBE2C-5244-364D-A5C9-2525D6A4FEDF}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13294,7 +13294,7 @@
       CHANMODE 0
       GUID {7F2AA94A-1F34-C84F-A85A-10F6F615B529}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13316,7 +13316,7 @@
       CHANMODE 0
       GUID {930166F0-F4DB-9047-A65C-F8C5645A80FF}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13338,7 +13338,7 @@
       CHANMODE 0
       GUID {69BED2CF-CCEA-3E4B-A2A3-BB1093239EF5}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13360,7 +13360,7 @@
       CHANMODE 0
       GUID {31D27E1A-B956-A44F-8F1F-8299B95D0F22}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM
@@ -13382,7 +13382,7 @@
       CHANMODE 0
       GUID {99AD9A2A-8A51-7B48-BCAF-5199F2073AAB}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
   >
@@ -15363,7 +15363,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -15462,7 +15462,7 @@
       CHANMODE 0
       GUID {061155B7-2DC8-FC44-87D5-BF0161AFDFB8}
       <SOURCE WAVE
-        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/02_J_AshleyCallAndFirstPostscript_20211121.wav"
+        FILE "/Users/evanm/Library/CloudStorage/GoogleDrive-synchropd@gmail.com/My Drive/Sessions/Ep2_Divination/Audio/AshleyCall/02_J_AshleyCallAndFirstPostscript_20211121.wav"
       >
     >
     <ITEM

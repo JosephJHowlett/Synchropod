@@ -1,5 +1,5 @@
-<REAPER_PROJECT 0.1 "7.02/macOS-arm64" 1700335607
-  RIPPLE 2
+<REAPER_PROJECT 0.1 "7.02/macOS-arm64" 1703888056
+  RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
   ENVATTACH 3
@@ -12,9 +12,9 @@
   MAXPROJLEN 0 0
   GRID 3198 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
-  CURSOR 390.47326380513954
-  ZOOM 2.72389793628982 359 0
-  VZOOMEX 13.48999977 0
+  CURSOR 2634.0264547740476
+  ZOOM 96.97245049951906 255005 0
+  VZOOMEX 13.48999977 1068
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -55,8 +55,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 685.34850346822816 685.34850346822816
-  SELECTION2 685.34850346822816 685.34850346822816
+  SELECTION 2634.0986402242856 2634.0883280171088
+  SELECTION2 2634.0986402242856 2634.0883280171088
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -95,7 +95,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 0 0 0 0 0
+    BUSCOMP 2 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -124,7 +124,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -269,7 +269,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -408,7 +408,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -537,7 +537,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 0 0 0 0 0
+    BUSCOMP 2 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -567,7 +567,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -900,7 +900,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1210,7 +1210,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1520,7 +1520,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1844,7 +1844,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2149,7 +2149,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 0 0 0 0 0
+    BUSCOMP 2 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -2178,7 +2178,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2356,7 +2356,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2605,7 +2605,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2756,7 +2756,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 0 0 0 0 0
+    BUSCOMP 2 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0
     SEL 0
@@ -2787,7 +2787,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3054,7 +3054,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3321,7 +3321,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3477,7 +3477,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3606,7 +3606,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 0 0 0 0 0
+    BUSCOMP 2 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -3654,10 +3654,10 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -4491,7 +4491,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {A766A760-FF86-E449-947C-EFBCB4BB8703}
       IID 18
       NAME 01_E_RandEventsChatRoulette_20220327_02.wav
@@ -4513,7 +4513,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {6F9C2709-5A39-EB4A-8BFB-289285473836}
       IID 18
       NAME 01_E_RandEventsChatRoulette_20220327_02.wav
@@ -4539,10 +4539,10 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -5351,7 +5351,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {DF1D5430-DD90-9F4A-8E33-C07C9FF42FFD}
       IID 19
       NAME 01_J_RandEventsChatRoulette_20220327.wav
@@ -5373,7 +5373,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {E9C990B1-4B92-1D42-91FC-305A16005754}
       IID 19
       NAME 01_J_RandEventsChatRoulette_20220327.wav
@@ -5399,10 +5399,10 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -6221,7 +6221,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {2F90DD25-7D8D-2845-ADA0-C3D00239C334}
       IID 23
       NAME 01_T_RandEventsChatRoulette_20220327.wav
@@ -6244,7 +6244,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {E8E7B8C6-ED59-F847-9FE3-A654F3C4F987}
       IID 23
       NAME 01_T_RandEventsChatRoulette_20220327.wav
@@ -6274,7 +6274,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -7228,7 +7228,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 0 0 0 0 0
+    BUSCOMP 1 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
@@ -7257,7 +7257,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -7612,7 +7612,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -7973,7 +7973,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -8328,10 +8328,10 @@
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 436 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -8511,6 +8511,295 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {E99822AA-81CE-9545-9090-EF27C6E0F3E4}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2550.5448905174612
+      SNAPOFFS 0
+      LENGTH 64.1734958000452
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {266BB8EB-D76B-6D4E-9A04-395452DB78A5}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 880.70328282356331
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {269341C1-B054-F442-A80E-A8DEEF845E16}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2614.7183863175064
+      SNAPOFFS 0
+      LENGTH 1.7491173247754
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D3796E0-CBD9-164B-B690-408EEBF1D3D0}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 944.87677862360852
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F87C394D-15E5-1143-A21B-92B1E1C9A3FE}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2616.4675036422818
+      SNAPOFFS 0
+      LENGTH 17.55895113176575
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0EF553FC-96EB-CF44-8583-D77766FCA014}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 946.62589594838391
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DACB303-4AB3-C44C-8EFE-9ECB7D01AE7D}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2634.0264547740476
+      SNAPOFFS 0
+      LENGTH 2.056656911333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7623282D-56EF-5341-BF0B-8F8DAB23C6EC}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 964.18484708014967
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3F91588-6132-BF47-89D7-BE533587B2E4}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2636.129938711063
+      SNAPOFFS 0
+      LENGTH 2.29528659712059
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC14E40F-F1D6-1845-94B8-4B65C23285EF}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 971.61102060103758
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59BB80B4-F278-8C44-8E2E-C28A90150125}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2638.425225308165
+      SNAPOFFS 0
+      LENGTH 0.19733233188163
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0074D11E-BB25-754D-A50D-2F08483E8115}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 973.90630719815863
+      PLAYRATE 0.99999999998619 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5CB7959-7374-E640-B7CA-BF81D60E26A1}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2638.6329435523367
+      SNAPOFFS 0
+      LENGTH 5.32011582170207
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {89F71C19-9BB2-D547-8D6B-2A52051DDC85}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 978.61444949065663
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {808A762C-2F35-9D45-AC80-CB0B73A2D14F}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2644.0635711033829
+      SNAPOFFS 0
+      LENGTH 3.46113003858227
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B535DCF9-482C-934B-AADD-96D52FB1D1CC}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 995.4336312145806
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86B02C4B-3DD2-EE49-9932-82BC80154E3E}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2647.5247011419851
+      SNAPOFFS 0
+      LENGTH 4.83847541055002
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B356D675-CCB4-A54D-9643-8AD278176EFE}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1003.7260563392792
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DEA945F-0DF0-6B48-ACB3-A6EBC95AC973}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2652.5009407174075
+      SNAPOFFS 0
+      LENGTH 20.75108958267083
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {17183413-D278-D246-B552-162911770E71}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1020.431487001742
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE1960BE-230B-5D49-BA4F-D3F4399AD6BB}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+    <ITEM
+      POSITION 2676.0939182323636
+      SNAPOFFS 0
+      LENGTH 5.08728124474874
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3596AD77-319E-D049-8FDC-F84D892CA3DE}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1041.1825765844146
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B71DEC0-F8DE-C442-A0B7-FE73F29A407A}
+      <SOURCE WAVE
+        FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
+      >
+    >
+  >
+  <TRACK {A0CFFE9A-A1E7-5840-BEAC-3EFF8E211171}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A0CFFE9A-A1E7-5840-BEAC-3EFF8E211171}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 2614.7138291255251
+      SNAPOFFS 0
+      LENGTH 1.74911732477494
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07570809-64A3-0645-B7C0-D22A2797E7C0}
+      IID 421
+      NAME 01_J_FirstRandomBookArgument_20220312.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 944.87677862360852
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A876C88-B344-B743-A933-7546B3341262}
       <SOURCE WAVE
         FILE 'Audio/"Randoms 1" 3-12-22/Book Reading Argument/01_J_FirstRandomBookArgument_20220312.wav'
       >
