@@ -1,0 +1,394 @@
+<REAPER_PROJECT 0.1 "7.05/macOS-arm64" 1710200772
+  <NOTES 0 2
+  >
+  RIPPLE 1
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3198 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 0.17498230627573 0 0
+  VZOOMEX 10.04083252 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Audio" ""
+  <RECORD_CFG
+    ZXZhdxgAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {B129A482-0C07-124C-B81B-D42B741F6755}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {ADE66F0C-490A-2B41-B1BC-AC7459913C48}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 1279.9305625444529 "Tom's Intro" 0 0 1 B {B14E89DF-3784-CB43-B0F6-B46A2445D080} 0
+  <PROJBAY
+  >
+  <TRACK {04E839D9-6632-3A4B-9614-DE87BB87A7CA}
+    NAME "02_E_VoG_20240309.wav_03 copy"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {04E839D9-6632-3A4B-9614-DE87BB87A7CA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 351.77482313985087
+      SNAPOFFS 12.23188313697847
+      LENGTH 8487.8017291666656
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F940956F-5E00-9A4C-9F81-B0ECCB30774A}
+      IID 1
+      NAME "Copy of 02_E_VoG_20240309.wav_03 copy.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21A8F302-09E7-DB41-95F4-E6D6A505374C}
+      <SOURCE WAVE
+        FILE "Audio/VoG_20240309/Copy of 02_E_VoG_20240309.wav_03 copy.wav"
+      >
+      TKM 2128.9956 '"Ghosts are real"' 31850505
+      TKM 2262.2292 "Blank 0" 31857444
+      TKM 2495.0537 '"...we are going tinto this looking for evidence..."' 31850511
+      TKM 2735.2549 "Blank 0" 31850522
+      TKM 2988.6285 "Blank 1" 31863563
+      TKM 2998.3523 '"J do you think poeple can speak to the dead?"' 31850504
+      TKM 3749.5531 "Blank 0" 31854364
+      TKM 3801.1611 "Blank 1" 31850509
+      TKM 5158.3225 `I mock for saying "You didn't know"` 31850515
+      TKM 5311.8132 "Did you believe in the moment?" 31856157
+      TKM 5512.5256 `"Doesn't negate that ghosts are real..." Good laugh from joe` 31850526
+      TKM 7104.0495 "" 30533591
+      TKM 7191.3146 "Response to my feeling of ashley's reading of me" 31850536
+      TKM 7546.5261 "I ask Joe abou his reaction to her reading AFTER READING" 31857435
+      TKM 7711.0704 'reapeat "God exists through his interactions with others"' 31856146
+      TKM 7789.6259 '"Not just a dude int he sky banging angles"' 31850496
+      TKM 7829.4274 "Joe's flip flop attitude convo" 31850501
+      TKM 8107.4771 'Refernecing show title "T do you believe?"' 31850512
+      TKM 8414.0526 End 31850510
+    >
+  >
+  <TRACK {351D735D-7698-6E4D-A2D1-3F340808E5AE}
+    NAME 02_T_VoG_20240309_1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {351D735D-7698-6E4D-A2D1-3F340808E5AE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 365.45922079712619
+      SNAPOFFS 3.77877618480534
+      LENGTH 7456.8470625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D33A729-05C7-3248-86FD-1619A94AC9FC}
+      IID 4
+      NAME "Copy of 02_T_VoG_20240309_1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D03926AE-2E40-1E4E-AFA6-5AAF00C96D56}
+      <SOURCE WAVE
+        FILE "Audio/VoG_20240309/Copy of 02_T_VoG_20240309_1.wav"
+      >
+      TKM 1019.6302 "Tom asks E about Tarrot" 31857442
+      TKM 1217.922 "blank 0" 31865102
+      TKM 1246.6536 "Blank 1" 31850507
+      TKM 1625.5479 "Blank 0" 0
+      TKM 1663.1141 "Blank 1" 0
+      TKM 1717.2961 "Blank 0" 0
+      TKM 2257.9045 Blank1 31850496
+      TKM 2263.2691 "Blank 0" 31856143
+      TKM 2286.6962 "Blank 1" 31854619
+      TKM 2615.7168 "Blank 0" 31863092
+      TKM 2634.1202 "Blank 1" 31861284
+      TKM 3081.2138 "does he believe it was grandpa" 31850506
+      TKM 3192.458 "Talk about how he was feeling, emotional state, why he chose him" 31850522
+      TKM 4348.156 "End Tom Grandpa talk" 31850508
+      TKM 4988.8422 "Tom says he was crying a bit" 31850762
+      TKM 5392.2872 "so who cares if it's real" 31850508
+      TKM 5508.0471 "Blank 0" 31856141
+      TKM 5709.7114 "Blank 1" 31850496
+      TKM 5714.0623 `Evan's reaction question, "evan your life was a mess"` 31850516
+      TKM 5906.7868 "Blank 0" 31850515
+      TKM 7167.8904 "BLank 1`" 31850510
+      TKM 7230.1761 "Blank 0" 31850514
+      TKM 7308.4718 '"Does E feel surprised a stranger said what she did?"' 31850521
+    >
+    <ITEM
+      POSITION 7822.3062832971254
+      SNAPOFFS 0
+      LENGTH 1018.6026666666648
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3B159D0-4221-3047-A7D9-71BF538DF7C6}
+      IID 5
+      NAME "Copy of 02_T_VoG_20240309_2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {521B9C3F-9AC9-3D4E-8AAF-30C0627C40F0}
+      <SOURCE WAVE
+        FILE "Audio/VoG_20240309/Copy of 02_T_VoG_20240309_2.wav"
+      >
+      TKM 554.7867 "FReferencing fight from previous episode" 31850505
+      TKM 849.5634 "Tom asks E if he want's to believe" 31850496
+    >
+  >
+  <TRACK {45EF947A-573A-9046-BD09-357CE3EE0F07}
+    NAME 02_Zoom_VoG_20240309
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {45EF947A-573A-9046-BD09-357CE3EE0F07}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 75.11390974646747
+      SNAPOFFS 2228.8860902535325
+      LENGTH 8964.3519999999971
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {86BC0965-B4DB-E34B-9AAF-7CBC0A9741F3}
+      IID 6
+      NAME "Copy of 02_Zoom_VoG_20240309.mp4"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85A6B6E1-B62B-824B-83DC-27E093565FCA}
+      <SOURCE VIDEO
+        FILE "Audio/VoG_20240309/Copy of 02_Zoom_VoG_20240309.mp4"
+      >
+      TKM 7806.9489 "TO me it was amazing" 31864349
+    >
+  >
+  <TRACK {D1BEE054-1BA3-EB49-B9D9-41D23C54610F}
+    NAME "Copy of 02_J_VoG_20240309_1"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D1BEE054-1BA3-EB49-B9D9-41D23C54610F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 304.35947228126008
+      SNAPOFFS 51.6185308705692
+      LENGTH 1924.0734166666653
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F099F96-278B-AD4A-AD57-3F36EA0C78A6}
+      IID 2
+      NAME "Copy of 02_J_VoG_20240309_1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56E0BACE-646E-B141-9CA0-979E96BA9B03}
+      <SOURCE WAVE
+        FILE "Audio/VoG_20240309/Copy of 02_J_VoG_20240309_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 2293.8844025905328
+      SNAPOFFS 10.11823610219517
+      LENGTH 6543.824749999987
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9D79679A-EAF1-D045-901C-6DD1F0F26807}
+      IID 3
+      NAME "Copy of 02_J_VoG_20240309_2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AD10A14-0125-8F43-861B-16D8C562496E}
+      <SOURCE WAVE
+        FILE "Audio/VoG_20240309/Copy of 02_J_VoG_20240309_2.wav"
+      >
+      TKM 98.7195 "Joe's Intro" 31850519
+      TKM 397.8061 '"Tom do you believe people can talk to dead"' 31861804
+      TKM 761.5578 "Cold Reading fear" 31850512
+      TKM 1143.6889 '"T do you believe it was your actual Grandpa?"' 31850516
+      TKM 1934.4656 '"T just tell us about him (Jim Mills)"' 31916055
+      TKM 2420.4522 "Blank 0" 31864343
+      TKM 2562.1984 `"I'm going surfging after this, Two waves in two hours"` 31850515
+      TKM 2792.1639 "Blank 1" 31850496
+      TKM 2803.1017 `"Tom's Feelings"` 31850509
+      TKM 2828.4937 "Blank 0" 31850496
+      TKM 3018.5174 "Blank 1" 31857172
+      TKM 3043.3031 '"Tom when you hear yourself there waht are you hearing?"' 31850496
+      TKM 3468.27 "interesting because of the name of our show" 31860247
+      TKM 5625.8186 "JOE'S REACTION TO ASHLEY'S GOD CONNECTION" 31855624
+      TKM 5738.1713 `"I'M A SAD ATHIESEST"` 31850496
+      TKM 5809.0141 `"I've talked to your paretns a lot about E"` 31850498
+      TKM 6134.2196 "All talking about not listening to our brain that says no" 31861778
+    >
+  >
+>
